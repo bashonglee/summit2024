@@ -6,6 +6,8 @@ services:
     restart: always
     networks:
       - traefik-access
+    volumes:
+      - "./:/var/www/html"
     labels:
      - "traefik.enable=true"
      - "traefik.docker.network=traefik-access"
