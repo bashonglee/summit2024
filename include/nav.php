@@ -27,10 +27,7 @@
 					
 					<!-- Logo Block -->
 					<div class="col-md-4 col-sm-4 col-xs-12 logo-block">
-						<a href="index.html" title="Logo">
-							<img src="images/cl1.png" alt="logo" width="583" height="200"/>
-							<h3></h3>
-						</a>
+						
 					</div><!-- Logo Block /- -->
 				</div>
 			</div><!-- Container /- -->
