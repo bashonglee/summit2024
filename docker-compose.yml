@@ -4,6 +4,8 @@ services:
   website:
     image: php:8.1-apache
     restart: always
+    networks:
+      - traefik-access
     labels:
      - "traefik.enable=true"
      - "traefik.docker.network=traefik-access"
@@ -17,3 +19,8 @@ services:
      - "traefik.http.routers.carisca-summit-2024.middlewares=wp-ratelimit,carisca-summit-2024-stripprefix"
 #     - "traefik.http.routers.carisca-summit-2024.middlewares=maintenance"
      - "traefik.http.services.carisca-summit-2024.loadbalancer.server.port=80"
+
+networks:
+  traefik-access:
+    external: true
+    name: traefik-access
