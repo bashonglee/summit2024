@@ -4,5 +4,16 @@ services:
   website:
     image: php:8.1-apache
     restart: always
-    ports:
-      - 8024:80
+    labels:
+     - "traefik.enable=true"
+     - "traefik.docker.network=traefik-access"
+     - "traefik.http.middlewares.wp-ratelimit.ratelimit.average=10"
+     - "traefik.http.middlewares.wp-ratelimit.ratelimit.burst=50"
+     - "traefik.http.middlewares.carisca-summit-2024-stripprefix.stripprefix.prefixes=/summit2024"
+     - "traefik.http.routers.carisca-summit-2024.rule=Host(`carisca.knust.edu.gh`)&&PathPrefix(`/summit2024/`)"
+     - "traefik.http.routers.carisca-summit-2024.entrypoints=https"
+     - "traefik.http.routers.carisca-summit-2024.tls=true"
+     - "traefik.http.routers.carisca-summit-2024.tls.certresolver=le"
+     - "traefik.http.routers.carisca-summit-2024.middlewares=wp-ratelimit,carisca-summit-2024-stripprefix"
+#     - "traefik.http.routers.carisca-summit-2024.middlewares=maintenance"
+     - "traefik.http.services.carisca-summit-2024.loadbalancer.server.port=80"
