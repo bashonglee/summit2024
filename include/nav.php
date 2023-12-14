@@ -18,7 +18,7 @@
 				<div class="row">
 					<!-- Social -->
 					<div class="col-md-8 col-sm-6 col-xs-8 social">
-						<a href="carisca.knust.edu.gh" title="Logo">
+						<a href="https://carisca.knust.edu.gh" title="Logo">
 							<img src="images/photos/cml.png" alt="logo" width="583" height="200"/>
 							<h3></h3>
 						</a>
@@ -84,7 +84,7 @@
 									</ul>
 								</li>
 								<li><a title="FAQs" href="#">FAQs</a></li>
-								<li><a title="Contact" href="contactus.html">Contact Us</a></li>
+								<li><a title="Contact" href="contactus.php">Contact Us</a></li>
 							</ul>
 						</div>
 					</nav><!-- Navigation /- -->

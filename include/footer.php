@@ -101,9 +101,17 @@
 		Container /- -->	
 		
 		<!-- Container -->
-		<div class="container">		<div class="container">
-        <a href="carisca.knust.edu.gh"><img src="images/photos/trilogo.png" style="width:100%; position: relative;"></a>
-  
+		
+		
+		
+	</footer><!-- Footer Main /- -->
+	
+	<div class="container">
+        		<a href="https://carisca.knust.edu.gh"><img src="images/photos/trilogo.png" style="width:100%; position: relative;"></a>
+		</div>
+<!-- Footer Main -->
+<footer class="footer-main container-fluid no-padding" style="padding-top: 10px;">
+		<div class="container">  
 			<div class="footer-menu">
 				<!-- Copyrights -->
 				<div class="copyrights ow-pull-left">
@@ -128,7 +136,7 @@
 				</nav><!-- Navigation /- -->
 			</div><!-- Footer Menu /- -->
 		</div><!-- Container /- -->
-	</footer><!-- Footer Main /- -->
-	
-	
+
+		</footer><!-- Footer Main /- -->
+
 </body>
