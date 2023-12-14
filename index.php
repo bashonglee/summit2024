@@ -84,6 +84,9 @@
 	<!-- Latest News -->
 	<div class="container-fluid latest-blog latest-blog-section no-padding">
 		<div class="container">	
+		<div class="section-header">
+								<h3>CALL FOR PAPERS ARE NOW OPEN</h3>
+		</div>
 			<div class="row">
 				<div class="col-md-6 col-sm-6 col-xs-12">
 					<article class="type-post">
