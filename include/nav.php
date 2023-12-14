@@ -54,7 +54,7 @@
 						</div>
 						<div class="navbar-collapse collapse" id="navbar">
 							<ul class="nav navbar-nav menubar">
-								<li class="active"><a title="Home" href="index.html">Home</a></li>
+								<li class="active"><a title="Home" href="index.php">Home</a></li>
 								<li class="dropdown">
 									<a aria-expanded="false" aria-haspopup="true" role="button" class="dropdown-toggle" title="Program" href="#">Program</a>
 									<i class="ddl-switch fa fa-angle-down"></i>
