@@ -50,7 +50,6 @@
 								<span class="icon-bar"></span>
 								<span class="icon-bar"></span>
 							</button>
-							<a title="Logo" href="#" class="navbar-brand"><img src="images/cl1.png" alt="logo"/><span>CARISCA 2024 SUMMIT</span></a>
 						</div>
 						<div class="navbar-collapse collapse" id="navbar">
 							<ul class="nav navbar-nav menubar">

@@ -7,7 +7,7 @@
 		<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 			<div class="carousel-inner" role="listbox">
 				<div class="item active">
-					<img src="images/photos/hero.jpg" alt="slide1" width="1920" height="770"/>
+					<img src="images/photos/bmic.jpg" alt="slide1" width="1920" height="770"/>
 					<div class="carousel-caption">
 						<div class="container">
 							<div class="col-md-5 col-sm-6 col-xs-9 pull-right">
