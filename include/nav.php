@@ -77,12 +77,12 @@
 
 										-->
 								<li class="dropdown">
-									<a aria-expanded="false" aria-haspopup="true" role="button" class="dropdown-toggle" title="Gallery" href="#">Gallery</a>
+									<a aria-expanded="false" aria-haspopup="true" role="button" class="dropdown-toggle" title="Gallery" href="gallery.php">Gallery</a>
 									<i class="ddl-switch fa fa-angle-down"></i>
 									<ul class="dropdown-menu">
-										<li><a title="2023" href="#">2023 Summit</a></li>
-										<li><a title="2022" href="#">2022 Summit</a></li>
-										<li><a title="2021" href="#">2021 Summit</a></li>
+										<li><a title="2023" href="gallery.php#2023">2023 Summit</a></li>
+										<li><a title="2022" href="gallery.php#2022">2022 Summit</a></li>
+										<li><a title="2021" href="gallery.php#2021">2021 Summit</a></li>
 									</ul>
 								</li>
 
