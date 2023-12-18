@@ -62,30 +62,35 @@
 									The fourth annual Supply Chain Research Summit is set for June 4-6, 2024, in Nairobi, Kenya. Organized in collaboration with Strathmore University, the summit will be presented in a hybrid format. The in-person venue is the <a href="https://www.radissonhotels.com/en-us/hotels/radisson-blu-nairobi-upper-hill">Radisson Blu Hotel</a>, Nairobi Upper Hill. Attendees and speakers may also participate virtually via Zoom. .</p>
 							</div>									
 							
-						</div>
+						
+				<br><br>
+				
+					<div class="section-header">
+								<h3>ABOUT THE THEME</h3>
+									<p style="text-align: justify;">Resilient supply chains are vital for the success of businesses and societies. Given the frequent and costly supply chain disruptions in Africa, increased investment in supply chain resilience on the continent is a pressing need.
+									<br><br>
+									Current proposals for addressing these issues are primarily at the macro level and often lack solid grounding in theory-validated frameworks. Furthermore, while studies on the drivers of supply chain resilience are growing rapidly, research specific to African supply chains remains limited.
+									<br><br>
+									Addressing these supply chain resilience themes requires a forum such as the 2024 Supply Chain Research Summit. There, supply chain scholars will brainstorm and share ideas on how Africa’s supply chains can be repositioned to drive the continent’s economic transformation agenda.
+									</p>
+					</div>
+
+					</div>
 					</div>
 				</div>
-				<br><br>
-				<div class="section-header">
-								<h3>ABOUT THE THEME</h3>
-									<p style="text-align: justify;">While Africa’s economy appears promising, the continent is yet to achieve the necessary economic transformations to enhance stability and foster the growth of economic resources. These are necessary for addressing its growing grand social and environmental challenges.<br><br>
-										Africa’s economic transformation and development hinges on its attractiveness to global and local businesses. However, several challenges undermine that. The majority of these are related to supply chain disruptions.<br><br>
-										Evidence shows that resilient supply chains are vital for the success of businesses and societies. Given the frequent and costly supply chain disruptions in Africa, increased investment in supply chain resilience on the continent is a pressing need.<br><br>
-										Current proposals for addressing these issues are primarily at the macro level and often lack solid grounding in theory-validated frameworks that consider micro-level and context-specific variables. Furthermore, while studies on the drivers of supply chain resilience are growing rapidly, research specific to African supply chains remains limited.<br><br>
-										Addressing these supply chain resilience themes requires a forum such as the 2024 Supply Chain Research Summit. There, supply chain scholars will brainstorm and share ideas on how Africa’s supply chains can be repositioned to drive the continent’s economic transformation agenda.
-										</p>
-							</div>
+
+
 			</div>
 		</div>
 		
 	</div><!-- Howwecan Section /- -->
 
-
+	<br><br><br>
 	<!-- Latest News -->
 	<div class="container-fluid latest-blog latest-blog-section no-padding">
 		<div class="container">	
 		<div class="section-header">
-								<h3>CALL FOR PAPERS ARE NOW OPEN</h3>
+								<h3>CALL FOR PAPERS NOW OPEN</h3>
 		</div>
 			<div class="row">
 				<div class="col-md-6 col-sm-6 col-xs-12">
@@ -98,10 +103,10 @@
 						<div class="col-md-6 col-sm-6 col-xs-6">
 							
 							<div class="entry-title">
-								<a href="https://asu.us2.list-manage.com/track/click?u=7beebdc6c8a3317d91ebb0c8e&id=324581b318&e=606e6c6139" title="Summit Call for Papers"><h3>Call for Papers Now Open</h3></a>
+								<a href="https://asu.us2.list-manage.com/track/click?u=7beebdc6c8a3317d91ebb0c8e&id=324581b318&e=606e6c6139" title="Summit Call for Papers"><h3>Call for Papers</h3></a>
 							</div>
 							<div class="entry-content">
-								<p>Doctoral researchers whose primary affiliation is with a higher education institution in Africa and whose research is in logistics and supply chain management are invited to submit their dissertation proposal to be considered for an award and presentation at the summit. </p>
+								<p>This year’s summit will take an in-depth look at <b> “Africa’s Supply Chain Resilience for Economic Transformation.”</b> We invite you to share your research, knowledge and insights by submitting a paper abstract for presentation at the summit.  </p>
 							</div>
 							<a href="https://asu.us2.list-manage.com/track/click?u=7beebdc6c8a3317d91ebb0c8e&id=324581b318&e=606e6c6139" class="learn-more" title="Learn More">Learn More</a>
 						</div>
@@ -120,7 +125,7 @@
 								<a href="https://asu.us2.list-manage.com/track/click?u=7beebdc6c8a3317d91ebb0c8e&id=7cb5e9cbe3&e=606e6c6139" title="PhD Dissertation Award"><h3>PhD Dissertation Award</h3></a>
 							</div>
 							<div class="entry-content">
-								<p>The summit will include a PhD Dissertation Award competition, as it has in prior years. This competition is meant to showcase the best logistics and supply chain management PhD research projects ... </p>
+								<p>Doctoral researchers whose primary affiliation is with a higher education institution in Africa and whose research is in logistics and supply chain management are invited to submit their dissertation proposal to be considered for an award and presentation at the summit. </p>
 							</div>
 							<a href="https://asu.us2.list-manage.com/track/click?u=7beebdc6c8a3317d91ebb0c8e&id=7cb5e9cbe3&e=606e6c6139" title="Learn More" class="learn-more">Learn More</a>
 						</div>
@@ -168,7 +173,7 @@
 										<p>The CARISCA Summit had a really great mix of attendees who were all so excited to be there and passionate about the topic.</p>										
 										<span>Michelle L’Archeveque Jones, Senior Science & Research Program Manager, USAID, Washington, D.C</span>
 									</div>
-									<img src="images/photos/sumlogoonly.jpg" alt="testimonial1" width="144" height="136"/>
+									<img src="images/photos/michelle.jpg" alt="testimonial1" width="144" height="136"/>
 								</div>
 								<div class="testimonial-box testimonial-left">
 									<div class="testimonial-content">
@@ -176,7 +181,7 @@
 										<span>Assilah Agigi, Lecturer, University of Pretoria, South Africa
 											</span>
 									</div>
-									<img src="images/photos/sumlogoonly.jpg" alt="testimonial1" width="144" height="136"/>
+									<img src="images/photos/assilah.jpg" alt="testimonial1" width="144" height="136"/>
 								</div>								
 							</div>
 						</div>

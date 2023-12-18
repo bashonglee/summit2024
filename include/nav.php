@@ -51,6 +51,7 @@
 						<div class="navbar-collapse collapse" id="navbar">
 							<ul class="nav navbar-nav menubar">
 								<li class="active"><a title="Home" href="index.php">Home</a></li>
+								<!--
 								<li class="dropdown">
 									<a aria-expanded="false" aria-haspopup="true" role="button" class="dropdown-toggle" title="Program" href="#">Program</a>
 									<i class="ddl-switch fa fa-angle-down"></i>
@@ -60,7 +61,10 @@
 										<li><a title="PDW" href="https://asu.us2.list-manage.com/track/click?u=7beebdc6c8a3317d91ebb0c8e&id=9acb240de7&e=606e6c6139">Paper Development Workshop</a></li>
 									</ul>
 								</li>
+
+										-->
 								<li><a title="Register" href="https://asu.us2.list-manage.com/track/click?u=7beebdc6c8a3317d91ebb0c8e&id=324581b318&e=606e6c6139">Register</a></li>
+								<!--
 								<li class="dropdown">
 									<a aria-expanded="false" aria-haspopup="true" role="button" class="dropdown-toggle" title="Travel" href="#">Travel</a>
 									<i class="ddl-switch fa fa-angle-down"></i>
@@ -70,6 +74,8 @@
 										<li><a title="Travel Tips" href="#">Travel Tips</a></li>
 									</ul>
 								</li>
+
+										-->
 								<li class="dropdown">
 									<a aria-expanded="false" aria-haspopup="true" role="button" class="dropdown-toggle" title="Gallery" href="#">Gallery</a>
 									<i class="ddl-switch fa fa-angle-down"></i>
@@ -79,7 +85,9 @@
 										<li><a title="2021" href="#">2021 Summit</a></li>
 									</ul>
 								</li>
-								<li><a title="FAQs" href="#">FAQs</a></li>
+
+								<!--
+								<li><a title="FAQs" href="#">FAQs</a></li> -->
 								<li><a title="Contact" href="contactus.php">Contact Us</a></li>
 							</ul>
 						</div>

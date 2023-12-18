@@ -9,7 +9,7 @@
 			<div class="container">
 				<div class="banner-content-block">
 					<div class="banner-content">
-						<h3>Keep in Touch</h3>
+						<h3>Get in Touch</h3>
 						<ol class="breadcrumb">
 							<li><a href="index.html">Home</a></li>
 							<li class="active">Contact Us</li>
