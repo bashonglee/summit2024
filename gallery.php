@@ -275,8 +275,8 @@
 
 
   <section class="about-sec sec-padding" id="about" data-scroll-index="1">
-        <div class="container">
-                <div class="section-header no-padding">
+        <div class="container no-padding">
+                <div class="section-header no-padding" style="margin-bottom: 0px !important;">
                     <h3 class="wow " data-wow-duration="500ms" id="2021">Images from the 2021 Summit</h3>
                 </div><!--sec-title end-->
         </div>
