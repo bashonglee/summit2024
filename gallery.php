@@ -17,7 +17,7 @@
 
 <section class="about-sec sec-padding" id="about" data-scroll-index="1">
         <div class="container">
-                <div class="sec-title">
+                <div class="section-header no-padding">
                     <h3 class="wow " data-wow-duration="500ms" id="2023">Images from the 2023 Summit</h3>
                 </div><!--sec-title end-->
         </div>
@@ -147,7 +147,7 @@
 
 <section class="about-sec sec-padding" id="about" data-scroll-index="1">
         <div class="container">
-                <div class="sec-title">
+                <div class="section-header no-padding">
                     <h3 class="wow " data-wow-duration="500ms" id="2022">Images from the 2022 Summit</h3>
                 </div><!--sec-title end-->
         </div>
@@ -276,7 +276,7 @@
 
   <section class="about-sec sec-padding" id="about" data-scroll-index="1">
         <div class="container">
-                <div class="sec-title">
+                <div class="section-header no-padding">
                     <h3 class="wow " data-wow-duration="500ms" id="2021">Images from the 2021 Summit</h3>
                 </div><!--sec-title end-->
         </div>
