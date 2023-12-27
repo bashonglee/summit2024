@@ -1,4 +1,175 @@
 <!DOCTYPE html>
+<script src="js/testimonialslider.js">
+<script>
+	window.onload = function() {
+
+		// Testimonials code
+
+		updateTestimonial();
+
+		setInterval(updateTestimonial, 7000);
+
+	}
+
+</script>
+
+<style>
+	@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+			.tcontainer *{
+			box-sizing:border-box;
+			}
+			.tcontainer html, body{
+			height:100%;
+			font: normal 1em/1.5 "Open Sans";
+			background-color:#ddd;
+			background-size:cover;
+			}
+			.tcontainer a{
+			color:#ccc;
+			}
+			.tcontainer .container{
+			width:800px;
+			min-height:315px;
+			margin:0 auto;
+			position:relative;
+			padding-bottom:30px;
+			overflow:hidden;
+			}
+			.tcontainer h1{
+			text-align:center;
+			text-shadow:0 1px white;
+			color:#02303F;
+			}
+			.tcontainer h2{
+			color:#736861; 
+			margin:15px 0 5px;
+			text-shadow:0 1px rgba(255,255,255,0.5);
+			}
+			.tcontainer h6{
+			color:#928566; 
+			margin:0;
+			}
+			.tcontainer input[type="radio"] {
+			position: absolute;
+			width: 1px; /* Setting this to 0 make it invisible for VoiceOver */
+			height: 1px; /* Setting this to 0 make it invisible for VoiceOver */
+			padding: 0;
+			margin: -1px;
+			border: 0;
+			clip: rect(0 0 0 0);
+			overflow: hidden;
+			}
+			.tcontainer label{
+			display:block;
+			width:32%;
+			border: 4px solid white;
+			position:absolute;
+			bottom:5px;
+			cursor: pointer;
+			transition: border-color 0.3s linear;
+			}
+
+			.tcontainer label.second{
+			left:34%;
+			}
+			.tcontainer label.third{
+			left:68%;
+			}
+
+			.tcontainer blockquote{
+			margin:0;
+			padding:30px;
+			width:800px;
+			background-color: #3ab990;
+			color:white;
+			box-shadow: 0 5px 2px rgba(0,0,0,0.1);
+			position:relative;
+			transition: background-color 0.6s linear;
+			}
+
+			.tcontainer blockquote:after { 
+			content: " "; 
+			height: 0; 
+			width: 0; 
+			position: absolute; 
+			top: 100%; 
+			border: solid transparent; 
+			border-top-color: #3ab990;
+			border-left-color:#3ab990;
+			border-width: 10px; 
+			left: 10%; 
+			} 
+			.tcontainer #second:checked ~ .two blockquote {
+			background-color:purple;
+			}
+			.tcontainer .two blockquote:after{
+			border: solid transparent; 
+			border-top-color: purple;
+			border-left-color:purple;
+			border-width: 10px;
+			}
+			.tcontainer #third:checked ~ .three blockquote{
+			background-color:#54885F;
+			}
+			.tcontainer .three blockquote:after{
+			border: solid transparent; 
+			border-top-color: #54885F;
+			border-left-color: #54885F;
+			border-width: 10px;
+			}
+			.tcontainer .quotes{
+			position:absolute;
+			color:rgba(255,255,255,0.5);
+			font-size:5em;
+			}
+			.tcontainer .leftq{
+			top:-25px;
+			left:5px;
+			}
+			.tcontainer .rightq{
+			bottom:-10px;
+			right:5px;
+			}
+			.tcontainer img{
+			float:left;
+			margin-right: 20px;
+			}
+			.tcontainer .slide{
+			position:absolute;
+			left:-100%;
+			opacity:0;
+			transition: all 0.6s ease-in;
+			}
+
+			.tcontainer #first:checked ~ label.first {
+			border-width:6px;
+			border-color:#3ab990;
+			}
+			.tcontainer #second:checked ~ label.second {
+			border-width:6px; border-color:purple;
+			}
+			.tcontainer #third:checked ~ label.third {
+			border:6px solid #54885F;
+			}
+
+			.tcontainer #first:checked ~ div.one {
+			left:0;
+			opacity:1;
+			}
+			.tcontainer #second:checked ~ div.two {
+			left:0;
+			opacity:1;
+			}
+			.tcontainer #third:checked ~ div.three {
+			left:0;
+			opacity:1;
+			}
+
+</style>
+
+
+
 <?php require_once 'include/head.php';?>
 <?php require_once 'include/nav.php';?>
 	
@@ -59,7 +230,7 @@
 								<p style="text-align: justify;">
 									CARISCA’s annual Supply Chain Research Summit is central to our goal to strengthen African supply chain capacity and put Africa’s supply chain research on the map.<br><br>
 									The conference brings together academic and non-academic researchers and public, private and civil society organizations to create an ongoing dialogue addressing complex supply chain challenges.<br><br>
-									The fourth annual Supply Chain Research Summit is set for June 4-6, 2024, in Nairobi, Kenya. Organized in collaboration with Strathmore University, the summit will be presented in a hybrid format. The in-person venue is the <a href="https://www.radissonhotels.com/en-us/hotels/radisson-blu-nairobi-upper-hill">Radisson Blu Hotel</a>, Nairobi Upper Hill. Attendees and speakers may also participate virtually via Zoom. .</p>
+									The fourth annual Supply Chain Research Summit is set for June 4-6, 2024, in Nairobi, Kenya. Organized in collaboration with Strathmore University, the summit will be presented in a hybrid format. The in-person venue is the <a href="https://www.radissonhotels.com/en-us/hotels/radisson-blu-nairobi-upper-hill">Radisson Blu Hotel, Nairobi Upper Hill</a>. Attendees and speakers may also participate virtually via Zoom. .</p>
 							</div>									
 							
 						
@@ -156,63 +327,42 @@
 	</div><!-- Latest News /- -->
 	
 	
+  
+</div>
 	
+
 	<!-- Testimonial Section -->
 	<div class="container-fluid testimonial-section no-padding">
-			<div class="container">
-				<div class="section-header">
-					<h3>Testimonials from 2023 Summit participants</h3>
-					<span></span>
+	<div class="container">	
+	<div class="section-header no-padding">
+					<h3>Testimonials from 2023 Summit participants</h3>					
 				</div>
-				<div class="testimonial-carousel">
-					<div class="testimonial-block row">	
-						<div class="col-md-5 col-sm-12 no-padding">
-							<div class="testimonial-carousel-left">
-								<div class="testimonial-box testimonial-left">
-									<div class="testimonial-content">
-										<p>The CARISCA Summit had a really great mix of attendees who were all so excited to be there and passionate about the topic.</p>										
-										<span>Michelle L’Archeveque Jones, Senior Science & Research Program Manager, USAID, Washington, D.C</span>
-									</div>
-									<img src="images/photos/michelle.jpg" alt="testimonial1" width="144" height="136"/>
-								</div>
-								<div class="testimonial-box testimonial-left">
-									<div class="testimonial-content">
-										<p>What really stood out were the discussions post presentations, the groundwork being done by the Innovation Lab, the collaboration work between academics and practitioners – really inspiring work.</p>										
-										<span>Assilah Agigi, Lecturer, University of Pretoria, South Africa
-											</span>
-									</div>
-									<img src="images/photos/assilah.jpg" alt="testimonial1" width="144" height="136"/>
-								</div>								
-							</div>
-						</div>
-						<div class="col-md-2 col-sm-12">
-							<div class="testimonial-blockquote-circle">	
-								<span><i class="fa fa-quote-right" aria-hidden="true"></i></span>
-							</div>
-						</div>
-						<div class="col-md-5 col-sm-12 no-padding">
-							<div class="testimonial-carousel-right">
-								<div class="testimonial-box testimonial-right">
-									<div class="testimonial-content">
-										<p>The speakers were the crème de la crème in the various fields, which provided us with in-depth knowledge. I must confess, CARISCA has organized the best event I have ever attended. </p>										
-										<span>Timothy Assam, Owner, Besigheid Investment, Accra, Ghana</span>
-									</div>
-									<img src="images/photos/sumlogoonly.jpg" alt="testimonial1" width="144" height="136"/>
-								</div>
-								<div class="testimonial-box testimonial-right">
-									<div class="testimonial-content">
-										<p>It addresses real issues on supply chain. The breakaway topics are very timely. It gets better every year.</p>										
-										<span>Rachel Apio, CPA, Supply Chain Manager, PACE, Kampala, Uganda</span>
-									</div>
-									<img src="images/photos/sumlogoonly.jpg" alt="testimonial1" width="144" height="136"/>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
+	<div class="tcontainer">
+		<div class="container">
+				<input type="radio" name="nav" id="first" checked/>
+				<input type="radio" name="nav" id="second" />
+				<input type="radio" name="nav" id="third" />
+				<label for="first" class="first"></label>
+				<label for="second"  class="second"></label>
+				<label for="third" class="third"></label>
+				
+			<div class="one slide">
+				<blockquote>
+				<span class="leftq quotes">&ldquo;</span> <p id="testimonial-quote"> <span class="rightq quotes">&bdquo; </span>
+				</blockquote>
+				<img id="testimonial-image" width="150" style="margin-top: 11px; margin-left:10px;border-radius: 25px 70px;" />
+				<h2 id="testimonial-author"></h2>
+				<h6 id="testimonial-role"></h6>
+			</div>	
+		</div>
+	</div>
+
+	</div>
 		<div class="section-padding"></div>
 	</div><!-- Testimonial Section /- -->
+								
+
+
 	<?php require_once 'include/footer.php';?>
 	<?php require_once 'include/scripts.php';?>
 </body>
