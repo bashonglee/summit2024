@@ -1,0 +1,364 @@
+/* Sections Header
+--------------------------------*/
+.section-header {
+    margin-bottom: 20px;
+    position: relative;
+    padding-bottom: 20px;
+  }
+  .section-header::before {
+    content: "";
+    position: absolute;
+    display: block;
+    width: 60px;
+    height: 5px;
+    background: #fac764;
+    bottom: 0;
+    left: calc(50% - 25px);
+  }
+  .section-header h2 {
+    font-size: 36px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 10px;
+  }
+  .section-header p {
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    font-size: 18px;
+    font-weight: 500;
+    color: #9195a2;
+  }
+  
+  .section-with-bg {
+    background-color: #f6f7fd;
+  }
+  
+/*--------------------------------------------------------------
+# Schedule Section
+--------------------------------------------------------------*/
+#schedule {
+    padding: 60px 0 60px 0;
+  }
+  #schedule .nav-tabs {
+    text-align: center;
+    margin: auto;
+    display: block;
+    border-bottom: 0;
+    margin-bottom: 30px;
+  }
+  #schedule .nav-tabs li {
+    display: inline-block;
+    margin-bottom: 0;
+  }
+  #schedule .nav-tabs a {
+    border: none;
+    border-radius: 50px;
+    font-weight: 600;
+    background-color: #891240;
+    color: #fff;
+    padding: 10px 10px;
+  }
+  @media (max-width: 991px) {
+    #schedule .nav-tabs a {
+      padding: 8px 10px;
+    }
+  }
+  @media (max-width: 767px) {
+    #schedule .nav-tabs a {
+      padding: 8px 10px;
+    }
+  }
+  @media (max-width: 480px) {
+    #schedule .nav-tabs a {
+      padding: 8px 10px;
+    }
+  }
+  #schedule .nav-tabs a.active {
+    background-color: #fac764;
+    color: #fff;
+  }
+  #schedule .sub-heading {
+    text-align: center;
+    font-size: 18px;
+    font-style: italic;
+    margin: 0 auto 30px auto;
+  }
+  @media (min-width: 991px) {
+    #schedule .sub-heading {
+      width: 75%;
+    }
+  }
+  #schedule .tab-pane {
+    transition: ease-in-out 0.2s;
+  }
+  #schedule .schedule-item {
+    border-bottom: 1px solid #cad4f6;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    transition: background-color ease-in-out 0.3s;
+  }
+  #schedule .schedule-item:hover {
+    background-color: #fff;
+  }
+  #schedule .schedule-item time {
+    padding-bottom: 5px;
+    display: inline-block;
+  }
+  #schedule .schedule-item .speaker {
+    width: 60px;
+    height: 60px;
+    overflow: hidden;
+    border-radius: 50%;
+    float: left;
+    margin: 0 10px 10px 0;
+  }
+  #schedule .schedule-item .speaker img {
+    height: 100%;
+    transform: translateX(-50%);
+    margin-left: 50%;
+    transition: all ease-in-out 0.3s;
+  }
+  #schedule .schedule-item h4 {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 5px;
+  }
+  #schedule .schedule-item h4 span {
+    font-style: italic;
+    color: #19328e;
+    font-weight: normal;
+    font-size: 16px;
+  }
+  #schedule .schedule-item p {
+    font-style: italic;
+    color: #152b79;
+    margin-bottom: 0;
+  }
+
+.img{
+    width: 100%;
+    height: 100%;
+}
+
+
+/*--------------------------------------------------------------
+# Hotels Section
+--------------------------------------------------------------*/
+#hotels {
+    padding: 60px 0;
+  }
+  #hotels .hotel {
+    border: 1px solid #e0e5fa;
+    background: #fff;
+    margin-bottom: 30px;
+  }
+  #hotels .hotel:hover .hotel-img img {
+    transform: scale(1.1);
+  }
+  #hotels .hotel-img {
+    overflow: hidden;
+    margin-bottom: 15px;
+  }
+  #hotels .hotel-img img {
+    transition: 0.3s ease-in-out;
+  }
+  #hotels h3 {
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 5px;
+    padding: 0 20px;
+  }
+  #hotels a {
+    color: #152b79;
+  }
+  #hotels a:hover {
+    color: #fac764;
+  }
+  #hotels .stars {
+    padding: 0 20px;
+    margin-bottom: 5px;
+  }
+  #hotels .stars i {
+    color: #ffc31d;
+  }
+  #hotels p {
+    padding: 0 20px;
+    margin-bottom: 20px;
+    color: #060c22;
+    font-style: italic;
+    font-size: 15px;
+  }
+
+  
+  /*--------------------------------------------------------------
+# F.A.Q Section
+--------------------------------------------------------------*/
+/* #faq {
+    padding: 60px 0;
+  }
+  #faq .faq-list {
+    padding: 0;
+    list-style: none;
+  }
+  #faq .faq-list li {
+    border-bottom: 1px solid #e9eaed;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+  }
+  #faq .faq-list .question {
+    display: block;
+    position: relative;
+    font-family: #f82249;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 400;
+    padding-left: 25px;
+    cursor: pointer;
+    color: #e0072f;
+    transition: 0.3s;
+  }
+  #faq .faq-list i {
+    font-size: 16px;
+    position: absolute;
+    left: 0;
+    top: -2px;
+  }
+  #faq .faq-list p {
+    margin-bottom: 0;
+    padding: 10px 0 0 25px;
+  }
+  #faq .faq-list .icon-show {
+    display: none;
+  }
+  #faq .faq-list .collapsed {
+    color: black;
+  }
+  #faq .faq-list .collapsed:hover {
+    color: #f82249;
+  }
+  #faq .faq-list .collapsed .icon-show {
+    display: inline-block;
+    transition: 0.6s;
+  }
+  #faq .faq-list .collapsed .icon-close {
+    display: none;
+    transition: 0.6s;
+  }
+   */
+
+  /*--------------------------------------------------------------
+# Frequently Asked Questions
+--------------------------------------------------------------*/
+.faq .faq-list {
+    padding: 0 100px;
+  }
+  .faq .faq-list ul {
+    padding: 0;
+    list-style: none;
+  }
+  .faq .faq-list li + li {
+    margin-top: 15px;
+  }
+  .faq .faq-list li {
+    padding: 20px;
+    background: #fff;
+    border-radius: 4px;
+    position: relative;
+  }
+  .faq .faq-list a {
+    display: block;
+    position: relative;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+    padding: 0 30px;
+    outline: none;
+    cursor: pointer;
+  }
+  .faq .faq-list .icon-help {
+    font-size: 24px;
+    position: absolute;
+    right: 0;
+    left: 20px;
+    color: #75bdfa;
+  }
+  .faq .faq-list .icon-show, .faq .faq-list .icon-close {
+    font-size: 24px;
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .faq .faq-list p {
+    margin-bottom: 0;
+    padding: 10px 0 0 0;
+  }
+  .faq .faq-list .icon-show {
+    display: none;
+  }
+  .faq .faq-list a.collapsed {
+    color: #343a40;
+  }
+  .faq .faq-list a.collapsed:hover {
+    color: #0880e8;
+  }
+  .faq .faq-list a.collapsed .icon-show {
+    display: inline-block;
+  }
+  .faq .faq-list a.collapsed .icon-close {
+    display: none;
+  }
+  @media (max-width: 1200px) {
+    .faq .faq-list {
+      padding: 0;
+    }
+  }
+  
+
+ 
+.services1 .icon-box {
+  margin-bottom: 20px;
+  padding: 50px 40px;
+  border-radius: 6px;
+  background: #fff;
+  box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+}
+.services1 .icon-box ul {
+    list-style: none;
+    padding: 0;
+  }
+  .services1 .icon-box ul li {
+    padding-bottom: 10px;
+  }
+  .services1 .icon-box ul i {
+    font-size: 20px;
+    padding-right: 4px;
+    color: #fac737;
+  }
+.services1 .icon-box i {
+  float: left;
+  color: #f6b024;
+  font-size: 40px;
+  line-height: 0;
+}
+.services1 .icon-box h4 {
+  margin-left: 70px;
+  font-weight: 700;
+  margin-bottom: 15px;
+  font-size: 18px;
+}
+.services1 .icon-box h4 a {
+  color: #05579e;
+  transition: 0.3s;
+}
+.services1 .icon-box h4 a:hover {
+  color: #0880e8;
+}
+.services1 .icon-box p {
+  margin-left: 70px;
+  line-height: 24px;
+  font-size: 14px;
+  margin-bottom: 0;
+}
