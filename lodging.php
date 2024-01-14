@@ -41,8 +41,8 @@
                             <div class="abt-imgs">
                                 <div class="row">
                                         <div class="abt-img wow " data-wow-duration="400ms">
-                                            <img src="images/resources/fiesta.jpg" alt="">
-                                            <a href="https://fiestahospitality.com/" title="" class="html5lightbox"></a>
+                                            <img src="images/resources/radisson.jpg" alt="">
+                                            <a href="https://www.radissonhotels.com/en-us/hotels/radisson-blu-nairobi-upper-hill?checkInDate=2023-12-07&checkOutDate=2023-12-08&searchType=lowest&promotionCode=&voucher=&memberOnlyRatesHotelCodes=KENBOUPP&adults%5B%5D=2&children%5B%5D=0/" title="" class="html5lightbox"></a>
                                         </div><!--abt-img end-->                                    
                                 </div>
                             </div><!--abt-imgs end-->
@@ -51,10 +51,13 @@
                         <div class="col-lg-8">
                             <div class="blog-info">
                                 <p class="wow " data-wow-duration="300ms" style="text-align:justify; ">
-								The 2023 Supply Chain Research Summit will be held at the Fiesta Royale Hotel in Ghana’s capital city, Accra. The hotel offers easy access to all conference events and amazing amenities, including complimentary shuttle service to and from the airport for hotel guests.
+								The 2024 Supply Chain Research Summit will be held at the Radisson Blu hotel in Nairobi, Kenya from July 10-12, 2024.
 								<br> 
 								<br>
-								 If you are attending the summit in person, we encourage you to book early to take advantage of the limited room discounts offered to summit registrants. To obtain the discount, send an email to reservations@fiestahospitality.com  Make reference to the code: CARISCA 2023 in your request email. Available rooms include single occupancy rooms (at $130) and double occupancy rooms (at $150).
+								The Radisson Blu offers luxurious accommodations in the heart of Nairobi's business district, providing easy access to the summit events. Amenities include free high-speed WiFi, fitness center, and business center services.
+								 <br>
+								 <br>
+								 The room rates are available for summit attendees at the Radisson Blu starting at $225 per night. Rooms are limited, so early booking is recommended.
 								 <br>
 								 <br>
 								 
@@ -70,11 +73,11 @@
 
   
       <div class="container" id="recommended">		
-		         <p style="text-align: center; padding: 0; margin: 0;font-size: 26px; font-weight: 500; color: #dc143c;">Other Recommended Hotels</p>
+		         <p style="text-align: center; padding: 0; margin: 0;font-size: 26px; font-weight: 500; color: #dc143c;">Other Recommended Options</p>
 				 <br>
         <div class="row" style="text-align: justify;">
 			<p style="text-align: justify; padding: 0; margin: 0;font-size: 18px; font-weight: 500;">
-			  If the Fiesta Royale is booked or you are looking for a more budget-friendly option, we recommend the following hotels and guesthouses near the summit venue. CARISCA will provide buses to take you to and from the conference site each day.<br>
+			  If the Radisson Blu Hotel is booked or you are looking for a more budget-friendly option, we recommend the following hotels and accommodation options near the summit venue.<br>
 		
 		  
 		  </p>
@@ -91,10 +94,10 @@
               <div class="hotel-img">
                 <img src="img/hotels/regent.jpg" alt="African Regent Hotel" class="img-fluid">
               </div>
-              <h3><a href="#regent"  data-backdrop="false" data-toggle="modal">African Regent Hotel</a></h3>
+              <h3><a href="#regent"  data-backdrop="false" data-toggle="modal">Tamarind Tree Hotel</a></h3>
               <div class="stars">User Ratings: 4 Star 
               </div>			  
-              <p>2.1 km (6 min drive) from Summit Venue</p>
+              <p>6.1 km (15 min drive) from Summit Venue</p>
             </div>
           </div>
 		  
@@ -106,7 +109,7 @@
 
 					</div>
 					<div class="modal-body">
-						<h3>African Regent Hotel</h3>
+						<h3>Tamarind Tree Hotel</h3>
 						<p>
 							<h3>
 								Rooms Available (with rates): 
@@ -143,10 +146,10 @@
               <div class="hotel-img">
                 <img src="img/hotels/hillview.jpg" alt="Hill View Hotel" class="img-fluid">
               </div>
-              <h3><a href="#hillview"  data-backdrop="false" data-toggle="modal">Hill View Hotel </a></h3>
+              <h3><a href="#hillview"  data-backdrop="false" data-toggle="modal">Double Tree by Hilton Hotel </a></h3>
               <div class="stars">User Ratings: 4 Star 
               </div>			  
-              <p>650 m (4 min drive) from Summit Venue</p>
+              <p>4.5 km (8 min drive) from Summit Venue</p>
             </div>
           </div>
 		  
@@ -158,7 +161,7 @@
 
 					</div>
 					<div class="modal-body">
-						<h3>Hill View Hotel</h3>
+						<h3>Double Tree by Hilton Hotel</h3>
 						<p>
 							<h3>
 								Rooms Available (with rates): 

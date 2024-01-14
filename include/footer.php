@@ -8,7 +8,6 @@
 			
 			<div class="footer-about">
 				<div class="logo-block">
-					<img src="images/cl1.png" alt="logo" height="63" width="180">
 					
 				</div>	
 				<div class="footer-about-content">

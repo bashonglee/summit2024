@@ -7,7 +7,7 @@
 
 		updateTestimonial();
 
-		setInterval(updateTestimonial, 7000);
+		setInterval(updateTestimonial, 13000);
 
 	}
 
@@ -230,7 +230,7 @@
 								<p style="text-align: justify;">
 									CARISCA’s annual Supply Chain Research Summit is central to our goal to strengthen African supply chain capacity and put Africa’s supply chain research on the map.<br><br>
 									The conference brings together academic and non-academic researchers and public, private and civil society organizations to create an ongoing dialogue addressing complex supply chain challenges.<br><br>
-									The fourth annual Supply Chain Research Summit is set for June 4-6, 2024, in Nairobi, Kenya. Organized in collaboration with Strathmore University, the summit will be presented in a hybrid format. The in-person venue is the <a href="https://www.radissonhotels.com/en-us/hotels/radisson-blu-nairobi-upper-hill">Radisson Blu Hotel, Nairobi Upper Hill</a>. Attendees and speakers may also participate virtually via Zoom. .</p>
+									The fourth annual Supply Chain Research Summit is set for June 4-6, 2024, in Nairobi, Kenya. Organized in collaboration with Strathmore University, the summit will be presented in a hybrid format. The in-person venue is the <a href="https://www.radissonhotels.com/en-us/hotels/radisson-blu-nairobi-upper-hill">Radisson Blu Hotel, Nairobi Upper Hill</a>. Attendees and speakers may also participate virtually via Zoom.</p>
 							</div>									
 							
 						
@@ -261,7 +261,7 @@
 	<div class="container-fluid latest-blog latest-blog-section no-padding">
 		<div class="container">	
 		<div class="section-header">
-								<h3>CALL FOR PAPERS NOW OPEN</h3>
+								<h3 id="callforpapers">CALL FOR PAPERS NOW OPEN</h3>
 		</div>
 			<div class="row">
 				<div class="col-md-6 col-sm-6 col-xs-12">
