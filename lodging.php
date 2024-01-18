@@ -73,11 +73,11 @@
 
   
       <div class="container" id="recommended">		
-		         <p style="text-align: center; padding: 0; margin: 0;font-size: 26px; font-weight: 500; color: #dc143c;">Other Recommended Options</p>
+		         <p style="text-align: center; padding: 0; margin: 0;font-size: 26px; font-weight: 500; color:#3ab990;">Other Recommended Options</p>
 				 <br>
         <div class="row" style="text-align: justify;">
 			<p style="text-align: justify; padding: 0; margin: 0;font-size: 18px; font-weight: 500;">
-			  If the Radisson Blu Hotel is booked or you are looking for a more budget-friendly option, we recommend the following hotels and accommodation options near the summit venue.<br>
+			  If the Radisson Blu Hotel is overbooked or you are looking for a more budget-friendly option, we recommend the following hotels and accommodation options near the summit venue.<br>
 		
 		  
 		  </p>
@@ -88,20 +88,20 @@
              		  
 		 
              		  
-		  <!-- African Regent Hotel -->
+		  <!-- Sarova Stanley Hotel -->
 		  <div class="col-lg-4 col-md-6">
             <div class="hotel">
               <div class="hotel-img">
-                <img src="img/hotels/regent.jpg" alt="African Regent Hotel" class="img-fluid">
+                <img src="img/hotels/sarova.jpg" alt="Sarova Stanley Hotel" class="img-fluid">
               </div>
-              <h3><a href="#regent"  data-backdrop="false" data-toggle="modal">Tamarind Tree Hotel</a></h3>
+              <h3><a href="#sarova"  data-backdrop="false" data-toggle="modal">Sarova Stanley Hotel</a></h3>
               <div class="stars">User Ratings: 4 Star 
               </div>			  
-              <p>6.1 km (15 min drive) from Summit Venue</p>
+              <p>3.7 km (6 min drive) from Summit Venue</p>
             </div>
           </div>
 		  
-		  <div id="regent" class="modal fade" >
+		  <div id="sarova" class="modal fade" >
 			<div class="modal-dialog accommodationmodal">
 				<div class="modal-content">
 					<div class="modal-header">
@@ -109,28 +109,22 @@
 
 					</div>
 					<div class="modal-body">
-						<h3>Tamarind Tree Hotel</h3>
+						<h3>Sarova Stanley Hotel</h3>
 						<p>
 							<h3>
 								Rooms Available (with rates): 
 							</h3>	
 								<ul>
-									<li>Standard Rooms ($130)</li>
-									<li>Double Occupancy Rooms ($160)</li>
+									<li>Single Rate ($150)</li>
+									<li>Double Occupancy Rooms ($180)</li>
 								</ul>
-								<br>
-                                All the above charges include bed, breakfast, and taxes 
-                                <br> 
-								  To book for a room at the African Regent Hotel, kindly send a text or Whatsapp message to  <a href="tel:+233244762672">+233244762672</a> 
-								<br>
 								
-								You may also contact the Summit Organizing team through <a href="mailto:summit2023@carisca.knust.edu.gh">summit2023@carisca.knust.edu.gh</a> for assistance.
 						</p>
                         <br>
 					</div>
 					<div class="modal-footer">
 					
-						<a id="loadpage" type="button" class="btn btn-primary booking" target="blank" href="https://www.booking.com/hotel/gh/african-regent.en-gb.html" style="display: inline-block; color: #ffffff; font-size: 18px; font-weight: 700; text-transform: uppercase; height: 50px; line-height: 50px; padding: 0 25px; -webkit-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px;">Book a Room</a>
+						<a id="loadpage" type="button" class="btn btn-primary booking" target="blank" href="https://bookings.sarovahotels.com/en/hotel/profile/Kenya/hotel-Sarova-Stanley-322771.htm" style="display: inline-block; color: #ffffff; font-size: 18px; font-weight: 700; text-transform: uppercase; height: 50px; line-height: 50px; padding: 0 25px; -webkit-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px;">Book a Room</a>
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
 					</div>
 				</div>
@@ -140,20 +134,20 @@
 		  </div>
 
        		  
-		  <!-- Hill View Hotel  -->
+		  <!-- Nairobi Serena Hotel  -->
 		  <div class="col-lg-4 col-md-6">
             <div class="hotel">
               <div class="hotel-img">
-                <img src="img/hotels/hillview.jpg" alt="Hill View Hotel" class="img-fluid">
+                <img src="img/hotels/serena.jpg" alt="Nairobi Serena Hotel" class="img-fluid">
               </div>
-              <h3><a href="#hillview"  data-backdrop="false" data-toggle="modal">Double Tree by Hilton Hotel </a></h3>
+              <h3><a href="#serena"  data-backdrop="false" data-toggle="modal">Nairobi Serena Hotel</a></h3>
               <div class="stars">User Ratings: 4 Star 
               </div>			  
-              <p>4.5 km (8 min drive) from Summit Venue</p>
+              <p>7.5 km (11 min drive) from Summit Venue</p>
             </div>
           </div>
 		  
-		  <div id="hillview" class="modal fade" >
+		  <div id="serena" class="modal fade" >
 			<div class="modal-dialog accommodationmodal">
 				<div class="modal-content">
 					<div class="modal-header">
@@ -161,28 +155,22 @@
 
 					</div>
 					<div class="modal-body">
-						<h3>Double Tree by Hilton Hotel</h3>
+						<h3>Nairobi Serena Hotel</h3>
 						<p>
 							<h3>
 								Rooms Available (with rates): 
 							</h3>	
 								<ul>
-									<li>Small($35)</li>
-									<li>Single ($50)</li>
-									<li>Double($60)</li>
-									<li>Deluxe ($74)</li>
+									<li>Single Rate ($200)</li>
+									<li>Double Occupancy Rooms ($235)</li>
 								</ul> 
-                                <br> 
-								  To book for a room at the Hill View Hotel, kindly visit <a href="www.hillviewhotelsgh.com">www.hillviewhotelsgh.com</a>.
-                                  <br>
-                                  You may also email the hotel via <a href="mailto:hillviewhotelsgh@yahoo.com">hillviewhotelsgh@yahoo.com</a> or send a text  to  <a href="tel:+233244316193">+233244316193</a> 
-								<br>
+                               
 						</p>
                         <br>
 					</div>
 					<div class="modal-footer">
 					
-						<a id="loadpage" type="button" class="btn btn-primary booking" target="blank" href="www.hillviewhotelsgh.com" style="display: inline-block; color: #ffffff; font-size: 18px; font-weight: 700; text-transform: uppercase; height: 50px; line-height: 50px; padding: 0 25px; -webkit-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px;">Book a Room</a>
+						<a id="loadpage" type="button" class="btn btn-primary booking" target="blank" href="https://reservations.serenahotels.com/17000#/guestsandrooms" style="display: inline-block; color: #ffffff; font-size: 18px; font-weight: 700; text-transform: uppercase; height: 50px; line-height: 50px; padding: 0 25px; -webkit-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px;">Book a Room</a>
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
 					</div>
 				</div>
@@ -193,20 +181,20 @@
 
 
              		  
-		  <!-- Sam's Cottage Hotel -->
+		  <!-- Concord Hotel -->
 		  <div class="col-lg-4 col-md-6">
             <div class="hotel">
               <div class="hotel-img">
-                <img src="img/hotels/sam.jpg" alt="Sam's Cottage Hotel" class="img-fluid">
+                <img src="img/hotels/concord.jpg" alt="Concord Hotel" class="img-fluid">
               </div>
-              <h3><a href="#sam"  data-backdrop="false" data-toggle="modal">Sam's Cottage Hotel</a></h3>
+              <h3><a href="#concord"  data-backdrop="false" data-toggle="modal">Concord Hotel</a></h3>
               <div class="stars">User Ratings: 4 Star 
               </div>			  
-              <p>550 m (4 min drive) from the Summit venue</p>
+              <p>8.2 km (13 min drive) from the Summit venue</p>
             </div>
           </div>
 		  
-		  <div id="sam" class="modal fade" >
+		  <div id="concord" class="modal fade" >
 			<div class="modal-dialog accommodationmodal">
 				<div class="modal-content">
 					<div class="modal-header">
@@ -214,25 +202,22 @@
 
 					</div>
 					<div class="modal-body">
-						<h3>Sam's Cottage Hotel</h3>
+						<h3>Concord Hotel</h3>
 						<p>
 							<h3>
 								Rooms Available (with rates): 
 							</h3>	
 								<ul>
-									<li>Standard Rooms ($80)</li>
-								</ul>
-								<br>
-                                The above charges include bed, breakfast, and taxes 
-                                <br> 
-								  To book for a room at Sam's Cottage Hotel, send an email to <a href="mailto:info@samscottage.com">info@samscottage.com</a> or send a text or Whatsapp message to  <a href="tel:+233273394443">+233273394443</a>
-								<br>
+									<li>Single Rate ($100)</li>
+									<li>Double Occupancy Rooms ($125)</li>
+								</ul> 
+                               
 						</p>
                         <br>
 					</div>
 					<div class="modal-footer">
 					
-						<a id="loadpage" type="button" class="btn btn-primary booking" target="blank" href="mailto:info@samscottage.com" style="display: inline-block; color: #ffffff; font-size: 18px; font-weight: 700; text-transform: uppercase; height: 50px; line-height: 50px; padding: 0 25px; -webkit-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px;">Book a Room</a>
+						<a id="loadpage" type="button" class="btn btn-primary booking" target="blank" href="https://www.theconcordhotels.com/" style="display: inline-block; color: #ffffff; font-size: 18px; font-weight: 700; text-transform: uppercase; height: 50px; line-height: 50px; padding: 0 25px; -webkit-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px;">Book a Room</a>
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
 					</div>
 				</div>
@@ -245,20 +230,20 @@
              		  
 
              		  
-		  <!--GIMPA Guesthouse -->
+		  <!--Clouds Hotels and Suites -->
 		  <div class="col-lg-4 col-md-6">
             <div class="hotel">
               <div class="hotel-img">
-                <img src="img/hotels/gimpa.jpg" alt="GIMPA Guesthouse" class="img-fluid">
+                <img src="img/hotels/cloudshotel.jpg" alt="Clouds Hotels and Suites" class="img-fluid">
               </div>
-              <h3><a href="#gimpa"  data-backdrop="false" data-toggle="modal">GIMPA Guesthouse</a></h3>
+              <h3><a href="#cloudshotel"  data-backdrop="false" data-toggle="modal">Clouds Hotels and Suites</a></h3>
               <div class="stars">User Ratings: 3 Star 
               </div>			  
-              <p>3.2 km (9 min drive) from Summit venue</p>
+              <p>6.9 km (13 min drive) from Summit venue</p>
             </div>
           </div>
 		  
-		  <div id="gimpa" class="modal fade" >
+		  <div id="cloudshotel" class="modal fade" >
 			<div class="modal-dialog accommodationmodal">
 				<div class="modal-content">
 					<div class="modal-header">
@@ -266,28 +251,22 @@
 
 					</div>
 					<div class="modal-body">
-						<h3>GIMPA Guesthouse</h3>
+						<h3>Clouds Hotels and Suites</h3>
 						<p>
 							<h3>
 								Rooms Available (with rates): 
 							</h3>	
 								<ul>
-									<li>Standard Rooms ($48)</li>
-									<li>Double bed rooms ($48)</li>
-									<li>Executive Rooms ($48)</li>
-									<li>Twin-bed rooms ($48)</li>
-								</ul>
-								<br>
-								  To book for a room at the GIMPA Guest House, kindly send a text or Whatsapp message to  <a href="tel:+233244762672">+233244762672</a> 
-								<br>
-								
-								You may also contact the Summit Organizing team through <a href="mailto:summit2023@carisca.knust.edu.gh">summit2023@carisca.knust.edu.gh</a> for assistance.
+									<li>Single Rate ($60)</li>
+									<li>Double Occupancy Rooms ($85)</li>
+								</ul> 
+                               
 						</p>
 						<br>
 					</div>
 					<div class="modal-footer">
 					
-						<a id="loadpage" type="button" class="btn btn-primary booking" target="blank" href="tel:+233244762672" style="display: inline-block; color: #ffffff; font-size: 18px; font-weight: 700; text-transform: uppercase; height: 50px; line-height: 50px; padding: 0 25px; -webkit-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px;">Book a Room</a>
+						<a id="loadpage" type="button" class="btn btn-primary booking" target="blank" href="http://cloudhotelsuites.com/" style="display: inline-block; color: #ffffff; font-size: 18px; font-weight: 700; text-transform: uppercase; height: 50px; line-height: 50px; padding: 0 25px; -webkit-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px;">Book a Room</a>
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
 					</div>
 				</div>
@@ -296,20 +275,20 @@
 			<!-- /.modal-dialog -->
 		  </div>
 
-		  <!-- Ange Hill -->
+		  <!-- Westpointe Suit and Apartments -->
 		  <div class="col-lg-4 col-md-6">
             <div class="hotel">
               <div class="hotel-img">
-                <img src="img/hotels/angehill.jpg" alt="Ange Hill Hotel" class="img-fluid">
+                <img src="img/hotels/westpointe.jpg" alt="Westpointe Suit and Apartments" class="img-fluid">
               </div>
-              <h3><a href="#angehill"  data-backdrop="false" data-toggle="modal">Ange Hill Hotel</a></h3>
+              <h3><a href="#westpointe"  data-backdrop="false" data-toggle="modal">Westpointe Suit and Apartments</a></h3>
               <div class="stars">User Ratings: 3 Star 
               </div>			  
               <p>3.2 km (9 min drive) from Summit venue</p>
             </div>
           </div>
 		  
-		  <div id="angehill" class="modal fade" >
+		  <div id="westpointe" class="modal fade" >
 			<div class="modal-dialog accommodationmodal">
 				<div class="modal-content">
 					<div class="modal-header">
@@ -317,25 +296,22 @@
 
 					</div>
 					<div class="modal-body">
-						<h3>Ange Hill Hotel</h3>
+						<h3>Westpointe Suit and Apartments</h3>
 						<p>
 							<h3>
 								Rooms Available (with rates): 
 							</h3>	
 								<ul>
-									<li>Standard Rooms ($50)</li>
-								</ul>
-								<br>
-								  To book for a room at the Ange Hill Hotel, kindly send a text or Whatsapp message to  <a href="tel:+233244129229" >+233244129229 </a>  or <a href="tel:+233542660581">+233542660581</a>.
-								<br>
-								
-								You may also contact the Summit Organizing team through <a href="mailto:summit2023@carisca.knust.edu.gh">summit2023@carisca.knust.edu.gh</a> for assistance.
+									<li>Single Rate ($80)</li>
+									<li>Double Occupancy Rooms ($90)</li>
+								</ul> 
+                               
 						</p>
                         <br>
 					</div>
 					<div class="modal-footer">
 					
-						<a id="loadpage" type="button" class="btn btn-primary" href="tel:+233244129229" style="display: inline-block; color: #ffffff; font-size: 18px; font-weight: 700; text-transform: uppercase; height: 50px; line-height: 50px; padding: 0 25px; -webkit-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px;">Book a Room</a>
+						<a id="loadpage" type="button" class="btn btn-primary" href="https://westpoint-suites-by-senga.nairobi-hotels-ke.com/en/" style="display: inline-block; color: #ffffff; font-size: 18px; font-weight: 700; text-transform: uppercase; height: 50px; line-height: 50px; padding: 0 25px; -webkit-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px;">Book a Room</a>
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
 					</div>
 				</div>
@@ -346,16 +322,16 @@
 
 
 
-		  <!-- Ange Hill -->
+		  <!-- Mercure Hotel -->
 		  <div class="col-lg-4 col-md-6">
             <div class="hotel">
               <div class="hotel-img">
-                <img src="img/hotels/avemaria.jpg" alt="Ave Maria Hotel" class="img-fluid">
+                <img src="img/hotels/avemaria.jpg" alt="Mercure Hotel" class="img-fluid">
               </div>
-              <h3><a href="#avemaria"  data-backdrop="false" data-toggle="modal">Ave Maria Hotel</a></h3>
+              <h3><a href="#avemaria"  data-backdrop="false" data-toggle="modal">Mercure Hotel</a></h3>
               <div class="stars">User Ratings: 3 Star 
               </div>			  
-              <p>2.8 km (6 min drive) from Summit venue</p>
+              <p>1.2 km (2 min drive) from Summit venue</p>
             </div>
           </div>
 		  
@@ -367,28 +343,22 @@
 
 					</div>
 					<div class="modal-body">
-						<h3>Ave Maria Hotel</h3>
+						<h3>Mercure Hotel</h3>
 						<p>
 							<h3>
 								Rooms Available (with rates): 
 							</h3>	
 								<ul>
-									<li>Standard Rooms ($100)</li>
-									<li>Twin Rooms ($140)</li>
-									<li>Deluxe Rooms ($140)</li>
-									<li>Suite Rooms ($185)</li>
-								</ul>
-								<br>
-								  To book a room at the Ave Maria Hotel, kindly visit <a href="http://avemariahotel.net">http://avemariahotel.net</a>.
-								<br>
-								
-								You may also contact the Summit Organizing team through <a href="mailto:summit2023@carisca.knust.edu.gh">summit2023@carisca.knust.edu.gh</a> for assistance.
+									<li>Single Rate ($160)</li>
+									<li>Double Occupancy Rooms ($180)</li>
+								</ul> 
+                               
 						</p>
                         <br>
 					</div>
 					<div class="modal-footer">
 					
-						<a id="loadpage" type="button" class="btn btn-primary" href="tel:+233244129229" style="display: inline-block; color: #ffffff; font-size: 18px; font-weight: 700; text-transform: uppercase; height: 50px; line-height: 50px; padding: 0 25px; -webkit-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px;">Book a Room</a>
+						<a id="loadpage" type="button" class="btn btn-primary" href="https://all.accor.com/ssr/app/accor/rates/C0D5/index.en.shtml?dateIn=2024-06-03&nights=4&compositions=1&stayplus=false&snu=false&accessibleRooms=false&hideWDR=false&hideHotelDetails=true" style="display: inline-block; color: #ffffff; font-size: 18px; font-weight: 700; text-transform: uppercase; height: 50px; line-height: 50px; padding: 0 25px; -webkit-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px;">Book a Room</a>
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
 					</div>
 				</div>
@@ -400,20 +370,20 @@
 
 
              		  
-		  <!-- Royal Beaulah Hotel -->
+		  <!-- Air BnB -->
 		  <div class="col-lg-4 col-md-6">
             <div class="hotel">
               <div class="hotel-img">
-                <img src="img/hotels/beaulah.jpg" alt="Royal Beaulah Hotel" class="img-fluid">
+                <img src="img/hotels/airbnb.jpg" alt="Air BnB" class="img-fluid">
               </div>
-              <h3><a href="#beaulah"  data-backdrop="false" data-toggle="modal">Royal Beaulah Hotel</a></h3>
-              <div class="stars">User Ratings: 3 Star 
+              <h3><a href="#airbnb"  data-backdrop="false" data-toggle="modal">Air BnB</a></h3>
+              <div class="stars">User Ratings: N/A 
               </div>			  
-              <p>5.7 km (14 min drive)  from Summit venue</p>
+              <p>Varying distances  from Summit venue</p>
             </div>
           </div>
 		  
-		  <div id="beaulah" class="modal fade" >
+		  <div id="airbnb" class="modal fade" >
 			<div class="modal-dialog accommodationmodal">
 				<div class="modal-content">
 					<div class="modal-header">
@@ -421,22 +391,22 @@
 
 					</div>
 					<div class="modal-body">
-						<h3>Royal Beaulah Hotel</h3>
+						<h3></h3>
 						<p>
 							<h3>
-								Rooms Available (with rates): 
+								AirBnB Options: 
 							</h3>	
 								<ul>
-									<li>Standard Rooms ($50)</li>
+									<li>Options are available from as low as $40 per night</li>
 								</ul>
 								<br>
-								  To book for a room at the Royal Beaulah Hotel, kindly send an email to the Summit Organizing team through <a href="mailto:summit2023@carisca.knust.edu.gh">summit2023@carisca.knust.edu.gh</a>.
+								  
 						</p>
                         <br>
 					</div>
 					<div class="modal-footer">
 					
-						<a id="loadpage" type="button" class="btn btn-primary" href="mailto:summit2023@carisca.knust.edu.gh" style="display: inline-block; color: #ffffff; font-size: 18px; font-weight: 700; text-transform: uppercase; height: 50px; line-height: 50px; padding: 0 25px; -webkit-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px;">Book a Room</a>
+						<a id="loadpage" type="button" class="btn btn-primary" href="https://www.airbnb.com/s/Upper-Hill--Nairobi--Kenya/homes?query=Upper%20Hill%2C%20Nairobi%2C%20Kenya&tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2024-02-01&monthly_length=3&price_filter_input_type=0&price_filter_num_nights=5&channel=EXPLORE&place_id=ChIJR-bLr-cQLxgRkDhjqi8Xc4w&date_picker_type=calendar&source=structured_search_input_header&search_type=autocomplete_click&checkin=2024-06-03&checkout=2024-06-07&flexible_date_search_filter_type=0&adults=1" style="display: inline-block; color: #ffffff; font-size: 18px; font-weight: 700; text-transform: uppercase; height: 50px; line-height: 50px; padding: 0 25px; -webkit-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px;">Book an AirBnB</a>
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
 					</div>
 				</div>
@@ -444,102 +414,6 @@
 			</div>
 			<!-- /.modal-dialog -->
 		  </div>
-
-      		  
-		  <!-- Omanye Lodge -->
-		  <div class="col-lg-4 col-md-6">
-            <div class="hotel">
-              <div class="hotel-img">
-                <img src="img/hotels/omanye.jpg" alt="Omanye Lodge" class="img-fluid">
-              </div>
-              <h3><a href="#omanye"  data-backdrop="false" data-toggle="modal">Omanye Lodge</a></h3>
-              <div class="stars">User Ratings: 3 Star 
-              </div>			  
-              <p>900 m (6  min drive) from the Summit venue</p>
-            </div>
-          </div>
-		  
-		  <div id="omanye" class="modal fade" >
-			<div class="modal-dialog accommodationmodal">
-				<div class="modal-content">
-					<div class="modal-header">
-						<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-
-					</div>
-					<div class="modal-body">
-						<h3>Omanye Lodge</h3>
-						<p>
-							<h3>
-								Rooms Available (with rates): 
-							</h3>	
-								<ul>
-									<li>Family Rooms ($75)</li>
-									<li>Business Rooms ($60)</li>
-									<li>Studio Rooms ($55)</li>
-									<li>Standard Rooms ($45)</li>
-								</ul>
-								<br>
-								  To book for a room at the Omanye Lodge, kindly send an email to the Summit Organizing team through <a href="mailto:summit2023@carisca.knust.edu.gh">summit2023@carisca.knust.edu.gh</a>.
-						</p>
-                        <br>
-					</div>
-					<div class="modal-footer">
-					
-						<a id="loadpage" type="button" class="btn btn-primary" href="mailto:summit2023@carisca.knust.edu.gh" style="display: inline-block; color: #ffffff; font-size: 18px; font-weight: 700; text-transform: uppercase; height: 50px; line-height: 50px; padding: 0 25px; -webkit-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px;">Book a Room</a>
-						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-					</div>
-				</div>
-				<!-- /.modal-content -->
-			</div>
-			<!-- /.modal-dialog -->
-		  </div>
-
-             		  
-		  <!-- Ghana National Association of Teachers (GNAT) Hostel  -->
-		  <div class="col-lg-4 col-md-6">
-            <div class="hotel">
-              <div class="hotel-img">
-                <img src="img/hotels/gnat.jpg" alt="Ghana National Association of Teachers (GNAT) Hostel" class="img-fluid">
-              </div>
-              <h3><a href="#gnat"  data-backdrop="false" data-toggle="modal">Ghana National Association of Teachers (GNAT) Hostel </a></h3>
-              <div class="stars">User Ratings: 2.5 Star 
-              </div>			  
-              <p>8.9 km (21 min drive) from the Summit venue</p>
-            </div>
-          </div>
-		  
-		  <div id="gnat" class="modal fade" >
-			<div class="modal-dialog accommodationmodal">
-				<div class="modal-content">
-					<div class="modal-header">
-						<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-
-					</div>
-					<div class="modal-body">
-						<h3>GNAT Hostel</h3>
-						<p>
-							<h3>
-								Rooms Available (with rates): 
-							</h3>	
-								<ul>
-									<li>Twin Bedrooms ($15)</li>
-								</ul>
-								<br>
-								  To book for a room at the GNAT Hostel, kindly send an email to the Summit Organizing team through <a href="mailto:summit2023@carisca.knust.edu.gh">summit2023@carisca.knust.edu.gh</a>.
-						</p>
-                        <br>
-					</div>
-					<div class="modal-footer">
-					
-						<a id="loadpage" type="button" class="btn btn-primary" href="mailto:summit2023@carisca.knust.edu.gh" style="display: inline-block; color: #ffffff; font-size: 18px; font-weight: 700; text-transform: uppercase; height: 50px; line-height: 50px; padding: 0 25px; -webkit-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px;">Book a Room</a>
-						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-					</div>
-				</div>
-				<!-- /.modal-content -->
-			</div>
-			<!-- /.modal-dialog -->
-		  </div>
-
 
        
 
@@ -558,7 +432,7 @@
 	  
 	  <br>
 	  
-	  <p style="text-align: center; padding: 0; margin: 0;font-size: 18px; font-weight: 500; color: #9195a2;">Feel free to reach out to us via summit2023@carisca.knust.edu.gh or call/Whatsapp us on +233-244-692-953 // +233-246-407-820 for any assistance</p>
+	  <p style="text-align: center; padding: 0; margin: 0;font-size: 18px; font-weight: 500; color: #9195a2;">Feel free to reach out to us via summit2024@carisca.knust.edu.gh or call/Whatsapp us on +233-244-692-953 // +233-246-407-820 for any assistance</p>
 
     </div> <!--End Hotels Section -->
   

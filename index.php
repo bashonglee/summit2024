@@ -172,8 +172,7 @@
 
 <?php require_once 'include/head.php';?>
 <?php require_once 'include/nav.php';?>
-	
-	<!-- Slider Section -->
+<!-- Slider Section -->
 	<div id="slider-section" class="slider-section container-fluid no-padding">
 		<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 			<div class="carousel-inner" role="listbox">
@@ -181,26 +180,40 @@
 					<img src="images/photos/bmic.jpg" alt="slide1" width="1920" height="770"/>
 					<div class="carousel-caption">
 						<div class="container">
+							
+						</div>
+					</div>
+				</div>
+				<div class="item">
+					<img src="images/photos/bmic1.jpg" alt="slide2" width="1920" height="770"/>
+					<div class="carousel-caption">
+						<div class="container">
 							<div class="col-md-5 col-sm-6 col-xs-9 pull-right">
-							<!--	
-								<div class="slider-content-box">
-									<div class="col-md-12 col-sm-12 col-xs-6 no-padding">
-										<h1>CARISCA 2024 SUMMIT</h1>
-										<span>Date: June 4-6, 2024</span>
-										<p>Venue: Blu Hotel, Nairobi Upper Hill, Kenya</p>
-									</div>
-									<div class="col-md-12 col-sm-12 col-xs-6 no-padding">
-										<h3>"Africa’s Supply Chain Resilience for Economic Transformation"</h3>
-									</div>
-									<div class="col-md-12 col-sm-12 col-xs-6 no-padding">
-										<a href="https://research.wpcarey.asu.edu/carisca/2024-summit/call-for-papers/#" title="Register now">Read More</a>
-									</div>
-								</div>
-							-->
+								
 							</div>
 						</div>
 					</div>
-				</div>			
+				</div>
+				<div class="item">
+					<img src="images/photos/bmic2.jpg" alt="slide3" width="1920" height="770"/>
+					<div class="carousel-caption">
+						<div class="container">
+							<div class="col-md-5 col-sm-6 col-xs-9 pull-right">
+								
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- Controls -->
+			<div class="container">
+				<a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+					<i class="fa fa-angle-left"></i>
+				</a>
+				<a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+					<i class="fa fa-angle-right"></i>
+				</a>
+			</div>
 		</div>
 	</div><!-- Slider Section /- -->
 	
