@@ -118,15 +118,15 @@
 </head>
 
 <!-- PageBanner -->
-<div class="container-fluid page-banner blogpost no-padding">
+<div class="container-fluid page-banner blogpost no-padding" style='background: url("images/faqs.jpg"); -webkit-background-size: cover;	background-size: cover;	background-position: center center; background-repeat: no-repeat; background-size: cover;'>
 		<div class="section-padding"></div>
 			<div class="container">
 				<div class="banner-content-block">
 					<div class="banner-content">
-						<h3>Conference Lodging</h3>
+						<h3>Frequestly Asked Questions</h3>
 						<ol class="breadcrumb">
 							<li><a href="index.php">Home</a></li>
-							<li class="active">Conference Lodging</li>
+							<li class="active">FAQs</li>
 						</ol>
 					</div>
 				</div>
@@ -146,30 +146,7 @@
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum sagittis vitae et leo duis ut. Ut tortor pretium viverra suspendisse potenti.</p>
           </div>
         </div>
-        <div class="accordion-item">
-          <button id="accordion-button-2" aria-expanded="false"><span class="accordion-title">Why is the sky blue?</span><span class="icon" aria-hidden="true"></span></button>
-          <div class="accordion-content">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum sagittis vitae et leo duis ut. Ut tortor pretium viverra suspendisse potenti.</p>
-          </div>
-        </div>
-        <div class="accordion-item">
-          <button id="accordion-button-3" aria-expanded="false"><span class="accordion-title">Will we ever discover aliens?</span><span class="icon" aria-hidden="true"></span></button>
-          <div class="accordion-content">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum sagittis vitae et leo duis ut. Ut tortor pretium viverra suspendisse potenti.</p>
-          </div>
-        </div>
-        <div class="accordion-item">
-          <button id="accordion-button-4" aria-expanded="false"><span class="accordion-title">How much does the Earth weigh?</span><span class="icon" aria-hidden="true"></span></button>
-          <div class="accordion-content">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum sagittis vitae et leo duis ut. Ut tortor pretium viverra suspendisse potenti.</p>
-          </div>
-        </div>
-        <div class="accordion-item">
-          <button id="accordion-button-5" aria-expanded="false"><span class="accordion-title">How do airplanes stay up?</span><span class="icon" aria-hidden="true"></span></button>
-          <div class="accordion-content">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum sagittis vitae et leo duis ut. Ut tortor pretium viverra suspendisse potenti.</p>
-          </div>
-        </div>
+        
       </div>
     </div>
    
@@ -178,8 +155,6 @@
         <?php require_once 'include/footer.php';?>
       
 
-       
-    </div><!--theme-layout end-->
 
   
     <?php require_once 'include/scripts.php';?>

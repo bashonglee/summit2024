@@ -165,13 +165,8 @@ a {
 }
 
 /* ## Page Banner */
-.page-banner {
-	background: url("images/about-banner.jpg"); 
-	-webkit-background-size: cover;
-	background-size: cover;		
-	background-position: center center;
-	background-repeat: no-repeat;
-	background-size: cover;
+.page-banner { 
+	
 	position: relative;	
 	min-height: 350px;
 	max-height: 350px;
@@ -666,6 +661,104 @@ a {
 }
 .menu-block .container {
 	position: relative;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
 }
 .navbar-fixed-top.menu-block .container {
 	border: 2px solid #3ab990;

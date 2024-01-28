@@ -7,7 +7,7 @@
 
 		updateTestimonial();
 
-		setInterval(updateTestimonial, 13000);
+		setInterval(updateTestimonial, 10000);
 
 	}
 
@@ -176,26 +176,8 @@
 	<div id="slider-section" class="slider-section container-fluid no-padding">
 		<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 			<div class="carousel-inner" role="listbox">
-				<div class="item active">
-					<img src="images/photos/bmic.jpg" alt="slide1" width="1920" height="770"/>
-					<div class="carousel-caption">
-						<div class="container">
-							
-						</div>
-					</div>
-				</div>
-				<div class="item">
+				<div class="item active" >
 					<img src="images/photos/bmic1.jpg" alt="slide2" width="1920" height="770"/>
-					<div class="carousel-caption">
-						<div class="container">
-							<div class="col-md-5 col-sm-6 col-xs-9 pull-right">
-								
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="item">
-					<img src="images/photos/bmic2.jpg" alt="slide3" width="1920" height="770"/>
 					<div class="carousel-caption">
 						<div class="container">
 							<div class="col-md-5 col-sm-6 col-xs-9 pull-right">
@@ -243,14 +225,42 @@
 								<p style="text-align: justify;">
 									CARISCA’s annual Supply Chain Research Summit is central to our goal to strengthen African supply chain capacity and put Africa’s supply chain research on the map.<br><br>
 									The conference brings together academic and non-academic researchers and public, private and civil society organizations to create an ongoing dialogue addressing complex supply chain challenges.<br><br>
-									The fourth annual Supply Chain Research Summit is set for June 4-6, 2024, in Nairobi, Kenya. Organized in collaboration with Strathmore University, the summit will be presented in a hybrid format. The in-person venue is the <a href="https://www.radissonhotels.com/en-us/hotels/radisson-blu-nairobi-upper-hill">Radisson Blu Hotel, Nairobi Upper Hill</a>. Attendees and speakers may also participate virtually via Zoom.</p>
-							</div>									
-							
+									The fourth annual Supply Chain Research Summit is set for June 4-6, 2024, in Nairobi, Kenya. Organized in collaboration with Strathmore University, the summit will be presented in a hybrid format. <br><br>
+									The in-person venue is the <a href="https://www.radissonhotels.com/en-us/hotels/radisson-blu-nairobi-upper-hill">Radisson Blu Hotel, Nairobi Upper Hill</a>. Attendees and speakers may also participate virtually via Zoom.</p>
+							</div>
+
+					</div>
+					</div>
+				</div>
+
+
+			</div>
+		</div>
+		
+	</div><!-- Howwecan Section /- -->
+
+	<!-- Howwecan Section -->
+	<div class="container-fluid no-padding howwecan-section" style="margin-top: 50px;">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-4 col-sm-6 col-xs-12">
+					<div class="howwecan-left" style="top: -40px !important">
+						<div class="img-box">
+							<img src="images/photos/149.jpg" alt="howwecan1" width="149" height="149"/>
+						</div>
+						<div class="img-box">
+							<img src="images/photos/149-2.jpg" alt="howwecan2" width="149" height="149"/>
+						</div>
+						<div class="img-box">
+							<img src="images/photos/149-3.jpg" alt="howwecan3" width="149" height="149"/>
+						</div>
 						
-				<br><br>
-				
+					</div>
+				</div>
+				<div class="col-md-8 col-sm-6 col-xs-12">
+					<div class="howwecan-right">				
 					<div class="section-header">
-								<h3>ABOUT THE THEME</h3>
+								<h3 style="line-height: 1;">Africa’s Supply Chain Resilience for Economic Transformation</h3>
 									<p style="text-align: justify;">Resilient supply chains are vital for the success of businesses and societies. Given the frequent and costly supply chain disruptions in Africa, increased investment in supply chain resilience on the continent is a pressing need.
 									<br><br>
 									Current proposals for addressing these issues are primarily at the macro level and often lack solid grounding in theory-validated frameworks. Furthermore, while studies on the drivers of supply chain resilience are growing rapidly, research specific to African supply chains remains limited.

@@ -10,7 +10,7 @@
 </head>
 
 <!-- PageBanner -->
-<div class="container-fluid page-banner blogpost no-padding">
+<div class="container-fluid page-banner blogpost no-padding" style='background: url("images/lodge.jpg"); -webkit-background-size: cover;	background-size: cover;	background-position: center center; background-repeat: no-repeat; background-size: cover;'>
 		<div class="section-padding"></div>
 			<div class="container">
 				<div class="banner-content-block">
@@ -51,13 +51,13 @@
                         <div class="col-lg-8">
                             <div class="blog-info">
                                 <p class="wow " data-wow-duration="300ms" style="text-align:justify; ">
-								The 2024 Supply Chain Research Summit will be held at the Radisson Blu hotel in Nairobi, Kenya from July 10-12, 2024.
+								The 2024 Supply Chain Research Summit will be held at the Radisson Blu Hotel, Nairobi Upper Hill.
 								<br> 
 								<br>
-								The Radisson Blu offers luxurious accommodations in the heart of Nairobi's business district, providing easy access to the summit events. Amenities include free high-speed WiFi, fitness center, and business center services.
+								The Radisson Blu offers upscale comfort in the heart of Nairobi's Upper Hill business district. Amenities include free high-speed WiFi, fitness center, and business center services.
 								 <br>
 								 <br>
-								 The room rates are available for summit attendees at the Radisson Blu starting at $225 per night. Rooms are limited, so early booking is recommended.
+								 The room rate for summit attendees at the Radisson Blu is $220 per night. Rooms are limited, so early booking is recommended.
 								 <br>
 								 <br>
 								 
@@ -77,7 +77,7 @@
 				 <br>
         <div class="row" style="text-align: justify;">
 			<p style="text-align: justify; padding: 0; margin: 0;font-size: 18px; font-weight: 500;">
-			  If the Radisson Blu Hotel is overbooked or you are looking for a more budget-friendly option, we recommend the following hotels and accommodation options near the summit venue.<br>
+			If the Radisson Blu Hotel is booked or you are looking for a more budget-friendly option, we recommend the following hotels and accommodations near the summit venue.<br>
 		
 		  
 		  </p>
@@ -87,6 +87,103 @@
         <div class="row" data-aos-delay="100">
              		  
 		 
+
+		
+		  <!-- Mercure Hotel -->
+		  <div class="col-lg-4 col-md-6">
+            <div class="hotel">
+              <div class="hotel-img">
+                <img src="img/hotels/avemaria.jpg" alt="Mercure Hotel" class="img-fluid">
+              </div>
+              <h3><a href="#avemaria"  data-backdrop="false" data-toggle="modal">Mercure Hotel</a></h3>
+              <div class="stars">User Ratings: 3 Star 
+              </div>			  
+              <p>1.2 km (2 min drive) from Summit venue</p>
+            </div>
+          </div>
+		  
+		  <div id="avemaria" class="modal fade" >
+			<div class="modal-dialog accommodationmodal">
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+
+					</div>
+					<div class="modal-body">
+						<h3>Mercure Hotel</h3>
+						<p>
+							<h3>
+								Rooms Available (with rates): 
+							</h3>	
+								<ul>
+									<li>Single Rate ($160)</li>
+									<li>Double Occupancy Rooms ($180)</li>
+								</ul> 
+                               
+						</p>
+                        <br>
+					</div>
+					<div class="modal-footer">
+					
+						<a id="loadpage" type="button" class="btn btn-primary" href="https://all.accor.com/ssr/app/accor/rates/C0D5/index.en.shtml?dateIn=2024-06-03&nights=4&compositions=1&stayplus=false&snu=false&accessibleRooms=false&hideWDR=false&hideHotelDetails=true" style="display: inline-block; color: #ffffff; font-size: 18px; font-weight: 700; text-transform: uppercase; height: 50px; line-height: 50px; padding: 0 25px; -webkit-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px;">Book a Room</a>
+						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+					</div>
+				</div>
+				<!-- /.modal-content -->
+			</div>
+			<!-- /.modal-dialog -->
+		  </div>
+
+
+		  
+		  <!-- Westpointe Suit and Apartments -->
+		  <div class="col-lg-4 col-md-6">
+            <div class="hotel">
+              <div class="hotel-img">
+                <img src="img/hotels/westpointe.jpg" alt="Westpointe Suit and Apartments" class="img-fluid">
+              </div>
+              <h3><a href="#westpointe"  data-backdrop="false" data-toggle="modal">Westpointe Suit and Apartments</a></h3>
+              <div class="stars">User Ratings: 3 Star 
+              </div>			  
+              <p>3.2 km (9 min drive) from Summit venue</p>
+            </div>
+          </div>
+		  
+		  <div id="westpointe" class="modal fade" >
+			<div class="modal-dialog accommodationmodal">
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+
+					</div>
+					<div class="modal-body">
+						<h3>Westpointe Suit and Apartments</h3>
+						<p>
+							<h3>
+								Rooms Available (with rates): 
+							</h3>	
+								<ul>
+									<li>Single Rate ($80)</li>
+									<li>Double Occupancy Rooms ($90)</li>
+								</ul> 
+                               
+						</p>
+                        <br>
+					</div>
+					<div class="modal-footer">
+					
+						<a id="loadpage" type="button" class="btn btn-primary" href="https://westpoint-suites-by-senga.nairobi-hotels-ke.com/en/" style="display: inline-block; color: #ffffff; font-size: 18px; font-weight: 700; text-transform: uppercase; height: 50px; line-height: 50px; padding: 0 25px; -webkit-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px;">Book a Room</a>
+						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+					</div>
+				</div>
+				<!-- /.modal-content -->
+			</div>
+			<!-- /.modal-dialog -->
+		  </div>
+
+
+
+
              		  
 		  <!-- Sarova Stanley Hotel -->
 		  <div class="col-lg-4 col-md-6">
@@ -133,6 +230,54 @@
 			<!-- /.modal-dialog -->
 		  </div>
 
+		  
+             		  
+		  <!--Clouds Hotels and Suites -->
+		  <div class="col-lg-4 col-md-6">
+            <div class="hotel">
+              <div class="hotel-img">
+                <img src="img/hotels/cloudshotel.jpg" alt="Clouds Hotels and Suites" class="img-fluid">
+              </div>
+              <h3><a href="#cloudshotel"  data-backdrop="false" data-toggle="modal">Clouds Hotels and Suites</a></h3>
+              <div class="stars">User Ratings: 3 Star 
+              </div>			  
+              <p>6.9 km (13 min drive) from Summit venue</p>
+            </div>
+          </div>
+		  
+		  <div id="cloudshotel" class="modal fade" >
+			<div class="modal-dialog accommodationmodal">
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+
+					</div>
+					<div class="modal-body">
+						<h3>Clouds Hotels and Suites</h3>
+						<p>
+							<h3>
+								Rooms Available (with rates): 
+							</h3>	
+								<ul>
+									<li>Single Rate ($60)</li>
+									<li>Double Occupancy Rooms ($85)</li>
+								</ul> 
+                               
+						</p>
+						<br>
+					</div>
+					<div class="modal-footer">
+					
+						<a id="loadpage" type="button" class="btn btn-primary booking" target="blank" href="http://cloudhotelsuites.com/" style="display: inline-block; color: #ffffff; font-size: 18px; font-weight: 700; text-transform: uppercase; height: 50px; line-height: 50px; padding: 0 25px; -webkit-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px;">Book a Room</a>
+						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+					</div>
+				</div>
+				<!-- /.modal-content -->
+			</div>
+			<!-- /.modal-dialog -->
+		  </div>
+
+             
        		  
 		  <!-- Nairobi Serena Hotel  -->
 		  <div class="col-lg-4 col-md-6">
@@ -228,148 +373,7 @@
 
 
              		  
-
-             		  
-		  <!--Clouds Hotels and Suites -->
-		  <div class="col-lg-4 col-md-6">
-            <div class="hotel">
-              <div class="hotel-img">
-                <img src="img/hotels/cloudshotel.jpg" alt="Clouds Hotels and Suites" class="img-fluid">
-              </div>
-              <h3><a href="#cloudshotel"  data-backdrop="false" data-toggle="modal">Clouds Hotels and Suites</a></h3>
-              <div class="stars">User Ratings: 3 Star 
-              </div>			  
-              <p>6.9 km (13 min drive) from Summit venue</p>
-            </div>
-          </div>
 		  
-		  <div id="cloudshotel" class="modal fade" >
-			<div class="modal-dialog accommodationmodal">
-				<div class="modal-content">
-					<div class="modal-header">
-						<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-
-					</div>
-					<div class="modal-body">
-						<h3>Clouds Hotels and Suites</h3>
-						<p>
-							<h3>
-								Rooms Available (with rates): 
-							</h3>	
-								<ul>
-									<li>Single Rate ($60)</li>
-									<li>Double Occupancy Rooms ($85)</li>
-								</ul> 
-                               
-						</p>
-						<br>
-					</div>
-					<div class="modal-footer">
-					
-						<a id="loadpage" type="button" class="btn btn-primary booking" target="blank" href="http://cloudhotelsuites.com/" style="display: inline-block; color: #ffffff; font-size: 18px; font-weight: 700; text-transform: uppercase; height: 50px; line-height: 50px; padding: 0 25px; -webkit-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px;">Book a Room</a>
-						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-					</div>
-				</div>
-				<!-- /.modal-content -->
-			</div>
-			<!-- /.modal-dialog -->
-		  </div>
-
-		  <!-- Westpointe Suit and Apartments -->
-		  <div class="col-lg-4 col-md-6">
-            <div class="hotel">
-              <div class="hotel-img">
-                <img src="img/hotels/westpointe.jpg" alt="Westpointe Suit and Apartments" class="img-fluid">
-              </div>
-              <h3><a href="#westpointe"  data-backdrop="false" data-toggle="modal">Westpointe Suit and Apartments</a></h3>
-              <div class="stars">User Ratings: 3 Star 
-              </div>			  
-              <p>3.2 km (9 min drive) from Summit venue</p>
-            </div>
-          </div>
-		  
-		  <div id="westpointe" class="modal fade" >
-			<div class="modal-dialog accommodationmodal">
-				<div class="modal-content">
-					<div class="modal-header">
-						<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-
-					</div>
-					<div class="modal-body">
-						<h3>Westpointe Suit and Apartments</h3>
-						<p>
-							<h3>
-								Rooms Available (with rates): 
-							</h3>	
-								<ul>
-									<li>Single Rate ($80)</li>
-									<li>Double Occupancy Rooms ($90)</li>
-								</ul> 
-                               
-						</p>
-                        <br>
-					</div>
-					<div class="modal-footer">
-					
-						<a id="loadpage" type="button" class="btn btn-primary" href="https://westpoint-suites-by-senga.nairobi-hotels-ke.com/en/" style="display: inline-block; color: #ffffff; font-size: 18px; font-weight: 700; text-transform: uppercase; height: 50px; line-height: 50px; padding: 0 25px; -webkit-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px;">Book a Room</a>
-						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-					</div>
-				</div>
-				<!-- /.modal-content -->
-			</div>
-			<!-- /.modal-dialog -->
-		  </div>
-
-
-
-		  <!-- Mercure Hotel -->
-		  <div class="col-lg-4 col-md-6">
-            <div class="hotel">
-              <div class="hotel-img">
-                <img src="img/hotels/avemaria.jpg" alt="Mercure Hotel" class="img-fluid">
-              </div>
-              <h3><a href="#avemaria"  data-backdrop="false" data-toggle="modal">Mercure Hotel</a></h3>
-              <div class="stars">User Ratings: 3 Star 
-              </div>			  
-              <p>1.2 km (2 min drive) from Summit venue</p>
-            </div>
-          </div>
-		  
-		  <div id="avemaria" class="modal fade" >
-			<div class="modal-dialog accommodationmodal">
-				<div class="modal-content">
-					<div class="modal-header">
-						<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-
-					</div>
-					<div class="modal-body">
-						<h3>Mercure Hotel</h3>
-						<p>
-							<h3>
-								Rooms Available (with rates): 
-							</h3>	
-								<ul>
-									<li>Single Rate ($160)</li>
-									<li>Double Occupancy Rooms ($180)</li>
-								</ul> 
-                               
-						</p>
-                        <br>
-					</div>
-					<div class="modal-footer">
-					
-						<a id="loadpage" type="button" class="btn btn-primary" href="https://all.accor.com/ssr/app/accor/rates/C0D5/index.en.shtml?dateIn=2024-06-03&nights=4&compositions=1&stayplus=false&snu=false&accessibleRooms=false&hideWDR=false&hideHotelDetails=true" style="display: inline-block; color: #ffffff; font-size: 18px; font-weight: 700; text-transform: uppercase; height: 50px; line-height: 50px; padding: 0 25px; -webkit-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px;">Book a Room</a>
-						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-					</div>
-				</div>
-				<!-- /.modal-content -->
-			</div>
-			<!-- /.modal-dialog -->
-		  </div>
-
-
-
-             		  
 		  <!-- Air BnB -->
 		  <div class="col-lg-4 col-md-6">
             <div class="hotel">
@@ -432,8 +436,6 @@
 	  
 	  <br>
 	  
-	  <p style="text-align: center; padding: 0; margin: 0;font-size: 18px; font-weight: 500; color: #9195a2;">Feel free to reach out to us via summit2024@carisca.knust.edu.gh or call/Whatsapp us on +233-244-692-953 // +233-246-407-820 for any assistance</p>
-
     </div> <!--End Hotels Section -->
   
   
