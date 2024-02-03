@@ -2,29 +2,13 @@
 
 
 <?php require_once 'include/head.php';?>
-<?php require_once 'include/nav.php';?>
+<?php require_once 'include/nav2.php';?>
 
 
 <head>	
   <link href="assets/css/custom.css" rel="stylesheet">  
 </head>
 
-<!-- PageBanner -->
-<div class="container-fluid page-banner blogpost no-padding">
-		<div class="section-padding"></div>
-			<div class="container">
-				<div class="banner-content-block">
-					<div class="banner-content">
-						<h3>Visa Tips</h3>
-						<ol class="breadcrumb">
-							<li><a href="index.php">Home</a></li>
-							<li class="active">Visa Tips</li>
-						</ol>
-					</div>
-				</div>
-			</div>
-		<div class="section-padding"></div>
-	</div><!-- PageBanner /- -->
 
 
 

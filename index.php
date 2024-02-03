@@ -62,7 +62,7 @@
 			}
 			.tcontainer label{
 			display:block;
-			width:32%;
+			width:20%;
 			border: 4px solid white;
 			position:absolute;
 			bottom:5px;
@@ -187,7 +187,7 @@
 					</div>
 				</div>
 			</div>
-			<!-- Controls -->
+			<!-- Controls 
 			<div class="container">
 				<a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
 					<i class="fa fa-angle-left"></i>
@@ -196,6 +196,7 @@
 					<i class="fa fa-angle-right"></i>
 				</a>
 			</div>
+			-->
 		</div>
 	</div><!-- Slider Section /- -->
 	
@@ -222,7 +223,7 @@
 					<div class="howwecan-right">
 						<div class="section-header">
 							<h3>ABOUT THE SUMMIT</h3>
-								<p style="text-align: justify;">
+								<p>
 									CARISCA’s annual Supply Chain Research Summit is central to our goal to strengthen African supply chain capacity and put Africa’s supply chain research on the map.<br><br>
 									The conference brings together academic and non-academic researchers and public, private and civil society organizations to create an ongoing dialogue addressing complex supply chain challenges.<br><br>
 									The fourth annual Supply Chain Research Summit is set for June 4-6, 2024, in Nairobi, Kenya. Organized in collaboration with Strathmore University, the summit will be presented in a hybrid format. <br><br>
@@ -243,30 +244,36 @@
 	<div class="container-fluid no-padding howwecan-section" style="margin-top: 50px;">
 		<div class="container">
 			<div class="row">
+			
 				<div class="col-md-4 col-sm-6 col-xs-12">
+				
 					<div class="howwecan-left" style="top: -40px !important">
+					<!--
 						<div class="img-box">
 							<img src="images/photos/149.jpg" alt="howwecan1" width="149" height="149"/>
 						</div>
 						<div class="img-box">
-							<img src="images/photos/149-2.jpg" alt="howwecan2" width="149" height="149"/>
+							<img src="images/photos/149-4.jpg" alt="howwecan2" width="149" height="149"/>
 						</div>
 						<div class="img-box">
-							<img src="images/photos/149-3.jpg" alt="howwecan3" width="149" height="149"/>
+							<img src="images/photos/149-5.jpg" alt="howwecan3" width="149" height="149"/>
 						</div>
-						
+						-->
 					</div>
+					
 				</div>
+
+				
 				<div class="col-md-8 col-sm-6 col-xs-12">
 					<div class="howwecan-right">				
 					<div class="section-header">
 								<h3 style="line-height: 1;">Africa’s Supply Chain Resilience for Economic Transformation</h3>
-									<p style="text-align: justify;">Resilient supply chains are vital for the success of businesses and societies. Given the frequent and costly supply chain disruptions in Africa, increased investment in supply chain resilience on the continent is a pressing need.
+									<ps>Resilient supply chains are vital for the success of businesses and societies. Given the frequent and costly supply chain disruptions in Africa, increased investment in supply chain resilience on the continent is a pressing need.
 									<br><br>
 									Current proposals for addressing these issues are primarily at the macro level and often lack solid grounding in theory-validated frameworks. Furthermore, while studies on the drivers of supply chain resilience are growing rapidly, research specific to African supply chains remains limited.
 									<br><br>
 									Addressing these supply chain resilience themes requires a forum such as the 2024 Supply Chain Research Summit. There, supply chain scholars will brainstorm and share ideas on how Africa’s supply chains can be repositioned to drive the continent’s economic transformation agenda.
-									</p>
+									</ps>
 					</div>
 
 					</div>
@@ -278,6 +285,105 @@
 		</div>
 		
 	</div><!-- Howwecan Section /- -->
+
+
+	<!-- Keynote Speakers -->
+	<div class="container-fluid our-history our-history-section upcoming-event latest-blog no-padding">
+		<div class="container text-center">
+		<div class="section-padding"></div>
+			<div class="section-header">
+				<h3>Our Keynote Speakers</h3>
+			</div>
+			<div class="row">
+				<div class="col-md-6 col-sm-6 col-xs-6">
+					<article class="type-post">
+						<div class="entry-cover">
+							<a href="#"><img src="images/photos/glenn.jpg" alt="Glenn" width="370" height="300"/></a>
+						</div>
+						<div class="entry-block">
+							<div class="entry-title">
+								<a href="#" title="Glenn Richey"><h3>Glenn Richey</h3></a>
+							</div>
+							<div class="entry-meta">					
+								<div class="post-metablock">
+									<div class="post-time">
+										<span>Harbert Eminent Scholar in Supply Chain Management</span>
+									</div>
+									<div class="post-location">
+										<span>Auburn University (USA)</span>
+									</div>
+								</div>
+							</div>
+							<div class="entry-content">
+								<p>Glenn Richey is the research director in the Center for Supply Chain Innovation. [...]</p>
+							</div>
+							<a href="#" class="learn-more" title="Learn More">Read More</a>
+						</div>
+					</article>
+				</div>
+				<div class="col-md-6 col-sm-6 col-xs-6">
+					<article class="type-post">
+						<div class="entry-cover">
+							<a href="#"><img src="images/photos/patrick.jpg" alt="patrick" width="370" height="300"/></a>
+						</div>
+						<div class="entry-block">
+							<div class="entry-title">
+								<a href="#" title="Patrick"><h3>Patrick K. Wanjuki</h3></a>
+							</div>
+							<div class="entry-meta">
+								<div class="post-metablock">
+									<div class="post-time">
+										<span>Director General</span>
+									</div>
+									<div class="post-location">
+										<span>Kenya Public Procurement Regulatory Authority (PPRA) </span>
+									</div>
+								</div>
+							</div>
+							<div class="entry-content">
+								<p>Mr. Patrick K. Wanjuki is a supply management practitioner and procurement specialist with over 20 years’ experience [..]</p>
+							</div>
+							<a href="#" class="learn-more" title="Learn More">Read More</a>
+						</div>
+					</article>
+				</div>
+
+				<!-- Third Speaker
+				<div class="col-md-4 col-sm-6 col-xs-6">
+					<article class="type-post">
+						<div class="entry-cover">
+							<a href="eventsingle-page.html"><img src="images/history3.jpg" alt="history" width="370" height="300"/></a>
+						</div>
+						<div class="entry-block">
+							<div class="entry-title">
+								<a href="eventsingle-page.html" title="Event Badge Attendance"><h3>Event Badge Attendance</h3></a>
+							</div>
+							<div class="entry-meta">
+								<div class="post-metablock">
+									<div class="post-time">
+										<span>11:00pm - 03:00pm</span>
+									</div>
+									<div class="post-location">
+										<span>3rd Dist, NY, North America</span>
+									</div>
+								</div>
+							</div>
+							<div class="entry-content">
+								<p>The power less in a world of criminals who operate above the law the mate.</p>
+							</div>
+							<a href="eventsingle-page.html" class="learn-more" title="Learn More">Learn More</a>
+						</div>
+					</article>
+				</div>
+
+				-->
+			</div>
+		</div>
+		<div class="section-padding"></div>
+	</div><!-- Our History /- -->
+
+
+
 
 	<br><br><br>
 	<!-- Latest News -->
@@ -358,7 +464,7 @@
 	<div class="container-fluid testimonial-section no-padding">
 	<div class="container">	
 	<div class="section-header no-padding">
-					<h3>Testimonials from 2023 Summit participants</h3>					
+					<h3 style="line-height: 30px !important;">Testimonials from 2023 Summit participants</h3>					
 				</div>
 	<div class="tcontainer">
 		<div class="container">

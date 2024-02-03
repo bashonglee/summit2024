@@ -271,7 +271,6 @@
 	transform: rotate(-45deg);
 	-ms-transform: rotate(-45deg); 
     -webkit-transform: rotate(-45deg);  
-	top: -80px;
 	left: -67px;
 	z-index: 10;	
 	margin-left: -67px;
@@ -1392,7 +1391,6 @@
 	margin-top: -18px;
 }
 .latest-blog .type-post .entry-meta [class*="post-"] {
-	float: left;
 	margin-right: 13px;
 	transition: all 1s ease 0s;
 	-webkit-transition: all 1s ease 0s;
@@ -2472,7 +2470,6 @@
 }
 .upcoming-event .post-metablock {
     margin-bottom: 4px;
-	padding-left: 64px;
 }
 .upcoming-event.latest-blog .post-time {
 	display: inline-block;
@@ -2483,7 +2480,6 @@
 	letter-spacing: 0.65px;
 	padding-bottom: 3px;
 	padding-left: 16px;
-	text-align: left;
 }
 .upcoming-event.latest-blog .post-time::before,
 .upcoming-event.latest-blog .post-time::after {
@@ -2506,8 +2502,7 @@
 	text-transform: capitalize;
 	color: #777;
 	font-size: 13px;
-	padding-left: 16px;
-	text-align: left;
+	text-align: center;
 }
 
 /* -- Our History */

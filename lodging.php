@@ -2,7 +2,7 @@
 
 
 <?php require_once 'include/head.php';?>
-<?php require_once 'include/nav.php';?>
+<?php require_once 'include/nav2.php';?>
 
 
 <head>	
