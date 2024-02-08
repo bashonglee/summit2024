@@ -50,14 +50,14 @@
                     
                         <div class="col-lg-8">
                             <div class="blog-info">
-                                <p class="wow " data-wow-duration="300ms" style="text-align:justify; ">
+                                <p class="wow " data-wow-duration="300ms" ">
 								The 2024 Supply Chain Research Summit will be held at the Radisson Blu Hotel, Nairobi Upper Hill.
 								<br> 
 								<br>
 								The Radisson Blu offers upscale comfort in the heart of Nairobi's Upper Hill business district. Amenities include free high-speed WiFi, fitness center, and business center services.
 								 <br>
 								 <br>
-								 The room rate for summit attendees at the Radisson Blu is $220 per night. Rooms are limited, so early booking is recommended.
+								 To get the reduced rate for CARISCA summit participants, book your room using <strong><a href="https://www.radissonhotels.com/en-us/booking/room-display?hotelCode=KENBOUPP&checkInDate=2024-06-02&checkOutDate=2024-06-12&adults%5B%5D=1&children%5B%5D=0&searchType=pac&promotionCode=CAR&voucher=">this link</a></strong>.
 								 <br>
 								 <br>
 								 
@@ -76,7 +76,7 @@
 		         <p style="text-align: center; padding: 0; margin: 0;font-size: 26px; font-weight: 500; color:#3ab990;">Other Recommended Options</p>
 				 <br>
         <div class="row" style="text-align: justify;">
-			<p style="text-align: justify; padding: 0; margin: 0;font-size: 18px; font-weight: 500;">
+			<p style="padding: 0; margin: 0;font-size: 18px; font-weight: 500;">
 			If the Radisson Blu Hotel is booked or you are looking for a more budget-friendly option, we recommend the following hotels and accommodations near the summit venue.<br>
 		
 		  

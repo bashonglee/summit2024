@@ -65,21 +65,25 @@
 										-->
 								<li><a title="Register" href="index.php#callforpapers">Call For Papers</a></li>
 								<li><a title="Register" href="https://asu.us2.list-manage.com/track/click?u=7beebdc6c8a3317d91ebb0c8e&id=324581b318&e=606e6c6139">Registration</a></li>
-								<li><a title="Lodging" href="lodging.php">Lodging</a></li>
-								<li><a title="Visa" href="visa.php">Visa</a></li>
-								
-								<!--
+
 								<li class="dropdown">
-									<a aria-expanded="false" aria-haspopup="true" role="button" class="dropdown-toggle" title="Travel" href="#">Travel</a>
+									<a aria-expanded="false" aria-haspopup="true" role="button" class="dropdown-toggle" title="Program" >Program</a>
 									<i class="ddl-switch fa fa-angle-down"></i>
 									<ul class="dropdown-menu">
-										<li><a title="Venue" href="https://www.radissonhotels.com/en-us/hotels/radisson-blu-nairobi-upper-hill">Summit Venue</a></li>
-										<li><a title="Lodging" href="#">Lodging</a></li>
-										<li><a title="Travel Tips" href="#">Travel Tips</a></li>
+										<li><a title="Lodging" href="#">Keynote Speakers</a></li>
+										<li><a title="Visa" href="#">Schedule</a></li>
 									</ul>
 								</li>
 
-										-->
+								<li class="dropdown">
+									<a aria-expanded="false" aria-haspopup="true" role="button" class="dropdown-toggle" title="Travel" >Travel</a>
+									<i class="ddl-switch fa fa-angle-down"></i>
+									<ul class="dropdown-menu">
+										<li><a title="Lodging" href="lodging.php">Lodging</a></li>
+										<li><a title="Visa" href="visa.php">Visa</a></li>
+									</ul>
+								</li>
+
 								<li class="dropdown">
 									<a aria-expanded="false" aria-haspopup="true" role="button" class="dropdown-toggle" title="Gallery" href="gallery.php">Gallery</a>
 									<i class="ddl-switch fa fa-angle-down"></i>
