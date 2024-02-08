@@ -64,7 +64,7 @@
 
 
 <!-- PageBanner -->
-<div class="container-fluid page-banner blogpost no-padding" style='background: url("images/sponsor-banner.jpg"); -webkit-background-size: cover;	background-size: cover;	background-position: center center; background-repeat: no-repeat; background-size: cover;'>
+<div class="container-fluid page-banner blogpost no-padding" style='background: url("images/sponsor.jpg"); -webkit-background-size: cover;	background-size: cover;	background-position: center center; background-repeat: no-repeat; background-size: cover;'>
 		<div class="section-padding"></div>
 			<div class="container">
 				<div class="banner-content-block">
