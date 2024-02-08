@@ -30,7 +30,7 @@
 			}
 			.tcontainer .container{
 			width:800px;
-			min-height:315px;
+			min-height:350px;
 			margin:0 auto;
 			position:relative;
 			padding-bottom:30px;
@@ -480,12 +480,14 @@
 				<blockquote>
 				<span class="leftq quotes">&ldquo;</span> <p id="testimonial-quote"> <span class="rightq quotes">&bdquo; </span>
 				</blockquote>
-				<img id="testimonial-image" width="150" style="margin-top: 11px; margin-left:10px;border-radius: 25px 70px;" />
+				<img id="testimonial-image" width="150" style="margin-top: 11px; margin-left:10px;border-radius: 25px 70px;"/>
 				<h2 id="testimonial-author"></h2>
-				<h6 id="testimonial-role"></h6>				
-				<h6 id="testimonial-role"></h6>
-				<h6 id="testimonial-role"></h6>				
-				<h6 id="testimonial-role"></h6>
+				<div>
+					<h6 id="testimonial-role"> </h6>
+					<h6 id="testimonial-organisation"></h6> 
+					<h6 id="testimonial-extra"></h6>
+				</div>	
+				
 			</div>	
 		</div>
 	</div>
@@ -498,6 +500,7 @@
 
 	<?php require_once 'include/footer.php';?>
 	<?php require_once 'include/scripts.php';?>
+
 </body>
 	
 </html>
