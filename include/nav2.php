@@ -40,7 +40,7 @@
 		<div class="menu-block container-fluid no-padding">
 			<!-- Container -->
 			<div class="container">
-				<div class="col-md-10 col-sm-12">
+				<div class="col-md-10 col-sm-12" style="width: 98% !important;">
 					<!-- Navigation -->
 					<nav class="navbar ow-navigation">
 						<div class="navbar-header">
@@ -92,6 +92,8 @@
 										<li><a title="2021" href="gallery.php#2021">2021 Summit</a></li>
 									</ul>
 								</li>
+								
+								<li><a title="Sponsorship/Exhibition" href="sponsorship.php">Sponsor/Exhibitor</a></li>
 
 								<!--
 								<li><a title="FAQs" href="#">FAQs</a></li> -->
