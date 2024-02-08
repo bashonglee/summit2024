@@ -227,7 +227,7 @@
 									CARISCA’s annual Supply Chain Research Summit is central to our goal to strengthen African supply chain capacity and put Africa’s supply chain research on the map.<br><br>
 									The conference brings together academic and non-academic researchers and public, private and civil society organizations to create an ongoing dialogue addressing complex supply chain challenges.<br><br>
 									The fourth annual Supply Chain Research Summit is set for June 4-6, 2024, in Nairobi, Kenya. Organized in collaboration with Strathmore University, the summit will be presented in a hybrid format. <br><br>
-									The in-person venue is the <a href="https://www.radissonhotels.com/en-us/hotels/radisson-blu-nairobi-upper-hill">Radisson Blu Hotel, Nairobi Upper Hill</a>. Attendees and speakers may also participate virtually via Zoom.</p>
+									The in-person venue is the Radisson Blu Hotel, Nairobi Upper Hill. Attendees and speakers may also participate virtually via Zoom.</p>
 							</div>
 
 					</div>
@@ -295,6 +295,32 @@
 				<h3>Our Keynote Speakers</h3>
 			</div>
 			<div class="row">
+			<div class="col-md-6 col-sm-6 col-xs-6">
+					<article class="type-post">
+						<div class="entry-cover">
+							<a href="#"><img src="images/photos/lydia.jpg" alt="patrick" width="370" height="300"/></a>
+						</div>
+						<div class="entry-block">
+							<div class="entry-title">
+								<a href="#" title="Patrick"><h3>Lydiah Kiburu</h3></a>
+							</div>
+							<div class="entry-meta">
+								<div class="post-metablock">
+									<div class="post-time">
+										<span>Group Director for Business Transformation, Brand & Culture</span>
+									</div>
+									<div class="post-location">
+										<span>Equity Group Holdings Plc (Kenya) </span>
+									</div>
+								</div>
+							</div>
+							<div class="entry-content">
+								<p>“Leveraging technology and innovation to build resilient supply chains in Africa”</p>
+							</div>
+							<a href="#" class="learn-more" title="Learn More">Read More</a>
+						</div>
+					</article>
+				</div>
 				<div class="col-md-6 col-sm-6 col-xs-6">
 					<article class="type-post">
 						<div class="entry-cover">
@@ -315,38 +341,13 @@
 								</div>
 							</div>
 							<div class="entry-content">
-								<p>Glenn Richey is the research director in the Center for Supply Chain Innovation. [...]</p>
+								<p>“Responsiveness, Organizational Learning and AI: The Future of Supply Chain Strategy”</p>
 							</div>
 							<a href="#" class="learn-more" title="Learn More">Read More</a>
 						</div>
 					</article>
 				</div>
-				<div class="col-md-6 col-sm-6 col-xs-6">
-					<article class="type-post">
-						<div class="entry-cover">
-							<a href="#"><img src="images/photos/patrick.jpg" alt="patrick" width="370" height="300"/></a>
-						</div>
-						<div class="entry-block">
-							<div class="entry-title">
-								<a href="#" title="Patrick"><h3>Patrick K. Wanjuki</h3></a>
-							</div>
-							<div class="entry-meta">
-								<div class="post-metablock">
-									<div class="post-time">
-										<span>Director General</span>
-									</div>
-									<div class="post-location">
-										<span>Kenya Public Procurement Regulatory Authority (PPRA) </span>
-									</div>
-								</div>
-							</div>
-							<div class="entry-content">
-								<p>Mr. Patrick K. Wanjuki is a supply management practitioner and procurement specialist with over 20 years’ experience [..]</p>
-							</div>
-							<a href="#" class="learn-more" title="Learn More">Read More</a>
-						</div>
-					</article>
-				</div>
+				
 
 				<!-- Third Speaker
 				<div class="col-md-4 col-sm-6 col-xs-6">
@@ -481,6 +482,9 @@
 				</blockquote>
 				<img id="testimonial-image" width="150" style="margin-top: 11px; margin-left:10px;border-radius: 25px 70px;" />
 				<h2 id="testimonial-author"></h2>
+				<h6 id="testimonial-role"></h6>				
+				<h6 id="testimonial-role"></h6>
+				<h6 id="testimonial-role"></h6>				
 				<h6 id="testimonial-role"></h6>
 			</div>	
 		</div>

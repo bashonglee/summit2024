@@ -9,7 +9,7 @@ const testimonials = [
     {
       quote: 'What really stood out were the discussions post presentations, the groundwork being done by the Innovation Lab, the collaboration work between academics and practitioners – really inspiring work.',
       author: 'ASSILAH AGIGI',
-      role: 'LECTURER, UNIVERSITY OF PRETORIA, SOUTH AFRICA; 2021 2021 PHD DISSERTATION AWARD WINNER',
+      role: 'LECTURER, UNIVERSITY OF PRETORIA, SOUTH AFRICA; 2021 PHD DISSERTATION AWARD WINNER',
       image: 'images/photos/assilah.jpg' 
     },
     {
