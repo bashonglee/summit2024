@@ -295,7 +295,7 @@
 				<h3>Our Keynote Speakers</h3>
 			</div>
 			<div class="row">
-			<div class="col-md-6 col-sm-6 col-xs-6">
+			<div class="col-md-4 col-sm-4 col-xs-4">
 					<article class="type-post">
 						<div class="entry-cover">
 							<a href="#"><img src="images/photos/lydia.jpg" alt="patrick" width="370" height="300"/></a>
@@ -315,13 +315,13 @@
 								</div>
 							</div>
 							<div class="entry-content">
-								<p>“Leveraging technology and innovation to build resilient supply chains in Africa”</p>
+								<p>“Leveraging Technology and Innovation To Build Resilient Supply Chains in Africa”</p>
 							</div>
 							<a href="#" class="learn-more" title="Learn More">Read More</a>
 						</div>
 					</article>
 				</div>
-				<div class="col-md-6 col-sm-6 col-xs-6">
+				<div class="col-md-4 col-sm-4 col-xs-4">
 					<article class="type-post">
 						<div class="entry-cover">
 							<a href="#"><img src="images/photos/glenn.jpg" alt="Glenn" width="370" height="300"/></a>
@@ -342,6 +342,33 @@
 							</div>
 							<div class="entry-content">
 								<p>“Responsiveness, Organizational Learning and AI: The Future of Supply Chain Strategy”</p>
+							</div>
+							<a href="#" class="learn-more" title="Learn More">Read More</a>
+						</div>
+					</article>
+				</div>
+
+				<div class="col-md-4 col-sm-4 col-xs-4">
+					<article class="type-post">
+						<div class="entry-cover">
+							<a href="#"><img src="images/photos/patrick.jpg" alt="Patrick" width="370" height="300"/></a>
+						</div>
+						<div class="entry-block">
+							<div class="entry-title">
+								<a href="#" title="Glenn Richey"><h3>Patrick Wanjuki</h3></a>
+							</div>
+							<div class="entry-meta">					
+								<div class="post-metablock">
+									<div class="post-time">
+										<span>Director General, Public Procurement Regulatory Authority</span>
+									</div>
+									<div class="post-location">
+										<span>Kenya</span>
+									</div>
+								</div>
+							</div>
+							<div class="entry-content">
+								<p>“His topic shall have this full section to rule</p>
 							</div>
 							<a href="#" class="learn-more" title="Learn More">Read More</a>
 						</div>

@@ -37,7 +37,7 @@
 		<div class="menu-block container-fluid no-padding">
 			<!-- Container -->
 			<div class="container">
-				<div class="col-md-10 col-sm-12" style="width: 98% !important;">
+				<div class="col-md-10 col-sm-12" style="width: 100% !important;">
 					<!-- Navigation -->
 					<nav class="navbar ow-navigation">
 						<div class="navbar-header">
@@ -70,8 +70,8 @@
 									<a aria-expanded="false" aria-haspopup="true" role="button" class="dropdown-toggle" title="Program" >Program</a>
 									<i class="ddl-switch fa fa-angle-down"></i>
 									<ul class="dropdown-menu">
-										<li><a title="Lodging" href="#">Keynote Speakers</a></li>
-										<li><a title="Visa" href="#">Schedule</a></li>
+										<li><a title="Keynote Speakers" href="#">Speakers</a></li>
+										<li><a title="Schedule" href="#">Schedule</a></li>
 									</ul>
 								</li>
 

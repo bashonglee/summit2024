@@ -89,11 +89,11 @@
 	
 		<h3>Sponsorship and Exhibition Packages</h3> 
     <p>
-		The CARISCA’s 2024 Supply Chain Research Summit provides an excellent opportunity for your organisation to connect with key stakeholders in the supply chain industry across Africa. As a sponsor, you will gain valuable visibility and networking opportunities with professionals at the forefront of shaping the future of supply chains on the continent.
+		CARISCA’s 2024 Supply Chain Research Summit provides an excellent opportunity for your organisation to connect with key stakeholders in the supply chain industry across Africa. As a sponsor, you will gain valuable visibility and networking opportunities with professionals at the forefront of shaping the future of supply chains on the continent.
  	</p>
 <br>
     <p> 
-		We offer sponsorship packages to fit any budget. Review the sponsorship levels below and select the option that best promotes your organisation while supporting this important event. Together, we can empower African supply chain talent and promote economic growth. Contact us today to secure your sponsorship of the CARISCA’s 2024 Supply Chain Research Summit!
+		We offer sponsorship packages to fit any budget. Review the sponsorship levels below and select the option that best promotes your organisation while supporting this important event. Together, we can empower African supply chain talent and promote economic growth. Contact us today to secure your sponsorship of CARISCA’s 2024 Supply Chain Research Summit!
 	</p>
 
 
