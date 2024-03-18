@@ -87,25 +87,51 @@
 <div class="container-fluid no-padding howwecan-section">
 		<div class="container">
 	
-		<h3>Sponsorship and Exhibition Packages</h3> 
+		<h3>SPONSOR AND EXHIBIT AT THE 2024 SUPPLY CHAIN RESEARCH SUMMIT </h3> 
     <p>
-		CARISCA’s 2024 Supply Chain Research Summit provides an excellent opportunity for your organisation to connect with key stakeholders in the supply chain industry across Africa. As a sponsor, you will gain valuable visibility and networking opportunities with professionals at the forefront of shaping the future of supply chains on the continent.
+	The Centre for Applied Research and Innovation in Supply Chain-Africa (CARISCA) invites you to be a sponsor or exhibitor at the 2024 Annual Supply Chain Research Summit,. This will be an opportunity for you to engage academics, industry players, students and policy makers and other key stakeholders in Africa and global supply chain management, procurement, and logistics. The date and venue for the event is below:
  	</p>
 <br>
     <p> 
-		We offer sponsorship packages to fit any budget. Review the sponsorship levels below and select the option that best promotes your organisation while supporting this important event. Together, we can empower African supply chain talent and promote economic growth. Contact us today to secure your sponsorship of CARISCA’s 2024 Supply Chain Research Summit!
+	<strong> Date: July 4-6, 2024</strong>
 	</p>
+        </div>
+		<div class="container">
+	
+		<h3>WHY SPONSOR THE 2024 RESEARCH SUMMIT?</h3> 
+    <p>
+	The summit sponsors shall be exposed to highly engaged academics of international repute, industry players and other key stakeholders in the supply chain management. Sponsoring the summit gives you:
+ 	</p>
+	<li class="active">Visibility</li>
+	<li class="active">Networking opportunities</li>
+	<li class="active">Marketing opportunities</li>
+	<li class="active">Opportunity to contribute toward the growth of the logistics and supply chain management industry in Africa</li>
+        </div>
+</div>
+  
+
+<div class="container-fluid no-padding howwecan-section">
+		<div class="container">
+	
+		<h3>EVENTS HIGHLIGHTS</h3> 
+    <p>
+	<li class="active">Research Presentations</li>
+	<li class="active">Expert Panel Discussions</li>
+	<li class="active">Networking Opportunities</li>
+	<li class="active">Exhibition Space</li>
+ 	</p>
 
 
   
         </div>
 </div>
   
+  
     
 <div class="-fluid no-padding howwecan-section">	
 	<div class="container">
 		<ul class="nav nav-tabs" id="sponsorshipTabs">
-		<h3>Sponsorship Packages</h3> 
+		<h3>SPONSORSHIP CATEGORIES AND BENEFITS</h3> 
 		<p>
 		Click on each tab to view the details of each sponsorship package.  
  		</p>
@@ -133,8 +159,7 @@
 						 <ol> Name and logo on next year’s CARISCA Supply Chain Action Network (SCAN) sponsors page.  </ol> 
 						 <ol> Name and link to your website on the summit app and rolling banner.  </ol> 
 						 <ol> Public recognition at the Summit’s Dinner and Dissertation Awards ceremony</ol> 
-						 <ol> Advertisement of services in conference printed brochure</ol> 						 
-						 <ol> Exhibitor space at the 2024 Summit</ol>
+						 <ol> Advertisement of services in conference printed brochure</ol>
 					</ul> 
 				</div> 
 			</div>
@@ -155,8 +180,7 @@
 						 <ol> Name and logo on next year’s CARISCA Supply Chain Action Network (SCAN) sponsors page.  </ol> 
 						 <ol> Name and link to your website on the summit app and rolling banner.  </ol> 
 						 <ol> Public recognition at the Summit’s Dinner and Dissertation Awards ceremony</ol> 
-						 <ol> Advertisement of services in conference printed brochure</ol>						 
-						 <ol> Exhibitor space at the 2024 Summit</ol> 
+						 <ol> Advertisement of services in conference printed brochure</ol
 					</ul> 
 				</div> 
 			</div>
@@ -176,8 +200,7 @@
 						 <ol> Name and logo on next year’s CARISCA Supply Chain Action Network (SCAN) sponsors page.  </ol> 
 						 <ol> Name and link to your website on the summit app and rolling banner.  </ol> 
 						 <ol> Public recognition at the Summit’s Dinner and Dissertation Awards ceremony</ol> 
-						 <ol> Advertisement of services in conference printed brochure</ol> 						 
-						 <ol> Exhibitor space at the 2024 Summit</ol>
+						 <ol> Advertisement of services in conference printed brochure</ol> 
 					</ul> 
 				</div> 
 			</div>
@@ -195,8 +218,7 @@
 						 <ol>Name and logo to be advertised on CARISCA Summit website with a link to your website  </ol>						 
 						 <ol> Name and link to your website on the summit app and rolling banner.  </ol> 
 						 <ol> Public recognition at the Summit’s Dinner and Dissertation Awards ceremony</ol> 
-						 <ol> Advertisement of services in conference printed brochure </ol> 						 
-						 <ol> Exhibitor space at the 2024 Summit</ol>
+						 <ol> Advertisement of services in conference printed brochure </ol> 
 					</ul> 
 				</div> 
 			</div>

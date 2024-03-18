@@ -225,9 +225,10 @@
 							<h3>ABOUT THE SUMMIT</h3>
 								<p>
 									CARISCA’s annual Supply Chain Research Summit is central to our goal to strengthen African supply chain capacity and put Africa’s supply chain research on the map.<br><br>
-									The conference brings together academic and non-academic researchers and public, private and civil society organizations to create an ongoing dialogue addressing complex supply chain challenges.<br><br>
+									The conference brings together academic and non-academic researchers and public, private and civil society organizations to create an ongoing dialogue addressing complex supply chain challenges.<br><br> 
+									<!--
 									The fourth annual Supply Chain Research Summit is set for June 4-6, 2024, in Nairobi, Kenya. Organized in collaboration with Strathmore University, the summit will be presented in a hybrid format. <br><br>
-									The in-person venue is the <a href="lodging.php"> Radisson Blu Hotel, Nairobi Upper Hill.</a> Attendees and speakers may also participate virtually via Zoom.</p>
+									The in-person venue is the <a href="lodging.php"> Radisson Blu Hotel, Nairobi Upper Hill.</a> Attendees and speakers may also participate virtually via Zoom.</p> -->
 							</div>
 
 					</div>
@@ -295,7 +296,7 @@
 				<h3>Our Keynote Speakers</h3>
 			</div>
 			<div class="row">
-			<div class="col-md-4 col-sm-4 col-xs-4">
+			<div class="col-md-6 col-sm-6 col-xs-6">
 					<article class="type-post">
 						<div class="entry-cover">
 							<a href="#"><img src="images/photos/lydia.jpg" alt="patrick" width="370" height="300"/></a>
@@ -321,7 +322,7 @@
 						</div>
 					</article>
 				</div>
-				<div class="col-md-4 col-sm-4 col-xs-4">
+				<div class="col-md-6 col-sm-6 col-xs-6">
 					<article class="type-post">
 						<div class="entry-cover">
 							<a href="#"><img src="images/photos/glenn.jpg" alt="Glenn" width="370" height="300"/></a>
@@ -347,6 +348,8 @@
 						</div>
 					</article>
 				</div>
+
+			<!--
 
 				<div class="col-md-4 col-sm-4 col-xs-4">
 					<article class="type-post">
@@ -374,6 +377,8 @@
 						</div>
 					</article>
 				</div>
+
+				-->
 				
 
 				<!-- Third Speaker

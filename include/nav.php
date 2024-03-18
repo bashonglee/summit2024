@@ -64,7 +64,7 @@
 
 										-->
 								<li><a title="Register" href="index.php#callforpapers">Call For Papers</a></li>
-								<li><a title="Register" href="https://asu.us2.list-manage.com/track/click?u=7beebdc6c8a3317d91ebb0c8e&id=324581b318&e=606e6c6139">Registration</a></li>
+								<li><a title="Register" href="register.php">Registration</a></li>
 
 								<li class="dropdown">
 									<a aria-expanded="false" aria-haspopup="true" role="button" class="dropdown-toggle" title="Program" >Program</a>

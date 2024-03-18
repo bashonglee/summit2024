@@ -48,7 +48,7 @@
                             </div><!--abt-imgs end-->
                         </div>
                     
-                        <div class="col-lg-8">
+                        <div class="col-lg-8" style="padding: 10px 31px;">
                             <div class="blog-info">
                                 <p class="wow " data-wow-duration="300ms" ">
 								The 2024 Supply Chain Research Summit will be held at the Radisson Blu Hotel, Nairobi Upper Hill.
