@@ -89,18 +89,17 @@
 	
 		<h3>SPONSOR AND EXHIBIT AT THE 2024 SUPPLY CHAIN RESEARCH SUMMIT </h3> 
     <p>
-	The Centre for Applied Research and Innovation in Supply Chain-Africa (CARISCA) invites you to be a sponsor or exhibitor at the 2024 Annual Supply Chain Research Summit,. This will be an opportunity for you to engage academics, industry players, students and policy makers and other key stakeholders in Africa and global supply chain management, procurement, and logistics. The date and venue for the event is below:
- 	</p>
+	The Centre for Applied Research and Innovation in Supply Chain-Africa (CARISCA) invites you to be a sponsor or exhibitor at the 2024 Supply Chain Research Summit. This will be an opportunity for you to engage academics, industry players, students, policy makers and other key stakeholders in Africa and global supply chain management, procurement and logistics. The dates and venue for the event are below: 	</p>
 <br>
     <p> 
-	<strong> Date: July 4-6, 2024</strong>
+	<strong> Dates: July 4-6, 2024</strong>
 	</p>
         </div>
 		<div class="container">
 	
 		<h3>WHY SPONSOR THE 2024 RESEARCH SUMMIT?</h3> 
     <p>
-	The summit sponsors shall be exposed to highly engaged academics of international repute, industry players and other key stakeholders in the supply chain management. Sponsoring the summit gives you:
+	The summit sponsors shall be exposed to highly engaged academics of international repute, industry players and other key stakeholders in supply chain management. Sponsoring the summit gives you:
  	</p>
 	<li class="active">Visibility</li>
 	<li class="active">Networking opportunities</li>

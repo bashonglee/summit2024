@@ -33,7 +33,7 @@
     <div class="theme-layout">
 
 
- <section class="about-sec sec-padding" id="about" data-scroll-index="1">
+ <section class="about-sec sec-padding"  data-scroll-index="1">
             <div class="container" style="margin-top: 20px;">
                 <div class="blog-info" style="color:black;">
                     <div class="row">
