@@ -91,7 +91,7 @@
     Registration fees are covered, courtesy of CARISCA. In-person attendees only need to fund their own transportation and lodging. Included with this fee for in-person registrants will be snack breaks and lunch each day plus dinner on June 5 and all conference sessions. 
  	</p>
 
-<button href="#" title="Final Registration Link will appear here">Click Here to Register </button>
+<button href="https://asu.us2.list-manage.com/track/click?u=7beebdc6c8a3317d91ebb0c8e&id=324581b318&e=606e6c6139" title="Registration Link">Click Here to Register </button>
 
   
         </div>

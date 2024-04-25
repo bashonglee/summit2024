@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<script src="js/testimonialslider.js">
+<script src="js/testimonialslider.js"></script>
 <script>
 	window.onload = function() {
 
@@ -165,6 +165,11 @@
 			left:0;
 			opacity:1;
 			}
+			.pdaarticle {
+  display: flex; /* Enables Flexbox for the element */
+  justify-content: center; /* Centers the content horizontally */
+  align-items: center; /* Optionally centers the content vertically (if content has different heights) */
+}
 
 </style>
 
@@ -423,9 +428,11 @@
 	<div class="container-fluid latest-blog latest-blog-section no-padding">
 		<div class="container">	
 		<div class="section-header">
-								<h3 id="callforpapers">CALL FOR PAPERS NOW OPEN</h3>
+								<h3 id="callforpapers">CALL FOR PAPERS NOW CLOSED</h3>
 		</div>
 			<div class="row">
+
+			<!--
 				<div class="col-md-6 col-sm-6 col-xs-12">
 					<article class="type-post">
 						<div class="col-md-6 col-sm-6 col-xs-6">
@@ -436,16 +443,19 @@
 						<div class="col-md-6 col-sm-6 col-xs-6">
 							
 							<div class="entry-title">
-								<a href="https://asu.us2.list-manage.com/track/click?u=7beebdc6c8a3317d91ebb0c8e&id=324581b318&e=606e6c6139" title="Summit Call for Papers"><h3>Call for Papers</h3></a>
+								<a href="https://asu.us2.list-manage.com/track/click?u=7beebdc6c8a3317d91ebb0c8e&id=324581b318&e=606e6c6139" title="Summit Call for Papers" target="_blank"><h3>Call for Papers</h3></a>
 							</div>
 							<div class="entry-content">
 								<p>This year’s summit will take an in-depth look at <b> “Africa’s Supply Chain Resilience for Economic Transformation.”</b> We invite you to share your research, knowledge and insights by submitting a paper abstract for presentation at the summit.  </p>
 							</div>
-							<a href="https://asu.us2.list-manage.com/track/click?u=7beebdc6c8a3317d91ebb0c8e&id=324581b318&e=606e6c6139" class="learn-more" title="Learn More">Learn More</a>
+							<a href="https://asu.us2.list-manage.com/track/click?u=7beebdc6c8a3317d91ebb0c8e&id=324581b318&e=606e6c6139" class="learn-more" title="Learn More" target="_blank">Learn More</a>
 						</div>
 					</article>
 				</div>
-				<div class="col-md-6 col-sm-6 col-xs-12">
+				-->
+
+
+				<div class="col-md-6 col-sm-6 col-xs-12 pdaarticle">
 					<article class="type-post">
 						<div class="col-md-6 col-sm-6 col-xs-6">
 							<div class="entry-cover">
@@ -464,6 +474,8 @@
 						</div>
 					</article>
 				</div>
+
+			<!--
 				<div class="col-md-6 col-sm-6 col-xs-12">
 					<article class="type-post">
 						<div class="col-md-6 col-sm-6 col-xs-6">
@@ -483,6 +495,9 @@
 						</div>
 					</article>
 				</div>
+
+
+				-->
 			</div>
 		</div>
 		<div class="section-padding"></div>

@@ -1,0 +1,251 @@
+
+.conference-sec {
+    float: left;
+    width: 100%;
+    background-color: #122135;
+    padding: 70px 0;
+  }
+  
+  .conference-tabs-sec {
+    float: left;
+    width: 100%;
+  }
+  .conference-tabs-sec .conf-tab-list {
+    float: left;
+    width: 100%;
+  }
+  .conference-tabs-sec .conf-tab-list ul {
+    float: left;
+    width: 100%;
+    border: 0;
+    -webkit-border-radius: 40px 40px 0 0;
+    -ms-border-radius: 40px 40px 0 0;
+    border-radius: 40px 40px 0 0;
+  }
+  .conference-tabs-sec .conf-tab-list ul li {
+    float: left;
+    width: 25%;
+    text-align: center;
+  }
+  .conference-tabs-sec .conf-tab-list ul li a {
+    display: inline-block;
+    background: inherit;
+    color: #ffffff;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 300;
+    border: 0;
+    padding: 13px 0 11px 0;
+    width: 100%;
+  }
+  .conference-tabs-sec .conf-tab-list ul li a strong {
+    text-transform: uppercase;
+    display: block;
+    font-weight: 700;
+    margin-bottom: 2px;
+  }
+  .conference-tabs-sec .conf-tab-list ul li a strong.onlyy {
+    margin-top: 11px;
+  }
+  .conference-tabs-sec .conf-tab-list ul li.active {
+    background: inherit;
+  }
+  .conference-tabs-sec .nav-tabs .nav-item {
+    margin: 0;
+    border: 0;
+  }
+  .conference-tabs-sec .nav-tabs .nav-item.show .nav-link, .conference-tabs-sec .nav-tabs .nav-link.active {
+    background-color: inherit;
+    border: 0;
+    color: #2f876f;
+  }
+  .conference-tabs-sec .tab-content {
+    float: left;
+    width: 100%;
+  }
+  .conference-tabs-sec .tab-content .tab-pane {
+    float: left;
+    width: 100%;
+  }
+  .conference-tabs-sec .tab-content .tab-pane .nav-tabs {
+    float: left;
+    width: 100%;
+    background-color: #fff;
+    border-color: #8598b0;
+  }
+  .conference-tabs-sec .tab-content .tab-pane .nav-tabs li {
+    float: left;
+    width: 25%;
+  }
+  .conference-tabs-sec .tab-content .tab-pane .nav-tabs li a {
+    padding: 0;
+    width: 100%;
+    float: left;
+    color: #293239;
+    font-size: 18px;
+    font-weight: 300;
+    text-align: center;
+    padding: 10px 0 10px 0;
+    position: relative;
+    -webkit-border-radius: 0;
+    -ms-border-radius: 0;
+    border-radius: 0;
+  }
+  .conference-tabs-sec .tab-content .tab-pane .nav-tabs li a:before {
+    content: '';
+    position: absolute;
+    bottom: -4px;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-bottom: 2px solid;
+    opacity: 0;
+    visibility: hidden;
+  }
+  .conference-tabs-sec .tab-content .tab-pane .nav-tabs li a.active:before {
+    opacity: 1;
+    visibility: visible;
+  }
+  
+  .confy-cmpt-details {
+    float: left;
+    width: 100%;
+    border: 1px solid;
+    padding: 30px 69px 0 69px;
+    border-bottom: 10px solid;
+    -webkit-border-radius: 0 0 10px 10px;
+    -ms-border-radius: 0 0 10px 10px;
+    border-radius: 0 0 10px 10px;
+  }
+  .confy-cmpt-details ul {
+    float: left;
+    width: 100%;
+  }
+  .confy-cmpt-details ul li {
+    float: left;
+    width: 100%;
+    margin-bottom: 30px;
+  }
+  .confy-cmpt-details ul li:last-child {
+    border-bottom: 0;
+  }
+  .confy-cmpt-details .cmpt-details {
+    float: left;
+    width: 100%;
+    display: table;
+  }
+  .confy-cmpt-details .cmpt-details .cmp-img {
+    display: table-cell;
+    float: left;
+    width: 50px;
+    margin-right: 46px;
+  }
+  .confy-cmpt-details .cmpt-details .cmp-img img {
+    border: 8px solid #556172;
+    -webkit-border-radius: 100px;
+    -ms-border-radius: 100px;
+    border-radius: 100px;
+    width: 100%;
+  }
+  .confy-cmpt-details .cmpt-details .cmp-info {
+    display: table-cell;
+    width: 100%;
+    background-color: #1e2c3f;
+    padding: 23px 20px;
+    vertical-align: top;
+    -webkit-border-radius: 10px;
+    -ms-border-radius: 10px;
+    border-radius: 10px;
+    position: relative;
+  }
+  .confy-cmpt-details .cmpt-details .cmp-info:before {
+    content: '';
+    position: absolute;
+    top: 31px;
+    left: -7px;
+    border-top: 15px solid #1e2c3f;
+    border-right: 15px solid transparent;
+    -webkit-transform: rotate(-42deg);
+    -ms-transform: rotate(-42deg);
+    transform: rotate(-42deg);
+  }
+  .confy-cmpt-details .cmpt-details .cmp-info .cmp-head {
+    float: left;
+    width: 100%;
+    position: relative;
+    border-bottom: 1px solid #d2d2dc;
+    padding-bottom: 8px;
+    margin-bottom: 14px;
+  }
+  .confy-cmpt-details .cmpt-details .cmp-info .cmp-head span {
+    display: inline-block;
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 300;
+  }
+  .confy-cmpt-details .cmpt-details .cmp-info .cmp-head span i {
+    padding-right: 5px;
+  }
+  .confy-cmpt-details .cmpt-details .cmp-info .cmp-head h3 {
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 3px;
+  }
+  .confy-cmpt-details .cmpt-details .cmp-info .cmp-head .share-btn {
+    position: absolute;
+    top: 18px;
+    right: 0;
+    width: 32px;
+    height: 32px;
+    border: 1px solid #cb163c;
+    text-align: center;
+    line-height: 32px;
+    -webkit-border-radius: 100px;
+    -ms-border-radius: 100px;
+    border-radius: 100px;
+    font-size: 16px;
+  }
+  .confy-cmpt-details .cmpt-details .cmp-info p {
+    float: left;
+    width: 100%;
+    font-size: 14px;
+    line-height: 24px;
+    color: #eff6ff;
+    letter-spacing: 0.4px;
+    margin-bottom: 12px;
+  }
+  .confy-cmpt-details .cmpt-details .cmp-info .us-details {
+    float: left;
+    width: 100%;
+    margin-bottom: 1px;
+  }
+  .confy-cmpt-details .cmpt-details .cmp-info .us-details h3 {
+    font-size: 18px;
+    font-family: neue-haas-grotesk-display, sans-serif;
+    float: left;
+    width: auto;
+  }
+  .confy-cmpt-details .cmpt-details .cmp-info .us-details h3 i {
+    padding-right: 0;
+  }
+  .confy-cmpt-details .cmpt-details .cmp-info .us-details h3 small {
+    font-weight: 400;
+    font-size: 14px;
+  }
+  .confy-cmpt-details .cmpt-details .cmp-info .us-details ul {
+    float: left;
+    width: auto;
+    padding-left: 8px;
+  }
+  .confy-cmpt-details .cmpt-details .cmp-info .us-details ul li {
+    display: inline-block;
+    float: none;
+    width: auto;
+    margin-right: 7px;
+    margin-bottom: 0;
+  }
+  .confy-cmpt-details .cmpt-details .cmp-info .us-details ul li a {
+    display: inline-block;
+    font-size: 18px;
+  }
+  

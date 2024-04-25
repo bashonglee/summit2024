@@ -87,25 +87,40 @@
 <div class="container-fluid no-padding howwecan-section">
 		<div class="container">
 	
-		<h3>SPONSOR AND EXHIBIT AT THE 2024 SUPPLY CHAIN RESEARCH SUMMIT </h3> 
-    <p>
-	The Centre for Applied Research and Innovation in Supply Chain-Africa (CARISCA) invites you to be a sponsor or exhibitor at the 2024 Supply Chain Research Summit. This will be an opportunity for you to engage academics, industry players, students, policy makers and other key stakeholders in Africa and global supply chain management, procurement and logistics. The dates and venue for the event are below: 	</p>
-<br>
-    <p> 
-	<strong> Dates: July 4-6, 2024</strong>
-	</p>
+			<h3>SPONSOR AND EXHIBIT AT THE 2024 SUPPLY CHAIN RESEARCH SUMMIT </h3> 
+			<p>
+				The Centre for Applied Research and Innovation in Supply Chain-Africa (CARISCA) invites you to be a sponsor or exhibitor at the 2024 Supply Chain Research Summit. This will be an opportunity for you to engage academics, industry players, students, policy makers and other key stakeholders in Africa and global supply chain management, procurement and logistics. The dates and venue for the event are below:
+			</p>
+		<br>
+			<p> 
+			<strong> Dates: July 4-6, 2024</strong>
+			</p>
         </div>
 		<div class="container">
 	
-		<h3>WHY SPONSOR THE 2024 RESEARCH SUMMIT?</h3> 
-    <p>
-	The summit sponsors shall be exposed to highly engaged academics of international repute, industry players and other key stakeholders in supply chain management. Sponsoring the summit gives you:
- 	</p>
-	<li class="active">Visibility</li>
-	<li class="active">Networking opportunities</li>
-	<li class="active">Marketing opportunities</li>
-	<li class="active">Opportunity to contribute toward the growth of the logistics and supply chain management industry in Africa</li>
+			<h3>WHY SPONSOR THE 2024 RESEARCH SUMMIT?</h3> 
+			<p>
+			The summit sponsors shall be exposed to highly engaged academics of international repute, industry players and other key stakeholders in supply chain management. Sponsoring the summit gives you:
+			</p>
+			<li class="active">Visibility</li>
+			<li class="active">Networking opportunities</li>
+			<li class="active">Marketing opportunities</li>
+			<li class="active">Opportunity to contribute toward the growth of the logistics and supply chain management industry in Africa</li>
         </div>
+	<!--
+		
+		<div class="container">	
+			<h3>Sponsor Benefits</h3> 
+			<li class="active">Name on sponsor banner posted prominently at CARISCA reception and awards dinner</li>
+			<li class="active">Name and logo on summit website with a link to your website</li>
+			<li class="active">Name posted on signage for your choice of individual event(s) to be sponsored</li>
+			<li class="active">Recognition for sponsorship of your choice of two tracks (first come first served)</li>
+			<li class="active">Name and link to your website on the summit app </li>
+			<li class="active">Public recognition at the summit dinner and Dissertation Awards ceremony</li>
+			<li class="active">Recognition in conference printed brochure</li>
+        </div>
+
+				
 </div>
   
 
@@ -124,13 +139,14 @@
   
         </div>
 </div>
-  
+
+-->
   
     
 <div class="-fluid no-padding howwecan-section">	
 	<div class="container">
 		<ul class="nav nav-tabs" id="sponsorshipTabs">
-		<h3>SPONSORSHIP CATEGORIES AND BENEFITS</h3> 
+		<h3>SPONSORSHIP BENEFITS</h3> 
 		<p>
 		Click on each tab to view the details of each sponsorship package.  
  		</p>
@@ -151,7 +167,7 @@
 						<li> <strong>Number of Exhibition Booths:</strong> 2 </li> 
 						<br>
 						<li> <strong>Additional Benefits</strong></li> 
-						<ol> Name on sponsor banner posted prominently at all CARISCA reception and Awards dinner</ol>
+						 <ol type="i"> Name on sponsor banner posted prominently at all CARISCA reception and Awards dinner</ol>
 						 <ol>Name and logo to be advertised on CARISCA Summit website with a link to your website  </ol> 
 						 <ol>Name to be posted on signage for your choice of individual event(s) to be sponsored. </ol> 
 						 <ol> Recognition for sponsorship of your choice of two tracks (first come first served).</ol> 
@@ -276,6 +292,7 @@
 		</div>
 	</div>
 </div>
+
   
 
         <?php require_once 'include/footer.php';?>
