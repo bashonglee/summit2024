@@ -67,7 +67,7 @@
 									<i class="ddl-switch fa fa-angle-down"></i>
 									<ul class="dropdown-menu">
 										<li><a title="Lodging" href="lodging.php">Lodging</a></li>
-										<li><a title="Visa" href="visa.php">Visa</a></li>
+										<li><a title="Visa" href="travel.php">Travel Tips</a></li>
 									</ul>
 								</li>
 								<li class="dropdown">
