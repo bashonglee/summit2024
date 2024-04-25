@@ -91,6 +91,10 @@
 					<div class="tab-content">
 						<div role="tabpanel" class="tab-pane fade" id="schedule_1">
 							<div class="panel-group schedule-accordion" id="accordion" role="tablist" aria-multiselectable="true">
+                            Paper Development Workshop
+                            <br>
+                            <br>
+
 								<div class="panel panel-default">
 									<div class="panel-heading" role="tab" id="schedule_accrodion_heading_1">
 										<h4 class="panel-title">
