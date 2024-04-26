@@ -301,7 +301,8 @@
 				<h3>Our Keynote Speakers</h3>
 			</div>
 			<div class="row">
-			<div class="col-md-6 col-sm-6 col-xs-6">
+			
+			<div class="col-md-4 col-sm-4 col-xs-4">
 					<article class="type-post">
 						<div class="entry-cover">
 							<a href="#"><img src="images/photos/lydia.jpg" alt="patrick" width="370" height="300"/></a>
@@ -327,7 +328,7 @@
 						</div>
 					</article>
 				</div>
-				<div class="col-md-6 col-sm-6 col-xs-6">
+				<div class="col-md-4 col-sm-4 col-xs-4">
 					<article class="type-post">
 						<div class="entry-cover">
 							<a href="#"><img src="images/photos/glenn.jpg" alt="Glenn" width="370" height="300"/></a>
@@ -348,6 +349,32 @@
 							</div>
 							<div class="entry-content">
 								<p>“Responsiveness, Organizational Learning and AI: The Future of Supply Chain Strategy”</p>
+							</div>
+							<a href="#" class="learn-more" title="Learn More">Read More</a>
+						</div>
+					</article>
+				</div>
+				<div class="col-md-4 col-sm-4 col-xs-4">
+					<article class="type-post">
+						<div class="entry-cover">
+							<a href="#"><img src="images/photos/faith.jpg" alt="faith" width="370" height="300"/></a>
+						</div>
+						<div class="entry-block">
+							<div class="entry-title">
+								<a href="#" title="Patrick"><h3>Faith (Mokubung) Mashele</h3></a>
+							</div>
+							<div class="entry-meta">
+								<div class="post-metablock">
+									<div class="post-time">
+										<span>Procurement Ninja and Chairperson</span>
+									</div>
+									<div class="post-location">
+										<span>CIPS, Guateng</span>
+									</div>
+								</div>
+							</div>
+							<div class="entry-content">
+								<p></p>
 							</div>
 							<a href="#" class="learn-more" title="Learn More">Read More</a>
 						</div>
