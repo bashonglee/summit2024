@@ -41,13 +41,16 @@
 				<div>
 					<article class="type-post">                              
                         <div class="entry-block">
-                        <h3>Summit Speakers</h3>                          
+                        <h3>Summit Speakers</h3>  
+                        <br>
+                        <br>
+                        <br>                        
                             <div class="entry-content">
                             <h3>Lydiah Kiburu</h3>                                  
                                 <p
                                     >Group Director for Business Transformation, Brand & Culture
                                     <br>
-                                    Group Director for Business Transformation, Brand & Culture
+                                    Equity Group Holdings Plc (Kenya)
                                 </p>
                                 <div class="entry-thumbnail">
                                     <img src="images/blog-post1.jpg" alt="blog-post1" width="380" height="280"/>
@@ -64,10 +67,12 @@
                                     </p>
                                 </div>
                             </div>
+                        <br>
+                        <br>
 
                             <div class="entry-content">
-                            <h3>Glenn Richey</h3> 
-                                <p>
+                            <h3 style="text-align: right;">Glenn Richey</h3> 
+                                <p style="text-align: right;">
                                     Harbert Eminent Scholar in Supply Chain Management
                                     <br>
                                     Auburn University (USA)

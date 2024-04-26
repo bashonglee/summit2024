@@ -88,7 +88,7 @@
 	
 		<h3>Registration Information</h3> 
     <p>
-	Registration fees were covered, courtesy of CARISCA. In-person attendees only needed to fund their own transportation and lodging. 	</p>
+	Registration fees are covered, courtesy of CARISCA. In-person attendees only need to fund their own transportation and lodging. 	</p>
 
 <button href="https://na.eventscloud.com/782387" title="Registration Link">Click Here to Register </button>
 

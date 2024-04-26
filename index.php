@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <script src="js/testimonialslider.js"></script>
 <script>
 	window.onload = function() {
@@ -302,32 +302,34 @@
 			</div>
 			<div class="row">
 			
-			<div class="col-md-4 col-sm-4 col-xs-4">
+				
+				<div class="col-md-4 col-sm-4 col-xs-4">
 					<article class="type-post">
 						<div class="entry-cover">
-							<a href="#"><img src="images/photos/lydia.jpg" alt="patrick" width="370" height="300"/></a>
+							<a href="#"><img src="images/photos/faith.jpg" alt="faith" width="370" height="300"/></a>
 						</div>
 						<div class="entry-block">
 							<div class="entry-title">
-								<a href="#" title="Patrick"><h3>Lydiah Kiburu</h3></a>
+								<a href="#" title="Patrick"><h3>Faith (Mokubung) Mashele</h3></a>
 							</div>
 							<div class="entry-meta">
 								<div class="post-metablock">
 									<div class="post-time">
-										<span>Group Director for Business Transformation, Brand & Culture</span>
+										<span>Procurement Ninja and Chairperson</span>
 									</div>
 									<div class="post-location">
-										<span>Equity Group Holdings Plc (Kenya) </span>
+										<span>CIPS, Guateng</span>
 									</div>
 								</div>
 							</div>
 							<div class="entry-content">
-								<p>“Leveraging Technology and Innovation To Build Resilient Supply Chains in Africa”</p>
+								<p></p>
 							</div>
 							<a href="#" class="learn-more" title="Learn More">Read More</a>
 						</div>
 					</article>
 				</div>
+
 				<div class="col-md-4 col-sm-4 col-xs-4">
 					<article class="type-post">
 						<div class="entry-cover">
@@ -354,27 +356,28 @@
 						</div>
 					</article>
 				</div>
+				
 				<div class="col-md-4 col-sm-4 col-xs-4">
 					<article class="type-post">
 						<div class="entry-cover">
-							<a href="#"><img src="images/photos/faith.jpg" alt="faith" width="370" height="300"/></a>
+							<a href="#"><img src="images/photos/lydia.jpg" alt="patrick" width="370" height="300"/></a>
 						</div>
 						<div class="entry-block">
 							<div class="entry-title">
-								<a href="#" title="Patrick"><h3>Faith (Mokubung) Mashele</h3></a>
+								<a href="#" title="Patrick"><h3>Lydiah Kiburu</h3></a>
 							</div>
 							<div class="entry-meta">
 								<div class="post-metablock">
 									<div class="post-time">
-										<span>Procurement Ninja and Chairperson</span>
+										<span>Group Director for Business Transformation, Brand & Culture</span>
 									</div>
 									<div class="post-location">
-										<span>CIPS, Guateng</span>
+										<span>Equity Group Holdings Plc (Kenya) </span>
 									</div>
 								</div>
 							</div>
 							<div class="entry-content">
-								<p></p>
+								<p>“Leveraging Technology and Innovation To Build Resilient Supply Chains in Africa”</p>
 							</div>
 							<a href="#" class="learn-more" title="Learn More">Read More</a>
 						</div>
