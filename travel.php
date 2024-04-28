@@ -28,15 +28,15 @@
 </head>
 
 <!-- PageBanner -->
-<div class="container-fluid page-banner blogpost no-padding" style='background: url("images/visa.jpg"); -webkit-background-size: cover;	background-size: cover;	background-position: center center; background-repeat: no-repeat; background-size: cover;'>
+<div class="container-fluid page-banner blogpost no-padding" style='background: url("images/visa.jpg"); -webkit-background-size: cover;	background-size: cover;	background-position: center center; background-repeat: no-repeat; background-size: cover; min-height: 200px;'>
 		<div class="section-padding"></div>
 			<div class="container">
 				<div class="banner-content-block">
 					<div class="banner-content">
-						<h3>Travel Info</h3>
+						<h3>Travel Tips</h3>
 						<ol class="breadcrumb">
 							<li><a href="index.php">Home</a></li>
-							<li class="active">Travel Info</li>
+							<li class="active">Travel Tips</li>
 						</ol>
 					</div>
 				</div>
@@ -107,7 +107,7 @@
 							<h3 class="wow " data-wow-duration="500ms">Visas</h3>
 						</div>
 								<p style="text-align: justify"> 
-								If you reside outside Ghana and require a visa for entry, please email summit2023@carisca.knust.edu.gh
+								If you reside outside Ghana and require a visa for entry, please email info@carisca.knust.edu.gh
 								 <br>
 								 For more information on immigration and visa requirements for entry into Ghana, please <a href="https://home.gis.gov.gh/">click here </a> to visit the Ghana Immigration website.
 								 </p>								 
@@ -128,11 +128,11 @@
 							
 								<div class="sec-title">
 									<h3 class="wow " data-wow-duration="500ms">Electricity</h3>
-								</div>
-								<br>	
-								<p style="text-align: justify"> 								
+									<p style="text-align: justify"> 								
 								In Ghana, the standard voltage is 230 volts with a frequency of 50 Hz, and the electrical sockets used are Type G. Type G sockets have three rectangular prongs in a triangular pattern and are commonly used in the United Kingdom and Ireland (<a href="https://electricaloutlet.org/type-g" target="blank">see examples here</a>). It is recommended to bring a universal adapter if you plan to use electrical appliances from other countries.
 								</p>
+								</div>
+								
                           
 						
 					</div>

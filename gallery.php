@@ -33,8 +33,7 @@
 <section class="about-sec sec-padding" id="about" data-scroll-index="1">
         <div class="container">
                 <div class="section-header no-padding" style="margin-bottom: 0 !important;">
-                    <h1 class="wow " data-wow-duration="500ms" style="text-align: center; visibility: visible;">Our Gallery</h1>
-                    <br><br><br>
+                    <br>
                     <h3 class="wow " data-wow-duration="500ms" id="2023">Images from the 2023 Summit</h3>
                 </div><!--sec-title end-->
         </div>

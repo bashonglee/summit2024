@@ -171,8 +171,7 @@
 						 <ol>Name and logo to be advertised on CARISCA Summit website with a link to your website  </ol> 
 						 <ol>Name to be posted on signage for your choice of individual event(s) to be sponsored. </ol> 
 						 <ol> Recognition for sponsorship of your choice of two tracks (first come first served).</ol> 
-						 <ol> Name and logo on next year’s CARISCA Supply Chain Action Network (SCAN) sponsors page.  </ol> 
-						 <ol> Name and link to your website on the summit app and rolling banner.  </ol> 
+						 <ol> Name and link to your website on the summit app.  </ol> 
 						 <ol> Public recognition at the Summit’s Dinner and Dissertation Awards ceremony</ol> 
 						 <ol> Advertisement of services in conference printed brochure</ol>
 					</ul> 
@@ -192,8 +191,7 @@
 						 <ol>Name and logo to be advertised on CARISCA Summit website with a link to your website  </ol> 
 						 <ol>Name to be posted on signage for your choice of individual event(s) to be sponsored. </ol> 
 						 <ol> Recognition for sponsorship of your choice of two tracks (first come first served).</ol> 
-						 <ol> Name and logo on next year’s CARISCA Supply Chain Action Network (SCAN) sponsors page.  </ol> 
-						 <ol> Name and link to your website on the summit app and rolling banner.  </ol> 
+						 <ol> Name and link to your website on the summit app.  </ol> 
 						 <ol> Public recognition at the Summit’s Dinner and Dissertation Awards ceremony</ol> 
 						 <ol> Advertisement of services in conference printed brochure</ol
 					</ul> 
@@ -212,10 +210,9 @@
 						<ol> Name on sponsor banner posted prominently at all CARISCA reception and Awards dinner</ol>
 						 <ol>Name and logo to be advertised on CARISCA Summit website with a link to your website  </ol> 
 						 <ol>Name to be posted on signage for your choice of individual event(s) to be sponsored. </ol> 
-						 <ol> Name and logo on next year’s CARISCA Supply Chain Action Network (SCAN) sponsors page.  </ol> 
-						 <ol> Name and link to your website on the summit app and rolling banner.  </ol> 
+						 <ol> Name and link to your website on the summit app.  </ol> 
 						 <ol> Public recognition at the Summit’s Dinner and Dissertation Awards ceremony</ol> 
-						 <ol> Advertisement of services in conference printed brochure</ol> 
+						 <ol> Recognition in conference printed brochure</ol> 
 					</ul> 
 				</div> 
 			</div>
@@ -231,9 +228,9 @@
 						<li> <strong>Additional Benefits</strong></li> 
 						<ol> Name on sponsor banner posted prominently at all CARISCA reception and Awards dinner</ol>
 						 <ol>Name and logo to be advertised on CARISCA Summit website with a link to your website  </ol>						 
-						 <ol> Name and link to your website on the summit app and rolling banner.  </ol> 
+						 <ol> Name and link to your website on the summit app.  </ol> 
 						 <ol> Public recognition at the Summit’s Dinner and Dissertation Awards ceremony</ol> 
-						 <ol> Advertisement of services in conference printed brochure </ol> 
+						 <ol> Recognition in conference printed brochure </ol> 
 					</ul> 
 				</div> 
 			</div>
@@ -248,8 +245,7 @@
 						<li> <strong>Additional Benefits</strong></li> 
 						 <ol>Name and logo to be advertised on CARISCA Summit website with a link to your website  </ol> 						 
 						 <ol> Public recognition at the Summit’s Dinner and Dissertation Awards ceremony</ol> 
-						 <ol> Advertisement of services in conference printed brochure  
-						</ol> 
+						 <ol> Recognition in conference printed brochure</ol> 
 					</ul> 
 				</div> 
 			</div>

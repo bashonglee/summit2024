@@ -41,7 +41,7 @@
                             <div class="abt-imgs">
                                 <div class="row">
                                         <div class="abt-img wow " data-wow-duration="400ms">
-                                            <img src="images/resources/kempinski.jpg" alt="">
+                                            <img src="img/hotels/kempinski.jpg" alt="">
                                             <a href="https://www.kempinski.com/en/booking/select_room?hotelId=1100&clearBookingParams=1&room1Adults=1&startDate=2024-06-03&endDate=2024-06-06" title="" class="html5lightbox"></a>
                                         </div><!--abt-img end-->                                    
                                 </div>
@@ -51,10 +51,10 @@
                         <div class="col-lg-8" style="padding: 10px 31px;">
                             <div class="blog-info">
                                 <p class="wow " data-wow-duration="300ms" ">
-								The 2024 Supply Chain Research Summit will be held at the Kempinski Hotel, Accra-Ghana.
+								The 2024 Supply Chain Research Summit will be held at the Kempinski Hotel Gold Coast City, Accra-Ghana.
 								<br> 
 								<br>
-                                The Kempinski Hotel Accra serves as the convenient and luxurious home base for this year's conference. Situated in the heart of Accra's business district, the hotel offers attendees easy access to key areas while remaining close to the city's vibrant cultural center. With a range of upscale rooms and suites, the Kempinski caters to both productivity and relaxation. Enjoy high-speed Wi-Fi connectivity for seamless conference participation and unwind after a successful day with on-site spa treatments or world-class dining experiences.
+                                The Kempinski Hotel Gold Coast City, Accra serves as the convenient and luxurious home base for this year's conference. Situated in the heart of Accra's business district, the hotel offers attendees easy access to key areas while remaining close to the city's vibrant cultural center. With a range of upscale rooms and suites, the Kempinski caters to both productivity and relaxation. Enjoy high-speed Wi-Fi connectivity for seamless conference participation and unwind after a successful day with on-site spa treatments or world-class dining experiences.
 								 <br>
 								 <br>
 								
@@ -77,7 +77,7 @@
 				 <br>
         <div class="row" style="text-align: justify;">
 			<p style="padding: 0; margin: 0;font-size: 18px; font-weight: 500;">
-			If the Kempinski Hotel is booked or you are looking for a more budget-friendly option, we recommend the following hotels and accommodations near the summit venue.<br>
+			If the Kempinski Hotel Gold Coast City is booked or you are looking for a more budget-friendly option, we recommend the following hotels and accommodations near the summit venue.<br>
 		
 		  
 		  </p>
@@ -96,9 +96,9 @@
                 <img src="img/hotels/accracity.jpg" alt="Accra City Hotel" class="img-fluid">
               </div>
               <h3><a href="#accracity"  data-backdrop="false" data-toggle="modal">Accra City Hotel</a></h3>
-              <div class="stars">User Ratings: 4 Star 
+              <div class="stars">User Ratings: 4 Stars
               </div>			  
-              <p>1 km (3 min drive) from Summit venue</p>
+              <p>1.7 km (4 min drive) from Summit venue</p>
             </div>
           </div>
 		  
@@ -138,20 +138,20 @@
 
 
 		  
-		  <!-- Hotel Avenida-->
+		  <!-- Movenpick Hotel-->
 		  <div class="col-lg-4 col-md-6">
             <div class="hotel">
               <div class="hotel-img">
-                <img src="img/hotels/avenida.jpg" alt="Hotel Avenida" class="img-fluid">
+                <img src="img/hotels/movenpick.jpg" alt="Movenpick Hotel" class="img-fluid">
               </div>
-              <h3><a href="#avenida"  data-backdrop="false" data-toggle="modal">Move</a></h3>
-              <div class="stars">User Ratings: 3 Star 
+              <h3><a href="#movenpick"  data-backdrop="false" data-toggle="modal">Movenpick Ambassador Hotel</a></h3>
+              <div class="stars">User Ratings: 4 Stars 
               </div>			  
-              <p>2 km (7 min drive) from Summit venue</p>
+              <p>2 km (5 min drive) from Summit venue</p>
             </div>
           </div>
 		  
-		  <div id="avenida" class="modal fade" >
+		  <div id="movenpick" class="modal fade" >
 			<div class="modal-dialog accommodationmodal">
 				<div class="modal-content">
 					<div class="modal-header">
@@ -159,14 +159,15 @@
 
 					</div>
 					<div class="modal-body">
-						<h3>Hotel Avenida</h3>
+						<h3>Movenpick Ambassador Hotel</h3>
 						<p>
 							<h3>
 								Rooms Available (with rates): 
 							</h3>	
 								<ul>
-									<li>Single Rate ($80)</li>
-									<li>Double Occupancy Rooms ($90)</li>
+									<li>Standard ($280) </li>
+									<li>Double ($280) </li>
+									<li>Superior ($326) </li>
 								</ul> 
                                
 						</p>
@@ -174,7 +175,7 @@
 					</div>
 					<div class="modal-footer">
 					
-						<a id="loadpage" type="button" class="btn btn-primary" href="https://www.hotels.com/ho647523168/jenos-hotels-accra-ghana/?locale=en_GB&pos=HCOM_ME&recommendations-overlay=recommendations-overlay&siteid=310000033" style="display: inline-block; color: #ffffff; font-size: 18px; font-weight: 700; text-transform: uppercase; height: 50px; line-height: 50px; padding: 0 25px; -webkit-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px;">Book a Room</a>
+						<a id="loadpage" type="button" class="btn btn-primary" href="https://www.hotels.com/ho382463/movenpick-ambassador-hotel-accra-accra-ghana/?chkin=2024-06-03&chkout=2024-06-06&x_pwa=1&rfrr=HSR&pwa_ts=1714311913097&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&rffrid=sem.hcom.GH.156.024.mapresults.02.desktop-1.kwrd%3DGGMETA.4617953GHen-20240603-N-ABW%3D38-camp%3D-aud%3D-N&useRewards=false&rm1=a1&regionId=6297295&destination=Accra%2C+Accra+Region%2C+Ghana&destType=CURRENT_LOCATION&neighborhoodId=553248635976395518&selected=5801068&latLong=5.554219%2C-0.198656&sort=RECOMMENDED&top_dp=251&top_cur=USD&mdpdtl=HTL.4617953.20240603.20240604.DDF.38.CID..AUDID.&mdpcid=HCOM-GH.META.HPA.HOTEL-ORGANIC-desktop.HOTEL&mctc=10&userIntent=&selectedRoomType=211211956&selectedRatePlan=228223244&expediaPropertyId=4447779&searchId=735a10ab-ab1e-4efc-943e-339a5604ee63&siteid=310000033&propertyName=M%C3%B6venpick+Ambassador+Hotel+Accra" style="display: inline-block; color: #ffffff; font-size: 18px; font-weight: 700; text-transform: uppercase; height: 50px; line-height: 50px; padding: 0 25px; -webkit-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px;">Book a Room</a>
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
 					</div>
 				</div>
@@ -183,24 +184,21 @@
 			<!-- /.modal-dialog -->
 		  </div>
 
-
-
-
-             		  
-		  <!-- Sarova Stanley Hotel -->
+    		  
+		  <!--Alisa Hotel North Ridge -->
 		  <div class="col-lg-4 col-md-6">
             <div class="hotel">
               <div class="hotel-img">
-                <img src="img/hotels/sarova.jpg" alt="Sarova Stanley Hotel" class="img-fluid">
+                <img src="img/hotels/alisa.jpg" alt="Alisa Hotel North Ridge" class="img-fluid">
               </div>
-              <h3><a href="#sarova"  data-backdrop="false" data-toggle="modal">Sarova Stanley Hotel</a></h3>
+              <h3><a href="#alisa"  data-backdrop="false" data-toggle="modal">Alisa Hotel North Ridge</a></h3>
               <div class="stars">User Ratings: 4 Star 
               </div>			  
-              <p>3.7 km (6 min drive) from Summit Venue</p>
+              <p>2.3 km (5 min drive) from Summit venue</p>
             </div>
           </div>
 		  
-		  <div id="sarova" class="modal fade" >
+		  <div id="alisa" class="modal fade" >
 			<div class="modal-dialog accommodationmodal">
 				<div class="modal-content">
 					<div class="modal-header">
@@ -208,61 +206,15 @@
 
 					</div>
 					<div class="modal-body">
-						<h3>Sarova Stanley Hotel</h3>
+						<h3>Alisa Hotel North Ridge</h3>
 						<p>
 							<h3>
 								Rooms Available (with rates): 
 							</h3>	
 								<ul>
-									<li>Single Rate ($150)</li>
-									<li>Double Occupancy Rooms ($180)</li>
-								</ul>
-								
-						</p>
-                        <br>
-					</div>
-					<div class="modal-footer">
-					
-						<a id="loadpage" type="button" class="btn btn-primary booking" target="blank" href="https://bookings.sarovahotels.com/en/hotel/profile/Kenya/hotel-Sarova-Stanley-322771.htm" style="display: inline-block; color: #ffffff; font-size: 18px; font-weight: 700; text-transform: uppercase; height: 50px; line-height: 50px; padding: 0 25px; -webkit-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px;">Book a Room</a>
-						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-					</div>
-				</div>
-				<!-- /.modal-content -->
-			</div>
-			<!-- /.modal-dialog -->
-		  </div>
-
-		  
-             		  
-		  <!--Clouds Hotels and Suites -->
-		  <div class="col-lg-4 col-md-6">
-            <div class="hotel">
-              <div class="hotel-img">
-                <img src="img/hotels/cloudshotel.jpg" alt="Clouds Hotels and Suites" class="img-fluid">
-              </div>
-              <h3><a href="#cloudshotel"  data-backdrop="false" data-toggle="modal">Clouds Hotels and Suites</a></h3>
-              <div class="stars">User Ratings: 3 Star 
-              </div>			  
-              <p>6.9 km (13 min drive) from Summit venue</p>
-            </div>
-          </div>
-		  
-		  <div id="cloudshotel" class="modal fade" >
-			<div class="modal-dialog accommodationmodal">
-				<div class="modal-content">
-					<div class="modal-header">
-						<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-
-					</div>
-					<div class="modal-body">
-						<h3>Clouds Hotels and Suites</h3>
-						<p>
-							<h3>
-								Rooms Available (with rates): 
-							</h3>	
-								<ul>
-									<li>Single Rate ($60)</li>
-									<li>Double Occupancy Rooms ($85)</li>
+									<li>Single Rate ($220)</li>
+									<li>Superior Rooms ($235)</li>
+									<li>Double Occupancy Rooms ($250)</li>
 								</ul> 
                                
 						</p>
@@ -270,7 +222,7 @@
 					</div>
 					<div class="modal-footer">
 					
-						<a id="loadpage" type="button" class="btn btn-primary booking" target="blank" href="http://cloudhotelsuites.com/" style="display: inline-block; color: #ffffff; font-size: 18px; font-weight: 700; text-transform: uppercase; height: 50px; line-height: 50px; padding: 0 25px; -webkit-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px;">Book a Room</a>
+						<a id="loadpage" type="button" class="btn btn-primary booking" target="blank" href="https://live.ipms247.com/booking/book-rooms-alisahotels" style="display: inline-block; color: #ffffff; font-size: 18px; font-weight: 700; text-transform: uppercase; height: 50px; line-height: 50px; padding: 0 25px; -webkit-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px;">Book a Room</a>
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
 					</div>
 				</div>
@@ -279,22 +231,23 @@
 			<!-- /.modal-dialog -->
 		  </div>
 
-             
-       		  
-		  <!-- Nairobi Serena Hotel  -->
+
+
+             		  
+		  <!-- Grand View Hotel -->
 		  <div class="col-lg-4 col-md-6">
             <div class="hotel">
               <div class="hotel-img">
-                <img src="img/hotels/serena.jpg" alt="Nairobi Serena Hotel" class="img-fluid">
+                <img src="img/hotels/grandview.jpg" alt="Grand View Hotell" class="img-fluid">
               </div>
-              <h3><a href="#serena"  data-backdrop="false" data-toggle="modal">Nairobi Serena Hotel</a></h3>
-              <div class="stars">User Ratings: 4 Star 
+              <h3><a href="#grandview"  data-backdrop="false" data-toggle="modal">Grand View Hotel</a></h3>
+              <div class="stars">User Ratings: 2.5 Star 
               </div>			  
-              <p>7.5 km (11 min drive) from Summit Venue</p>
+              <p>3.3 km (8 min drive) from Summit Venue</p>
             </div>
           </div>
 		  
-		  <div id="serena" class="modal fade" >
+		  <div id="grandview" class="modal fade" >
 			<div class="modal-dialog accommodationmodal">
 				<div class="modal-content">
 					<div class="modal-header">
@@ -302,14 +255,63 @@
 
 					</div>
 					<div class="modal-body">
-						<h3>Nairobi Serena Hotel</h3>
+						<h3>Grand View Hotel</h3>
 						<p>
 							<h3>
 								Rooms Available (with rates): 
 							</h3>	
 								<ul>
-									<li>Single Rate ($200)</li>
-									<li>Double Occupancy Rooms ($235)</li>
+									<li>Standard ($80)</li>
+									<li>Executive ($100)</li>
+								</ul>
+								
+						</p>
+                        <br>
+					</div>
+					<div class="modal-footer">
+					
+						<a id="loadpage" type="button" class="btn btn-primary booking" target="blank" href="https://www.hotels.com/ho391381/grand-view-hotel-accra-ghana/?chkin=3%2F6%2F2024&chkout=6%2F6%2F2024&x_pwa=1&pwa_ts=1714314768459&referrerUrl=aHR0cHM6Ly93d3cuaG90ZWxzLmNvbS9Ib3RlbC1TZWFyY2g%3D&rffrid=sem.hcom.GH.156.024.mapresults.02.desktop-1.kwrd%3DGGMETA.4617953GHen-20240603-N-ABW%3D38-camp%3D-aud%3D-N&useRewards=false&rm1=a2&regionId=6297295&destination=Accra%2C%20Accra%20Region%2C%20Ghana&destType=MARKET&selected=4617953&latLong=5.603712%2C-0.186972&sort=RECOMMENDED&mdpdtl=HTL.4617953.20240603.20240604.DDF.38.CID..AUDID.&mdpcid=HCOM-GH.META.HPA.HOTEL-ORGANIC-desktop.HOTEL&mctc=10&userIntent=&selectedRoomType=200104771&selectedRatePlan=203786775&expediaPropertyId=4617953&searchId=f132ee88-520d-493d-87c4-6aab25401896&siteid=310000033&propertyName=Grand%20View%20Hotel&allowPreAppliedFilters=true&chain=&daysInFuture=&group=&guestRating=&hotelName=&poi=&neighborhood=&roomIndex=&stayLength=&theme=&misId=&vacationRentalsOnly=false&highlightedPropertyId=&startDate=3%2F6%2F2024&endDate=6%2F6%2F2024&petsIncluded=false&bedroom_count_gt=&us_bathroom_count_gt=&pricing_group=" style="display: inline-block; color: #ffffff; font-size: 18px; font-weight: 700; text-transform: uppercase; height: 50px; line-height: 50px; padding: 0 25px; -webkit-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px;">Book a Room</a>
+						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+					</div>
+				</div>
+				<!-- /.modal-content -->
+			</div>
+			<!-- /.modal-dialog -->
+		  </div>
+
+		  
+         
+             
+       		  
+		  <!-- La Villa Boutique Hotel  -->
+		  <div class="col-lg-4 col-md-6">
+            <div class="hotel">
+              <div class="hotel-img">
+                <img src="img/hotels/lavilla.jpg" alt="La Villa Boutique Hotel & Soprano Restaurant" class="img-fluid">
+              </div>
+              <h3><a href="#lavilla"  data-backdrop="false" data-toggle="modal">La Villa Boutique Hotel</a></h3>
+              <div class="stars">User Ratings: 3 Star 
+              </div>			  
+              <p>2.8 km (5 min drive) from Summit Venue</p>
+            </div>
+          </div>
+		  
+		  <div id="lavilla" class="modal fade" >
+			<div class="modal-dialog accommodationmodal">
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+
+					</div>
+					<div class="modal-body">
+						<h3>La Villa Boutique Hotel</h3>
+						<p>
+							<h3>
+								Rooms Available (with rates): 
+							</h3>	
+								<ul>
+									<li>Single Rate ($195)</li>
+									<li>Double Occupancy Rooms ($200)</li>
 								</ul> 
                                
 						</p>
@@ -317,7 +319,7 @@
 					</div>
 					<div class="modal-footer">
 					
-						<a id="loadpage" type="button" class="btn btn-primary booking" target="blank" href="https://reservations.serenahotels.com/17000#/guestsandrooms" style="display: inline-block; color: #ffffff; font-size: 18px; font-weight: 700; text-transform: uppercase; height: 50px; line-height: 50px; padding: 0 25px; -webkit-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px;">Book a Room</a>
+						<a id="loadpage" type="button" class="btn btn-primary booking" target="blank" href="https://www.booking.com/hotel/gh/la-villa-boutique.en-gb.html?label=la-villa-boutique-nIGL*eIz30FyWq6oZ94_PAS392852859834%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-2007851544456%3Akwd-32889464347%3Alp9077293%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YTQUGSsRwx9_3qo3uPTHyoo&sid=9f59342e7db36f7f5f39f9ed0ede4be1&aid=311984&ucfs=1&arphpl=1&checkin=2024-06-03&checkout=2024-06-06&dest_id=-2067935&dest_type=city&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=ea4e6b036b4201b2&srepoch=1714317195&all_sr_blocks=56894701_102029612_2_2_0&highlighted_blocks=56894701_102029612_2_2_0&matching_block_id=56894701_102029612_2_2_0&sr_pri_blocks=56894701_102029612_2_2_0__58500&from=searchresults#hotelTmpl" style="display: inline-block; color: #ffffff; font-size: 18px; font-weight: 700; text-transform: uppercase; height: 50px; line-height: 50px; padding: 0 25px; -webkit-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px;">Book a Room</a>
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
 					</div>
 				</div>
@@ -332,12 +334,12 @@
 		  <div class="col-lg-4 col-md-6">
             <div class="hotel">
               <div class="hotel-img">
-                <img src="img/hotels/concord.jpg" alt="Concord Hotel" class="img-fluid">
+                <img src="img/hotels/gimpa.jpg" alt="Concord Hotel" class="img-fluid">
               </div>
               <h3><a href="#concord"  data-backdrop="false" data-toggle="modal">GIMPA Guest House</a></h3>
-              <div class="stars">User Ratings: 2.5 Star 
+              <div class="stars">User Ratings: 3 Star 
               </div>			  
-              <p>14 km (25 min drive) from the Summit venue</p>
+              <p>13.3 km (20 min drive) from the Summit venue</p>
             </div>
           </div>
 		  
@@ -349,13 +351,13 @@
 
 					</div>
 					<div class="modal-body">
-						<h3>Concord Hotel</h3>
+						<h3>GIMPA Guest House</h3>
 						<p>
 							<h3>
 								Rooms Available (with rates): 
 							</h3>	
 								<ul>
-									<li>Single Rate (GHS 100)</li>
+									<li>Single Rate (GHS 500)</li>
 									<li>Double Occupancy Rooms (GHS 800)</li>
 								</ul> 
                                
@@ -364,7 +366,7 @@
 					</div>
 					<div class="modal-footer">
 					
-						<a id="loadpage" type="button" class="btn btn-primary booking" target="blank" href="https://www.theconcordhotels.com/" style="display: inline-block; color: #ffffff; font-size: 18px; font-weight: 700; text-transform: uppercase; height: 50px; line-height: 50px; padding: 0 25px; -webkit-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px;">Book a Room</a>
+						<a id="loadpage" type="button" class="btn btn-primary booking" target="blank" href="mailto:info@carisca.knust.edu.gh" style="display: inline-block; color: #ffffff; font-size: 18px; font-weight: 700; text-transform: uppercase; height: 50px; line-height: 50px; padding: 0 25px; -webkit-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px;">Book a Room</a>
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
 					</div>
 				</div>
