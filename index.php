@@ -231,9 +231,8 @@
 								<p>
 									CARISCA’s annual Supply Chain Research Summit is central to our goal to strengthen African supply chain capacity and put Africa’s supply chain research on the map.<br><br>
 									The conference brings together academic and non-academic researchers and public, private and civil society organizations to create an ongoing dialogue addressing complex supply chain challenges.<br><br> 
-									<br><br>
 									The fourth annual Supply Chain Research Summit is set for June 4-6, 2024, in Accra, Ghana.  This year's summit will once again adopt a hybrid model, allowing for both in-person and virtual attendance <br><br>
-									The in-person venue is the <a href="lodging.php"> Kempinski Hotel Gold Coast City, Accra.</a> Virtual attendees and speakers may also participate via Zoom.</p> 
+									The in-person venue is the <a href="lodging.php"> Kempinski Hotel Gold Coast City</a> Virtual attendees and speakers may  participate online via Zoom.</p> 
 							</div>
 
 					</div>
@@ -342,10 +341,10 @@
 							<div class="entry-meta">
 								<div class="post-metablock">
 									<div class="post-time">
-										<span>Procurement Ninja and Chairperson</span>
+										<span>Faculty member</span>
 									</div>
 									<div class="post-location">
-										<span>CIPS, Guateng</span>
+										<span>University of Pretoria Gordon Institute of Business Science (South Africa)</span>
 									</div>
 								</div>
 							</div>

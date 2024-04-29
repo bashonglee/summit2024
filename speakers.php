@@ -94,17 +94,17 @@
                             <div class="entry-content">
                                 <div class="entry-thumbnail">
                                     <img src="images/photos/faith.jpg" alt="blog-post1" width="380" height="280" style="float: right !important;" class="conf-simage"/>
-                                    <h3 class="conf-speaker">Lydiah Kiburu</h3> 
-                                    <p class="conf-speaker-position"> Group Director for Business Transformation, Brand & Culture
+                                    <h3 class="conf-speaker">Faith (Mokubung) Mashele</h3> 
+                                    <p class="conf-speaker-position"> Faculty member
                                     <br>
-                                    Equity Group Holdings Plc (Kenya)
+                                    University of Pretoria Gordon Institute of Business Science (South Africa)
                                     </p>
-                                    <p class="conf-topic">Responsiveness, Organizational Learning and AI: The Future of Supply Chain Strategy</p>
+                                    <p class="conf-topic">""</p>
                                     <p>
-                                        Robert Glenn Richey Jr. is a prominent figure in the field of supply chain management. Serving as the Harbert Eminent Scholar in Supply Chain Management at Auburn University, he has made significant contributions to the academic and practical aspects of the discipline.
-                                        <br>
-                                        As the co-editor-in-chief of the Journal of Business Logistics, Richey is deeply involved in advancing the research and understanding of logistics and supply chain management. His work is characterized by a strong emphasis on industry-based research, particularly in the realms of supply chain and international business. 
-                                        Richey is also known for his dedication to building robust research collaborations and fostering meaningful relationships between academia and industry practitioners. This dedication is reflected in his active engagement in creating opportunities for students to connect with the real-world applications of their studies. 
+                                    Faith Mashele teaches in the areas of sustainable supply chains and operations management at the University of Pretoria’s Gordon Institute of Business Science. She also is a fellow of the school’s Centre for African Management and Markets.                                        <br>
+                                    In addition to her academic career, she has extensive corporate experience. Mashele has held diverse roles in both the public and private sector, spanning the banking, consulting, development finance, education and information technology industries.
+                                    <br>
+                                    Known as a procurement ninja, she has been widely recognized as one of the leading women in the field. She is a fellow of the Chartered Institute of Procurement and Supply (CIPS) and former head of the Procurement Centre of Excellence for Nedbank.
                                     </p>
                                 </div>
                             </div>

@@ -41,8 +41,10 @@
                             <div class="abt-imgs">
                                 <div class="row">
                                         <div class="abt-img wow " data-wow-duration="400ms">
-                                            <img src="img/hotels/kempinski.jpg" alt="">
-                                            <a href="https://www.kempinski.com/en/booking/select_room?hotelId=1100&clearBookingParams=1&room1Adults=1&startDate=2024-06-03&endDate=2024-06-06" title="" class="html5lightbox"></a>
+                                           
+                                            <a href="https://www.kempinski.com/en/booking/select_room?hotelId=1100&clearBookingParams=1&room1Adults=1&startDate=2024-06-03&endDate=2024-06-06" title="" class="html5lightbox">
+											<img src="img/hotels/kempinski.jpg" alt="">
+											</a>
                                         </div><!--abt-img end-->                                    
                                 </div>
                             </div><!--abt-imgs end-->
@@ -53,8 +55,8 @@
                                 <p class="wow " data-wow-duration="300ms" ">
 								The 2024 Supply Chain Research Summit will be held at the Kempinski Hotel Gold Coast City, Accra-Ghana.
 								<br> 
-								<br>
-                                The Kempinski Hotel Gold Coast City, Accra serves as the convenient and luxurious home base for this year's conference. Situated in the heart of Accra's business district, the hotel offers attendees easy access to key areas while remaining close to the city's vibrant cultural center. With a range of upscale rooms and suites, the Kempinski caters to both productivity and relaxation. Enjoy high-speed Wi-Fi connectivity for seamless conference participation and unwind after a successful day with on-site spa treatments or world-class dining experiences.
+                                The Kempinski Hotel serves as the convenient and luxurious home base for this year's conference. Situated in the heart of Accra's business district, the hotel offers attendees easy access to key areas while remaining close to the city's vibrant cultural center. With a range of upscale rooms and suites, the Kempinski caters to both productivity and relaxation. Enjoy high-speed Wi-Fi connectivity for seamless conference participation and unwind after a successful day with on-site spa treatments or world-class dining experiences. 
+								<a id="loadpage"  href="https://www.kempinski.com/en/booking/select_room?hotelId=1100&clearBookingParams=1&room1Adults=1&startDate=2024-06-03&endDate=2024-06-06">Click here to book your stay now</a>
 								 <br>
 								 <br>
 								
@@ -76,7 +78,7 @@
 		         <p style="text-align: center; padding: 0; margin: 0;font-size: 26px; font-weight: 500; color:#3ab990;">Other Recommended Options</p>
 				 <br>
         <div class="row" style="text-align: justify;">
-			<p style="padding: 0; margin: 0;font-size: 18px; font-weight: 500;">
+			<p>
 			If the Kempinski Hotel Gold Coast City is booked or you are looking for a more budget-friendly option, we recommend the following hotels and accommodations near the summit venue.<br>
 		
 		  
@@ -233,6 +235,55 @@
 
 
 
+
+		  
+             
+       		  
+		  <!-- La Villa Boutique Hotel  -->
+		  <div class="col-lg-4 col-md-6">
+            <div class="hotel">
+              <div class="hotel-img">
+                <img src="img/hotels/lavilla.jpg" alt="La Villa Boutique Hotel & Soprano Restaurant" class="img-fluid">
+              </div>
+              <h3><a href="#lavilla"  data-backdrop="false" data-toggle="modal">La Villa Boutique Hotel</a></h3>
+              <div class="stars">User Ratings: 3 Star 
+              </div>			  
+              <p>2.8 km (5 min drive) from Summit Venue</p>
+            </div>
+          </div>
+		  
+		  <div id="lavilla" class="modal fade" >
+			<div class="modal-dialog accommodationmodal">
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+
+					</div>
+					<div class="modal-body">
+						<h3>La Villa Boutique Hotel</h3>
+						<p>
+							<h3>
+								Rooms Available (with rates): 
+							</h3>	
+								<ul>
+									<li>Single Rate ($195)</li>
+									<li>Double Occupancy Rooms ($200)</li>
+								</ul> 
+                               
+						</p>
+                        <br>
+					</div>
+					<div class="modal-footer">
+					
+						<a id="loadpage" type="button" class="btn btn-primary booking" target="blank" href="https://www.booking.com/hotel/gh/la-villa-boutique.en-gb.html?label=la-villa-boutique-nIGL*eIz30FyWq6oZ94_PAS392852859834%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-2007851544456%3Akwd-32889464347%3Alp9077293%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YTQUGSsRwx9_3qo3uPTHyoo&sid=9f59342e7db36f7f5f39f9ed0ede4be1&aid=311984&ucfs=1&arphpl=1&checkin=2024-06-03&checkout=2024-06-06&dest_id=-2067935&dest_type=city&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=ea4e6b036b4201b2&srepoch=1714317195&all_sr_blocks=56894701_102029612_2_2_0&highlighted_blocks=56894701_102029612_2_2_0&matching_block_id=56894701_102029612_2_2_0&sr_pri_blocks=56894701_102029612_2_2_0__58500&from=searchresults#hotelTmpl" style="display: inline-block; color: #ffffff; font-size: 18px; font-weight: 700; text-transform: uppercase; height: 50px; line-height: 50px; padding: 0 25px; -webkit-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px;">Book a Room</a>
+						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+					</div>
+				</div>
+				<!-- /.modal-content -->
+			</div>
+			<!-- /.modal-dialog -->
+		  </div>
+
              		  
 		  <!-- Grand View Hotel -->
 		  <div class="col-lg-4 col-md-6">
@@ -281,52 +332,6 @@
 
 		  
          
-             
-       		  
-		  <!-- La Villa Boutique Hotel  -->
-		  <div class="col-lg-4 col-md-6">
-            <div class="hotel">
-              <div class="hotel-img">
-                <img src="img/hotels/lavilla.jpg" alt="La Villa Boutique Hotel & Soprano Restaurant" class="img-fluid">
-              </div>
-              <h3><a href="#lavilla"  data-backdrop="false" data-toggle="modal">La Villa Boutique Hotel</a></h3>
-              <div class="stars">User Ratings: 3 Star 
-              </div>			  
-              <p>2.8 km (5 min drive) from Summit Venue</p>
-            </div>
-          </div>
-		  
-		  <div id="lavilla" class="modal fade" >
-			<div class="modal-dialog accommodationmodal">
-				<div class="modal-content">
-					<div class="modal-header">
-						<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-
-					</div>
-					<div class="modal-body">
-						<h3>La Villa Boutique Hotel</h3>
-						<p>
-							<h3>
-								Rooms Available (with rates): 
-							</h3>	
-								<ul>
-									<li>Single Rate ($195)</li>
-									<li>Double Occupancy Rooms ($200)</li>
-								</ul> 
-                               
-						</p>
-                        <br>
-					</div>
-					<div class="modal-footer">
-					
-						<a id="loadpage" type="button" class="btn btn-primary booking" target="blank" href="https://www.booking.com/hotel/gh/la-villa-boutique.en-gb.html?label=la-villa-boutique-nIGL*eIz30FyWq6oZ94_PAS392852859834%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-2007851544456%3Akwd-32889464347%3Alp9077293%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YTQUGSsRwx9_3qo3uPTHyoo&sid=9f59342e7db36f7f5f39f9ed0ede4be1&aid=311984&ucfs=1&arphpl=1&checkin=2024-06-03&checkout=2024-06-06&dest_id=-2067935&dest_type=city&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=ea4e6b036b4201b2&srepoch=1714317195&all_sr_blocks=56894701_102029612_2_2_0&highlighted_blocks=56894701_102029612_2_2_0&matching_block_id=56894701_102029612_2_2_0&sr_pri_blocks=56894701_102029612_2_2_0__58500&from=searchresults#hotelTmpl" style="display: inline-block; color: #ffffff; font-size: 18px; font-weight: 700; text-transform: uppercase; height: 50px; line-height: 50px; padding: 0 25px; -webkit-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px;">Book a Room</a>
-						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-					</div>
-				</div>
-				<!-- /.modal-content -->
-			</div>
-			<!-- /.modal-dialog -->
-		  </div>
 
 
              		  

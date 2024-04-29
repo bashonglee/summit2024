@@ -749,10 +749,11 @@
 .schedule-block .panel.panel-default .panel-heading span {
 	font-weight: 500;
 	color: #cbcbcb;
-	line-height: 28px;
+	line-height: 16px;
 	position: absolute;
 	left: 0;
 	top: 0;
+	width: 100px;
 }
 .schedule-block .panel.panel-default .panel-collapse,
 .schedule-block .panel.panel-default .panel-heading {
