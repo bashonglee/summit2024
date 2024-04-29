@@ -59,7 +59,9 @@
 									<i class="ddl-switch fa fa-angle-down"></i>
 									<ul class="dropdown-menu">
 										<li><a title="Keynote Speakers" href="speakers.php">Speakers</a></li>
+										<!--
 										<li><a title="Schedule" href="schedule.php">Schedule</a></li>
+										-->
 									</ul>
 								</li>
 								<li class="dropdown">

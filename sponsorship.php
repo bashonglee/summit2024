@@ -105,9 +105,22 @@
 			<li class="active">Visibility</li>
 			<li class="active">Networking opportunities</li>
 			<li class="active">Marketing opportunities</li>
-			<li class="active">Opportunity to contribute toward the growth of the logistics and supply chain management industry in Africa</li>
+			<li class="active">Opportunity to contribute toward the growth of the logistics and supply chain management industry in Africa.</li>
         </div>
+
+
+		<div class="container">
+	
+			<h3>INTERESTED IN SPONSORING THE 2024 RESEARCH SUMMIT?</h3> 
+			<p>
+			Organizations interested in sponsoring the CARISCA 2024 Summit  may reach out to us via phone at <a href="tel:+233 24 469 2953">+233 24 469 2953 <a> or email at <a href="mailto:ankomahjnr@carisca.knust.edu.gh"> ankomahjnr@carisca.knust.edu.gh</a> explore the various sponsorship packages and associated benefits.</p>
+			
+        </div>
+		<br><br><br>
 	<!--
+
+
+
 		
 		<div class="container">	
 			<h3>Sponsor Benefits</h3> 
@@ -140,8 +153,7 @@
         </div>
 </div>
 
--->
-  
+
     
 <div class="-fluid no-padding howwecan-section">	
 	<div class="container">
@@ -254,41 +266,42 @@
 </div>
 
 <div class="-fluid no-padding howwecan-section">	
-	<div class="container">		
-<h3>Exhibition Packages</h3> 
-<p>
-	Click on each tab to view the details of each Exhibition package.  
-</p>
-		<ul class="nav nav-tabs" id="ExhibitionTabs">
-			<li class="active"><a href="#singlebooth" data-toggle="tab">Single Booth</a></li>
-			<li><a href="#doublebooth" data-toggle="tab">Double Booth</a></li>
-		</ul>
-		<div class="tab-content">
-			<div class="tab-pane active" id="singlebooth">
+		<div class="container">		
+	<h3>Exhibition Packages</h3> 
+	<p>
+		Click on each tab to view the details of each Exhibition package.  
+	</p>
+			<ul class="nav nav-tabs" id="ExhibitionTabs">
+				<li class="active"><a href="#singlebooth" data-toggle="tab">Single Booth</a></li>
+				<li><a href="#doublebooth" data-toggle="tab">Double Booth</a></li>
+			</ul>
+			<div class="tab-content">
+				<div class="tab-pane active" id="singlebooth">
+					<div class="sponsorship-package"> 
+						<h3>Single Booth Package</h3> 					
+						<h4>(Amount: $500)</h4> 
+						<br>
+						<ul class="benefits-list"> 
+							<li> <strong>Single Booth plus one free exhibitor</strong>  </li> 
+							
+						</ul> 
+					</div> 
+				</div>
+				<div class="tab-pane" id="doublebooth">
 				<div class="sponsorship-package"> 
-					<h3>Single Booth Package</h3> 					
-					<h4>(Amount: $500)</h4> 
-					<br>
-					<ul class="benefits-list"> 
-						<li> <strong>Single Booth plus one free exhibitor</strong>  </li> 
-						
-					</ul> 
-				</div> 
+						<h3>Double Booth Package</h3>  					
+						<h4>(Amount: $750)</h4> 
+						<br>
+						<ul class="benefits-list"> 
+							<li> <strong>Double Booth plus two free exhibitors</strong> </li> 
+						</ul> 
+					</div> 
+				</div>			
 			</div>
-			<div class="tab-pane" id="doublebooth">
-			<div class="sponsorship-package"> 
-					<h3>Double Booth Package</h3>  					
-					<h4>(Amount: $750)</h4> 
-					<br>
-					<ul class="benefits-list"> 
-						<li> <strong>Double Booth plus two free exhibitors</strong> </li> 
-					</ul> 
-				</div> 
-			</div>			
 		</div>
 	</div>
-</div>
-
+-->
+  
   
 
         <?php require_once 'include/footer.php';?>

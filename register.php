@@ -87,6 +87,7 @@
 		<div class="container">
 	
 		<h3>Registration Information</h3> 
+		<p>Registration is now open, and we invite you to secure your spot at this summit.</p>
     <p>
 	Registration fees are covered, courtesy of CARISCA. In-person attendees only need to fund their own transportation and lodging. 	</p>
 

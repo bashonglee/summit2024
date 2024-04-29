@@ -324,7 +324,7 @@
 							<div class="entry-content">
 								<p>“Leveraging Technology and Innovation To Build Resilient Supply Chains in Africa”</p>
 							</div>
-							<a href="#" class="learn-more" title="Learn More">Read More</a>
+							<a href="speakers.php#lydiah" class="learn-more" title="Learn More">Read More</a>
 						</div>
 					</article>
 				</div>
@@ -351,7 +351,7 @@
 							<div class="entry-content">
 								<p></p>
 							</div>
-							<a href="#" class="learn-more" title="Learn More">Read More</a>
+							<a href="speakers.php#faith" class="learn-more" title="Learn More">Read More</a>
 						</div>
 					</article>
 				</div>
@@ -378,7 +378,7 @@
 							<div class="entry-content">
 								<p>“Responsiveness, Organizational Learning and AI: The Future of Supply Chain Strategy”</p>
 							</div>
-							<a href="#" class="learn-more" title="Learn More">Read More</a>
+							<a href="speakers.php#glenn" class="learn-more" title="Learn More">Read More</a>
 						</div>
 					</article>
 				</div>
