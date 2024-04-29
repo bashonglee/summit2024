@@ -67,7 +67,7 @@
                         <div class="entry-block">                
                             <div class="entry-content">
                            
-                                <div class="entry-thumbnail">
+                                <div class="entry-thumbnail" id="lydia">
                                     <img src="images/photos/lydia.jpg" alt="blog-post1" width="380" height="280" class="conf-simage"/>
                                     <h3 class="conf-speaker">Lydiah Kiburu</h3>                                  
                                 <p class="conf-speaker-position">
@@ -83,7 +83,7 @@
                                         Lydiah Kiburu directs business transformation, brand and culture for Equity Group Holdings, named last year as the fourth strongest banking brand in the world. She brings to this role a robust background in strategy development, business/digital transformation, strategic leadership, stakeholder engagement, consumer behavior analysis and communications. 
                                         <br>
                                         Kiburu holds degrees in information science and international development and diplomacy. She also is an alumna of the Strathmore University PhD program in business and management. 
-                                        <br>
+                                        <br id="faith">
                                         Through training programs and serving on several boards in the international development sector, Kiburu has gained a wealth of experience in governance and oversight as well. Among her passions are youth development, consumer technology adoption and community empowerment.                                     
                                     </p>
                                 </div>
@@ -91,7 +91,7 @@
                         <br>
                         <br>
 
-                            <div class="entry-content">
+                            <div class="entry-content" >
                                 <div class="entry-thumbnail">
                                     <img src="images/photos/faith.jpg" alt="blog-post1" width="380" height="280" style="float: right !important;" class="conf-simage"/>
                                     <h3 class="conf-speaker">Faith (Mokubung) Mashele</h3> 
@@ -103,14 +103,14 @@
                                     <p>
                                     Faith Mashele teaches in the areas of sustainable supply chains and operations management at the University of Pretoria’s Gordon Institute of Business Science. She also is a fellow of the school’s Centre for African Management and Markets.                                        <br>
                                     In addition to her academic career, she has extensive corporate experience. Mashele has held diverse roles in both the public and private sector, spanning the banking, consulting, development finance, education and information technology industries.
-                                    <br>
+                                    <br id="glenn">
                                     Known as a procurement ninja, she has been widely recognized as one of the leading women in the field. She is a fellow of the Chartered Institute of Procurement and Supply (CIPS) and former head of the Procurement Centre of Excellence for Nedbank.
                                     </p>
                                 </div>
                             </div>
+                        <br >
                         <br>
-                        <br>
-                            <div class="entry-content">
+                            <div class="entry-content" >
                                 <div class="entry-thumbnail">                                    
                                     <img src="images/photos/glenn.jpg" alt="blog-post1" width="380" height="280" class="conf-simage"/>
                                     

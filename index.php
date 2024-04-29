@@ -305,11 +305,11 @@
 			<div class="col-md-4 col-sm-4 col-xs-4">
 					<article class="type-post">
 						<div class="entry-cover">
-							<a href="#"><img src="images/photos/lydia.jpg" alt="patrick" width="370" height="300"/></a>
+							<a href="speakers.php#lydiah"><img src="images/photos/lydia.jpg" alt="patrick" width="370" height="300"/></a>
 						</div>
 						<div class="entry-block">
 							<div class="entry-title">
-								<a href="#" title="Patrick"><h3>Lydiah Kiburu</h3></a>
+								<a href="speakers.php#lydiah" title="Patrick"><h3>Lydiah Kiburu</h3></a>
 							</div>
 							<div class="entry-meta">
 								<div class="post-metablock">
@@ -332,11 +332,11 @@
 				<div class="col-md-4 col-sm-4 col-xs-4">
 					<article class="type-post">
 						<div class="entry-cover">
-							<a href="#"><img src="images/photos/faith.jpg" alt="faith" width="370" height="300"/></a>
+							<a href="speakers.php#faith"><img src="images/photos/faith.jpg" alt="faith" width="370" height="300"/></a>
 						</div>
 						<div class="entry-block">
 							<div class="entry-title">
-								<a href="#" title="Patrick"><h3>Faith (Mokubung) Mashele</h3></a>
+								<a href="speakers.php#faith" title="Patrick"><h3>Faith (Mokubung) Mashele</h3></a>
 							</div>
 							<div class="entry-meta">
 								<div class="post-metablock">
@@ -359,16 +359,16 @@
 				<div class="col-md-4 col-sm-4 col-xs-4">
 					<article class="type-post">
 						<div class="entry-cover">
-							<a href="#"><img src="images/photos/glenn.jpg" alt="Glenn" width="370" height="300"/></a>
+							<a href="speakers.php#glenn"><img src="images/photos/glenn.jpg" alt="Glenn" width="370" height="300"/></a>
 						</div>
 						<div class="entry-block">
 							<div class="entry-title">
-								<a href="#" title="Glenn Richey"><h3>Glenn Richey</h3></a>
+								<a href="speakers.php#glenn" title="Glenn Richey"><h3>Glenn Richey</h3></a>
 							</div>
 							<div class="entry-meta">					
 								<div class="post-metablock">
 									<div class="post-time">
-										<span>Harbert Eminent Scholar in Supply Chain Management</span>
+										<span>Harbert Eminent Scholar in Supply Chain Management</a></span>
 									</div>
 									<div class="post-location">
 										<span>Auburn University (USA)</span>
