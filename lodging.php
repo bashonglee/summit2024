@@ -42,7 +42,7 @@
                                 <div class="row">
                                         <div class="abt-img wow " data-wow-duration="400ms">
                                            
-                                            <a href="https://www.kempinski.com/en/booking/select_room?hotelId=1100&clearBookingParams=1&room1Adults=1&startDate=2024-06-03&endDate=2024-06-06" title="" class="html5lightbox">
+                                            <a href="https://www.kempinski.com/" title="" class="html5lightbox">
 											<img src="img/hotels/kempinski.jpg" alt="">
 											</a>
                                         </div><!--abt-img end-->                                    
@@ -53,10 +53,12 @@
                         <div class="col-lg-8" style="padding: 10px 31px;">
                             <div class="blog-info">
                                 <p class="wow " data-wow-duration="300ms" ">
-								The 2024 Supply Chain Research Summit will be held at the Kempinski Hotel Gold Coast City, Accra-Ghana.
-								<br> 
-                                The Kempinski Hotel serves as the convenient and luxurious home base for this year's conference. Situated in the heart of Accra's business district, the hotel offers attendees easy access to key areas while remaining close to the city's vibrant cultural center. With a range of upscale rooms and suites, the Kempinski caters to both productivity and relaxation. Enjoy high-speed Wi-Fi connectivity for seamless conference participation and unwind after a successful day with on-site spa treatments or world-class dining experiences. 
-								<a id="loadpage"  href="https://www.kempinski.com/en/booking/select_room?hotelId=1100&clearBookingParams=1&room1Adults=1&startDate=2024-06-03&endDate=2024-06-06">Click here to book your stay now</a>
+								The 2024 Supply Chain Research Summit will be held at the Kempinski Hotel Gold Coast City. </p>
+                                    <p>
+                                The Kempinski Hotel serves as the convenient and luxurious home base for this year&rsquo;s conference. Situated in the heart of Accra&rsquo;s business district, the hotel offers attendees easy access to key areas while remaining close to the city&rsquo;s vibrant cultural center.  </p>
+                                    <p>With a range of upscale rooms and suites, the Kempinski caters to both productivity and relaxation. Enjoy high-speed Wi-Fi connectivity for seamless conference participation and unwind after a successful day with on-site spa treatments or world-class dining experiences. </p>
+                                    <p> 
+								<a id="loadpage"  href="https://www.kempinski.com">Click here to book your stay now</a>
 								 <br>
 								 <br>
 								
@@ -95,10 +97,12 @@
 		  <div class="col-lg-4 col-md-6">
             <div class="hotel">
               <div class="hotel-img">
+				<a href="#accracity" data-toggle="modal">
                 <img src="img/hotels/accracity.jpg" alt="Accra City Hotel" class="img-fluid">
+				</a>
               </div>
               <h3><a href="#accracity"  data-backdrop="false" data-toggle="modal">Accra City Hotel</a></h3>
-              <div class="stars">User Ratings: 4 Stars
+              <div class="stars">User Ratings: 4 Star
               </div>			  
               <p>1.7 km (4 min drive) from Summit venue</p>
             </div>
@@ -144,10 +148,12 @@
 		  <div class="col-lg-4 col-md-6">
             <div class="hotel">
               <div class="hotel-img">
+				<a href="#movenpick" data-toggle="modal">
                 <img src="img/hotels/movenpick.jpg" alt="Movenpick Hotel" class="img-fluid">
+				</a>
               </div>
               <h3><a href="#movenpick"  data-backdrop="false" data-toggle="modal">Movenpick Ambassador Hotel</a></h3>
-              <div class="stars">User Ratings: 4 Stars 
+              <div class="stars">User Ratings: 4 Star 
               </div>			  
               <p>2 km (5 min drive) from Summit venue</p>
             </div>
@@ -191,7 +197,9 @@
 		  <div class="col-lg-4 col-md-6">
             <div class="hotel">
               <div class="hotel-img">
+				<a href="#alisa" data-toggle="modal">
                 <img src="img/hotels/alisa.jpg" alt="Alisa Hotel North Ridge" class="img-fluid">
+				</a>
               </div>
               <h3><a href="#alisa"  data-backdrop="false" data-toggle="modal">Alisa Hotel North Ridge</a></h3>
               <div class="stars">User Ratings: 4 Star 
@@ -243,7 +251,9 @@
 		  <div class="col-lg-4 col-md-6">
             <div class="hotel">
               <div class="hotel-img">
+				<a href="#lavilla" data-toggle="modal">
                 <img src="img/hotels/lavilla.jpg" alt="La Villa Boutique Hotel & Soprano Restaurant" class="img-fluid">
+				</a>
               </div>
               <h3><a href="#lavilla"  data-backdrop="false" data-toggle="modal">La Villa Boutique Hotel</a></h3>
               <div class="stars">User Ratings: 3 Star 
@@ -289,7 +299,9 @@
 		  <div class="col-lg-4 col-md-6">
             <div class="hotel">
               <div class="hotel-img">
+				<a href="#grandview" data-toggle="modal">
                 <img src="img/hotels/grandview.jpg" alt="Grand View Hotell" class="img-fluid">
+				</a>
               </div>
               <h3><a href="#grandview"  data-backdrop="false" data-toggle="modal">Grand View Hotel</a></h3>
               <div class="stars">User Ratings: 2.5 Star 
@@ -339,16 +351,18 @@
 		  <div class="col-lg-4 col-md-6">
             <div class="hotel">
               <div class="hotel-img">
-                <img src="img/hotels/gimpa.jpg" alt="Concord Hotel" class="img-fluid">
+				<a href="#gimpa" data-toggle="modal">
+                <img src="img/hotels/gimpa.jpg" alt="GIMPA" class="img-fluid">
+				</a>
               </div>
-              <h3><a href="#concord"  data-backdrop="false" data-toggle="modal">GIMPA Guest House</a></h3>
+              <h3><a href="#gimpa"  data-backdrop="false" data-toggle="modal">GIMPA Guest House</a></h3>
               <div class="stars">User Ratings: 3 Star 
               </div>			  
               <p>13.3 km (20 min drive) from the Summit venue</p>
             </div>
           </div>
 		  
-		  <div id="concord" class="modal fade" >
+		  <div id="gimpa" class="modal fade" >
 			<div class="modal-dialog accommodationmodal">
 				<div class="modal-content">
 					<div class="modal-header">
@@ -387,7 +401,9 @@
 		  <div class="col-lg-4 col-md-6">
             <div class="hotel">
               <div class="hotel-img">
+				<a href="#airbnb" data-toggle="modal">
                 <img src="img/hotels/airbnb.jpg" alt="Air BnB" class="img-fluid">
+				</a>
               </div>
               <h3><a href="#airbnb"  data-backdrop="false" data-toggle="modal">Air BnB</a></h3>
               <div class="stars">User Ratings: N/A 
@@ -396,7 +412,7 @@
             </div>
           </div>
 		  
-		  <div id="airbnb" class="modal fade" >
+		  <div id="#airbnb" class="modal fade" >
 			<div class="modal-dialog accommodationmodal">
 				<div class="modal-content">
 					<div class="modal-header">

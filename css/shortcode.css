@@ -1455,10 +1455,11 @@
 }
 .latest-blog .type-post .entry-content p {
 	color: #777;
-	font-size: 15px;
-	line-height: 28px;
+	font-size: 18px;
+	line-height: 30px;
 	letter-spacing: 0.45px;
 	font-family: 'Work Sans', sans-serif;
+	margin-top: 20px;
 }
 .latest-blog .type-post .learn-more {
 	text-decoration: none;

@@ -229,10 +229,13 @@
 						<div class="section-header">
 							<h3>ABOUT THE SUMMIT</h3>
 								<p>
-									CARISCA’s annual Supply Chain Research Summit is central to our goal to strengthen African supply chain capacity and put Africa’s supply chain research on the map.<br><br>
-									The conference brings together academic and non-academic researchers and public, private and civil society organizations to create an ongoing dialogue addressing complex supply chain challenges.<br><br> 
-									The fourth annual Supply Chain Research Summit is set for June 4-6, 2024, in Accra, Ghana.  This year's summit will once again adopt a hybrid model, allowing for both in-person and virtual attendance <br><br>
-									The in-person venue is the <a href="lodging.php"> Kempinski Hotel Gold Coast City</a> Virtual attendees and speakers may  participate online via Zoom.</p> 
+									CARISCA&rsquo;s annual Supply Chain Research Summit is central to our goal to strengthen African supply chain capacity and put Africa&rsquo;s supply chain research on the map. </p>
+                                    <p>
+									The conference brings together academic and non-academic researchers and public, private and civil society organizations to create an ongoing dialogue addressing complex supply chain challenges. </p>
+                                    <p>
+									The fourth annual Supply Chain Research Summit is set for June 4-6, 2024, in Accra, Ghana.  This year&rsquo;s summit will once again adopt a hybrid model, allowing for both in-person and virtual attendance  </p>
+                                    <p>
+									The in-person venue is the <a href="lodging.php"> Kempinski Hotel Gold Coast City</a>. Virtual attendees and speakers may  participate online via Zoom.</p> 
 							</div>
 
 					</div>
@@ -273,12 +276,12 @@
 					<div class="howwecan-right">				
 					<div class="section-header">
 								<h3 style="line-height: 1;">Africa’s Supply Chain Resilience for Economic Transformation</h3>
-									<ps>Resilient supply chains are vital for the success of businesses and societies. Given the frequent and costly supply chain disruptions in Africa, increased investment in supply chain resilience on the continent is a pressing need.
-									<br><br>
-									Current proposals for addressing these issues are primarily at the macro level and often lack solid grounding in theory-validated frameworks. Furthermore, while studies on the drivers of supply chain resilience are growing rapidly, research specific to African supply chains remains limited.
-									<br><br>
+									<p>Resilient supply chains are vital for the success of businesses and societies. Given the frequent and costly supply chain disruptions in Africa, increased investment in supply chain resilience on the continent is a pressing need. </p>
+                                    <p>
+									Current proposals for addressing these issues are primarily at the macro level and often lack solid grounding in theory-validated frameworks. Furthermore, while studies on the drivers of supply chain resilience are growing rapidly, research specific to African supply chains remains limited. </p>
+                                    <p>
 									Addressing these supply chain resilience themes requires a forum such as the 2024 Supply Chain Research Summit. There, supply chain scholars will brainstorm and share ideas on how Africa’s supply chains can be repositioned to drive the continent’s economic transformation agenda.
-									</ps>
+									</p>
 					</div>
 
 					</div>
@@ -336,7 +339,7 @@
 						</div>
 						<div class="entry-block">
 							<div class="entry-title">
-								<a href="speakers.php#faith" title="Patrick"><h3>Faith (Mokubung) Mashele</h3></a>
+								<a href="speakers.php#faith" title="Patrick"><h3>Faith Mashele</h3></a>
 							</div>
 							<div class="entry-meta">
 								<div class="post-metablock">

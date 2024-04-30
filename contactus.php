@@ -30,7 +30,7 @@
 								<span class="icon icon-House"></span>
 								<div class="infobox">
 									<h3>Summit Venue</h3>
-									<span><a href="https://www.kempinski.com/en/booking/select_room?hotelId=1100&clearBookingParams=1&room1Adults=1&startDate=2024-06-03&endDate=2024-06-06">Kempinski Hotel</a></span>
+									<span><a href="lodging.php">Kempinski Hotel</a></span>
 								</div>
 							</div>
 						</div>

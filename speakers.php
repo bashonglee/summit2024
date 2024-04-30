@@ -17,7 +17,11 @@
 
 .conf-speaker-position {
   font-weight: bold;
-  font-size: 0.9em;
+  font-size: 22px;
+}
+
+.conf-speaker-position span{
+  color: black;
 }
 
 .conf-speaker {
@@ -44,7 +48,7 @@
 			<div class="container">
 				<div class="banner-content-block">
 					<div class="banner-content">
-						<h3>Speakers</h3>
+						<h3>Keynote Speakers</h3>
 						<ol class="breadcrumb">
 							<li><a href="index.php">Home</a></li>
 							<li class="active">Speakers</li>
@@ -73,17 +77,19 @@
                                 <p class="conf-speaker-position">
                                     Group Director for Business Transformation, Brand & Culture
                                     <br>
-                                    Equity Group Holdings Plc (Kenya)
+                                    <span > Group Holdings Plc (Kenya)</span>
                                 </p>
                                     <p class="conf-topic">
-                                        Leveraging Technology and Innovation to Build Resilient Supply Chains in Africa.
+                                        Leveraging Technology and Innovation to Build Resilient Supply Chains in Africa
                                     </p>
 
                                     <p>
                                         Lydiah Kiburu directs business transformation, brand and culture for Equity Group Holdings, named last year as the fourth strongest banking brand in the world. She brings to this role a robust background in strategy development, business/digital transformation, strategic leadership, stakeholder engagement, consumer behavior analysis and communications. 
-                                        <br>
+                                    </p>
+                                        <p>
                                         Kiburu holds degrees in information science and international development and diplomacy. She also is an alumna of the Strathmore University PhD program in business and management. 
-                                        <br id="faith">
+                                        </p>
+                                        <p  id="faith">
                                         Through training programs and serving on several boards in the international development sector, Kiburu has gained a wealth of experience in governance and oversight as well. Among her passions are youth development, consumer technology adoption and community empowerment.                                     
                                     </p>
                                 </div>
@@ -94,16 +100,21 @@
                             <div class="entry-content" >
                                 <div class="entry-thumbnail">
                                     <img src="images/photos/faith.jpg" alt="blog-post1" width="380" height="280" style="float: right !important;" class="conf-simage"/>
-                                    <h3 class="conf-speaker">Faith (Mokubung) Mashele</h3> 
+                                    <h3 class="conf-speaker">Faith Mashele</h3> 
                                     <p class="conf-speaker-position"> Faculty member
                                     <br>
-                                    University of Pretoria Gordon Institute of Business Science (South Africa)
+                                   <span> University of Pretoria Gordon Institute of Business Science (South Africa)</span>
                                     </p>
+                                    <!--
                                     <p class="conf-topic">""</p>
+                                    -->
                                     <p>
-                                    Faith Mashele teaches in the areas of sustainable supply chains and operations management at the University of Pretoria’s Gordon Institute of Business Science. She also is a fellow of the school’s Centre for African Management and Markets.                                        <br>
+                                    Faith Mashele teaches in the areas of sustainable supply chains and operations management at the University of Pretoria’s Gordon Institute of Business Science. She also is a fellow of the school’s Centre for African Management and Markets.
+                                    </p>
+                                    <p>
                                     In addition to her academic career, she has extensive corporate experience. Mashele has held diverse roles in both the public and private sector, spanning the banking, consulting, development finance, education and information technology industries.
-                                    <br id="glenn">
+                                    </p>
+                                    <p>
                                     Known as a procurement ninja, she has been widely recognized as one of the leading women in the field. She is a fellow of the Chartered Institute of Procurement and Supply (CIPS) and former head of the Procurement Centre of Excellence for Nedbank.
                                     </p>
                                 </div>
@@ -117,15 +128,19 @@
                                     <h3 class="conf-speaker">Glenn Richey</h3>                    
                                 <p class="conf-speaker-position">Harbert Eminent Scholar in Supply Chain Management
                                     
-                                    <br> Auburn University (USA)
+                                    <br> 
+                                    <span> University (USA)</span>
                                    
                                 </p>
                                     <p class="conf-topic">
                                     Responsiveness, Organizational Learning and AI: The Future of Supply Chain Strategy                     </p>
                                     <p>
                                         Robert Glenn Richey Jr. is a prominent figure in the field of supply chain management. Serving as the Harbert Eminent Scholar in Supply Chain Management at Auburn University, he has made significant contributions to the academic and practical aspects of the discipline.
-                                        <br>
+                                        </p>
+                                    <p>
                                         As the co-editor-in-chief of the Journal of Business Logistics, Richey is deeply involved in advancing the research and understanding of logistics and supply chain management. His work is characterized by a strong emphasis on industry-based research, particularly in the realms of supply chain and international business. 
+                                        </p>
+                                    <p>
                                         Richey is also known for his dedication to building robust research collaborations and fostering meaningful relationships between academia and industry practitioners. This dedication is reflected in his active engagement in creating opportunities for students to connect with the real-world applications of their studies. 
                                     </p>
                             </div>
