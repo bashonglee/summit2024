@@ -93,7 +93,7 @@
 			</p>
 		<br>
 			<p> 
-			<strong> Dates: July 4-6, 2024</strong>
+			<strong> Dates: June 4-6, 2024</strong>
 			</p>
 			<p> 
 			<strong> Venue: Kempinski Hotel Gold Coast City.</strong>
