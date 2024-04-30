@@ -346,7 +346,7 @@
 									<div class="post-time">
 										<span>Faculty member</span>
 									</div>
-									<div class="post-location">
+									<div class="post-location" style="text-transform: initial !important;">
 										<span>University of Pretoria Gordon Institute of Business Science (South Africa)</span>
 									</div>
 								</div>
