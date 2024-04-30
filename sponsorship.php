@@ -116,7 +116,7 @@
 	
 			<h3>INTERESTED IN SPONSORING THE 2024 RESEARCH SUMMIT?</h3> 
 			<p>
-			Organizations interested in sponsoring the CARISCA 2024 Summit  may reach out to us via phone at <a href="tel:+233 24 469 2953">+233 24 469 2953 <a> or email <a href="mailto:ankomahjnr@carisca.knust.edu.gh"> ankomahjnr@carisca.knust.edu.gh</a> to explore the various sponsorship packages and associated benefits.</p>
+			Organizations interested in sponsoring the CARISCA 2024 Summit  may reach out to us via phone at <a href="tel:+233 24 469 2953">+233 24 469 2953</a> or email <a href="mailto:ankomahjnr@carisca.knust.edu.gh"> ankomahjnr@carisca.knust.edu.gh</a> to explore the various sponsorship packages and associated benefits.</p>
 			
         </div>
 		<br><br><br>
