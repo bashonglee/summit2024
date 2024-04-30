@@ -77,7 +77,7 @@
                                 <p class="conf-speaker-position">
                                     Group Director for Business Transformation, Brand & Culture
                                     <br>
-                                    <span > Group Holdings Plc (Kenya)</span>
+                                    <span >Equity Group Holdings Plc (Kenya)</span>
                                 </p>
                                     <p class="conf-topic">
                                         Leveraging Technology and Innovation to Build Resilient Supply Chains in Africa
@@ -129,7 +129,7 @@
                                 <p class="conf-speaker-position">Harbert Eminent Scholar in Supply Chain Management
                                     
                                     <br> 
-                                    <span> University (USA)</span>
+                                    <span>Auburn University (USA)</span>
                                    
                                 </p>
                                     <p class="conf-topic">
