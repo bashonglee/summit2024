@@ -42,7 +42,7 @@
                                 <div class="row">
                                         <div class="abt-img wow " data-wow-duration="400ms">
                                            
-                                            <a href="https://www.kempinski.com/" title="" class="html5lightbox">
+                                            <a href="https://www.kempinski.com/en/booking/select_room?hotelId=1100&clearBookingParams=1&room1Adults=1&startDate=2024-06-03&endDate=2024-06-07&promoCode=ANNU240606/" title="" class="html5lightbox">
 											<img src="img/hotels/kempinski.jpg" alt="">
 											</a>
                                         </div><!--abt-img end-->                                    
@@ -58,7 +58,7 @@
                                 The Kempinski Hotel serves as the convenient and luxurious home base for this year&rsquo;s conference. Situated in the heart of Accra&rsquo;s business district, the hotel offers attendees easy access to key areas while remaining close to the city&rsquo;s vibrant cultural center.  </p>
                                     <p>With a range of upscale rooms and suites, the Kempinski caters to both productivity and relaxation. Enjoy high-speed Wi-Fi connectivity for seamless conference participation and unwind after a successful day with on-site spa treatments or world-class dining experiences. </p>
                                     <p> 
-								<a id="loadpage"  href="https://www.kempinski.com">Click here to book your stay now</a>
+								<a id="loadpage"  href="https://www.kempinski.com/en/booking/select_room?hotelId=1100&clearBookingParams=1&room1Adults=1&startDate=2024-06-03&endDate=2024-06-07&promoCode=ANNU240606">Click here to book your stay now</a>
 								 <br>
 								 <br>
 								
@@ -77,14 +77,17 @@
 
   
       <div class="container" id="recommended">		
-		         <p style="text-align: center; padding: 0; margin: 0;font-size: 26px; font-weight: 500; color:#3ab990;">Other Recommended Options</p>
+		         <p style="text-align: center; padding: 0; margin: 0;font-size: 26px; font-weight: 500; color:#3ab990;">Recommended Nearby Conference Hotels</p>
 				 <br>
         <div class="row" style="text-align: justify;">
-			<p>
+		<!--	
+		<p>
 			If the Kempinski Hotel Gold Coast City is booked or you are looking for a more budget-friendly option, we recommend the following hotels and accommodations near the summit venue.<br>
 		
 		  
 		  </p>
+
+-->
         </div>
 	
 	  <div id="hotels">
