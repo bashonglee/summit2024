@@ -319,7 +319,7 @@
 									<div class="post-time">
 										<span>Group Director for Business Transformation, Brand & Culture</span>
 									</div>
-									<div class="post-location">
+									<div class="post-location" style="text-transform: initial !important;">
 										<span>Equity Group Holdings Plc (Kenya) </span>
 									</div>
 								</div>
@@ -373,7 +373,7 @@
 									<div class="post-time">
 										<span>Harbert Eminent Scholar in Supply Chain Management</a></span>
 									</div>
-									<div class="post-location">
+									<div class="post-location" style="text-transform: initial !important;">
 										<span>Auburn University (USA)</span>
 									</div>
 								</div>
