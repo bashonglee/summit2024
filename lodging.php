@@ -412,7 +412,7 @@
             </div>
           </div>
 		  
-		  <div id="#airbnb" class="modal fade" >
+		  <div id="airbnb" class="modal fade" >
 			<div class="modal-dialog accommodationmodal">
 				<div class="modal-content">
 					<div class="modal-header">
