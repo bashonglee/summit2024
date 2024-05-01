@@ -82,7 +82,7 @@
 				 <div class="row" style="text-align: justify;">
 			
 		<p>
-Buses will be available to convey participants from these hotels to the conference venue.		
+			Buses will be available to convey participants from these recommended hotels to the conference venue.		
 		  
 		  </p>
 
