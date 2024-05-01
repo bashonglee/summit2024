@@ -78,19 +78,16 @@
   
       <div class="container" id="recommended">		
 		         <p style="text-align: center; padding: 0; margin: 0;font-size: 26px; font-weight: 500; color:#3ab990;">Recommended Nearby Conference Hotels</p>
-      <!--  <
-	  div class="row" style="text-align: justify;">
+    
+				 <div class="row" style="text-align: justify;">
 			
 		<p>
-			If the Kempinski Hotel Gold Coast City is booked or you are looking for a more budget-friendly option, we recommend the following hotels and accommodations near the summit venue.<br>
-		
+Buses will be available to convey participants from these hotels to the conference venue.		
 		  
 		  </p>
 
 
         </div>
-	
-	-->
 	
 	  <div id="hotels">
         <div class="row" data-aos-delay="100">
