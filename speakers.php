@@ -105,7 +105,7 @@
                                     <br>
                                    <span> University of Pretoria Gordon Institute of Business Science (South Africa)</span>
                                     </p>
-                                    <p class="conf-topic">Supply chain networks, Ecosystems, Integrative capabilities, Competitive advantage, Partner alignment, Resource coordination, Technological integration, Ecosystem transformation</p>
+                                    <p class="conf-topic">Harmonise Policies, Leverage Heritage: How Can Africa Drive Resilient Supply Chains?</p>
                                     
                                     <p>
                                     Faith Mashele teaches in the areas of sustainable supply chains and operations management at the University of Pretoria’s Gordon Institute of Business Science. She also is a fellow of the school’s Centre for African Management and Markets.

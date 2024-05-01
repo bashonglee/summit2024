@@ -352,7 +352,7 @@
 								</div>
 							</div>
 							<div class="entry-content">
-								<p>"Supply chain networks, Ecosystems, Integrative capabilities, Competitive advantage, Partner alignment, Resource coordination, Technological integration, Ecosystem transformation"</p>
+								<p>"Harmonise Policies, Leverage Heritage: How Can Africa Drive Resilient Supply Chains?"</p>
 							</div>
 							<a href="speakers.php#faith" class="learn-more" title="Learn More">Read More</a>
 						</div>
