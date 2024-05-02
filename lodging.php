@@ -42,7 +42,7 @@
                                 <div class="row">
                                         <div class="abt-img wow " data-wow-duration="400ms">
                                            
-                                            <a href="https://www.kempinski.com/en/booking/select_room?hotelId=1100&clearBookingParams=1&room1Adults=1&startDate=2024-06-03&endDate=2024-06-07&promoCode=ANNU240606/" target="_blank" title="" class="html5lightbox">
+                                            <a href="https://www.kempinski.com" target="_blank" title="" class="html5lightbox">
 											<img src="img/hotels/kempinski.jpg" alt="">
 											</a>
                                         </div><!--abt-img end-->                                    

@@ -96,7 +96,7 @@
 			<strong> Dates: June 4-6, 2024</strong>
 			</p>
 			<p> 
-			<strong> Venue: <a href="https://www.kempinski.com/en/booking/select_room?hotelId=1100&clearBookingParams=1&room1Adults=1&startDate=2024-06-03&endDate=2024-06-07&promoCode=ANNU240606/en" target="_blank">Kempinski Hotel Gold Coast City</a></strong>
+			<strong> Venue: <a href="https://www.kempinski.com" target="_blank">Kempinski Hotel Gold Coast City</a></strong>
 			</p>
         </div>
 		<div class="container">
