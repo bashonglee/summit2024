@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="CARISCA" content="">
 
-    <link rel="icon"  href="/images/favicon.png"/>
+    <link rel="icon"  href="/images/favicon.png" !important/>
 
     <title>CARISCA 2024 SUMMIT</title>
 

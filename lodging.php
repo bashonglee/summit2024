@@ -124,11 +124,12 @@
 								Rooms Available (with rates): 
 							</h3>	
 								<ul>
-									<li>Standard ($153)</li>
-									<li>Superior ($189)</li>
-									<li>Double ($179)</li>
-									<li>Twin ($179)</li>
-								</ul> 
+									<li>Standard ($170)</li>
+									<li>Superior ($190)</li>
+									<li>Double ($200)</li>
+									<li>Twin ($210)</li>
+								</ul> <br>
+								Booking Code: <strong>CARISCA06-24</strong>
                                
 						</p>
                         <br>
