@@ -99,7 +99,7 @@ PageBanner /- -->
 											<span>9:00 AM - 10:30 AM</span>
 											<a  role="button" data-toggle="collapse" data-parent="#accordion" href="#schedule_accrodion_content_2" aria-expanded="true" aria-controls="schedule_accrodion_content_2">
 											Roundtable Discussions
-											<p style="text-transform: initial; font-size: 14px !important; color:#36AE87">(Click here to read more)</p>
+											<p style="text-transform: initial; font-size: 14px !important; color:#36AE87">(Read more)</p>
 											</a>
 										</h4>
 									</div>
@@ -111,24 +111,24 @@ PageBanner /- -->
 												<h4>Table; Facilitators and Participants</h4>	
 													<div class="col-md-6">
 														<p>
-														<span class="facilitator"><strong>Table 1: Prof. Glenn Richey;</strong></span>
-														<span>Rasheed Olawale Azeez</span>
+														<span class="facilitator"><strong>Table 1: Prof. Glenn Richey</strong></span>
+														<!-- <span>Rasheed Olawale Azeez</span> -->
 														</p>
 														<p>
-														<span class="facilitator"><strong>Table 2: Prof. Dale Rogers;</strong></span>
-														<span>Mulugeta Chane</span>
+														<span class="facilitator"><strong>Table 2: Prof. Dale Rogers</strong></span>
+														<!-- <span>Mulugeta Chane</span> -->
 														</p>
 														<p>
-														<span class="facilitator"><strong>Table 3: Prof. Adegoke Oke;</strong></span>
-														<span>Ibrahim Hassan</span>
+														<span class="facilitator"><strong>Table 3: Prof. Adegoke Oke</strong></span>
+														<!-- <span>Ibrahim Hassan</span> -->
 														</p>
 														<p>
-														<span class="facilitator"><strong>Table 4: Prof. Thomas Choi;</strong></span>
-														<span>Ellis Kofi Akwaa-Sekyi</span>
+														<span class="facilitator"><strong>Table 4: Prof. Thomas Choi</strong></span>
+														<!-- <span>Ellis Kofi Akwaa-Sekyi</span> -->
 														</p>
 														<p>
-														<span class="facilitator"><strong>Table 5: Prof. Nat Boso;</strong></span>
-														<span>Jonathan Ikeolumba</span>
+														<span class="facilitator"><strong>Table 5: Prof. Nat Boso</strong></span>
+														<!-- <span>Jonathan Ikeolumba</span> -->
 														</p>
 													</div>
 													</div>
@@ -158,7 +158,7 @@ PageBanner /- -->
 											<span>10:45 AM - 12:30 PM</span>
 											<a  role="button" data-toggle="collapse" data-parent="#accordion" href="#schedule_accrodion_content_4" aria-expanded="true" aria-controls="schedule_accrodion_content_4">
 											Roundtable Discussions
-											<p style="text-transform: initial; font-size: 14px !important; color:#36AE87">(Click here to read more)</p>
+											<p style="text-transform: initial; font-size: 14px !important; color:#36AE87">(Read more)</p>
 											</a>
 										</h4>
 									</div>
@@ -170,12 +170,12 @@ PageBanner /- -->
 												<h4>Table; Facilitators and Participants</h4>	
 													<div class="col-md-6">
 														<p>
-														<span class="facilitator"><strong>Table 1: Prof. Glenn Richey;</strong></span>
-														<span>Bezawit Demissie</span>
+														<span class="facilitator"><strong>Table 1: Prof. Glenn Richey</strong></span>
+														<!-- <span>Bezawit Demissie</span> -->
 														</p>
 														<p>
-														<span class="facilitator"><strong>Table 2: Prof. Dale Rogers;</strong></span>
-														<span>Elikplim Tamakloe</span>
+														<span class="facilitator"><strong>Table 2: Prof. Dale Rogers</strong></span>
+														<!-- <span>Elikplim Tamakloe</span> -->
 														</p>
 													</div>
 													</div>
@@ -269,31 +269,20 @@ PageBanner /- -->
 										<h4 class="panel-title">
 											<span>9:15 AM - 10:00 AM</span>
 											<a  role="button" data-toggle="collapse" data-parent="#accordion2" href="#schedule_accrodion_content_103" aria-expanded="true" aria-controls="schedule_accrodion_content_103s">
-												Introduction & Keynote 
-											<p style="text-transform: initial; font-size: 14px !important; color:#36AE87">(Click here to read more)</p>
+												Introduction: Nathaniel Boso 
+												<br>Keynote 
 											</a>
 										</h4>
 									</div>
-									<div id="schedule_accrodion_content_103" class="panel-collapse collapse" role="tabpanel" aria-labelledby="schedule_accrodion_heading_103">
+									<div id="schedule_accrodion_content_103" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="schedule_accrodion_heading_103">
 										<div class="panel-body">
-											<div class="container mt-5">
-												<div class="row">
-													<div class="col-md-6">
-														<p>
-														<span class="facilitator"><strong>Introduction: Nathaniel Boso,</strong></span>
-														<span>KNUST</span>
-														</p>
-														<p>
-														<span class="facilitator"><strong>Keynote: Lydiah Kiburu,</strong></span>
-														<span>Group Director, Business Transformation, Brand & Culture - Equity Group Holdings Plc</span>
-														</p>
-														<p>
-														<span class="facilitator"><strong>Topic:</strong></span>
-														<span>Leveraging Technology and Innovation to Build Resilient Supply Chains in Africa</span>
-														</p>
-													</div>
-													</div>
+										<div class="author-box" style="margin-top: -11px !important;">
+												<img src="images/photos/lydia-1.jpg" alt="slider-thumb" width="74" height="74"/>
+												<div class="author-content">
+													<h3>Lydiah Kiburu, Group Director, Business Transformation, Brand & Culture - Equity Group Holdings Plc 
+														<span>Leveraging Technology and Innovation to Build Resilient Supply Chains in Africa</span></h3>
 												</div>
+											</div>
 										</div>
 									</div>
 								</div>
@@ -332,7 +321,7 @@ PageBanner /- -->
 											<span>10:15 AM - 11:15 AM</span>
 											<a  role="button" data-toggle="collapse" data-parent="#accordion2" href="#schedule_accrodion_content_105" aria-expanded="true" aria-controls="schedule_accrodion_content_105">
 												Parallel Sessions
-											<p style="text-transform: initial; font-size: 14px !important; color:#36AE87">(Click here to read more)</p>
+											<p style="text-transform: initial; font-size: 14px !important; color:#36AE87">(Read more)</p>
 											</a>
 										</h4>
 									</div>
@@ -382,7 +371,7 @@ PageBanner /- -->
 											<span>11:45 AM - 12:45 PM</span>
 											<a  role="button" data-toggle="collapse" data-parent="#accordion2" href="#schedule_accrodion_content_107" aria-expanded="true" aria-controls="schedule_accrodion_content_107">
 												Parallel Sessions
-											<p style="text-transform: initial; font-size: 14px !important; color:#36AE87">(Click here to read more)</p>
+											<p style="text-transform: initial; font-size: 14px !important; color:#36AE87">(Read more)</p>
 											</a>
 										</h4>
 									</div>
@@ -431,7 +420,7 @@ PageBanner /- -->
 											<span>1:45 PM - 2:45 PM</span>
 											<a  role="button" data-toggle="collapse" data-parent="#accordion2" href="#schedule_accrodion_content_109" aria-expanded="true" aria-controls="schedule_accrodion_content_109">
 												Parallel Sessions
-											<p style="text-transform: initial; font-size: 14px !important; color:#36AE87">(Click here to read more)</p>
+											<p style="text-transform: initial; font-size: 14px !important; color:#36AE87">(Read more)</p>
 											</a>
 										</h4>
 									</div>
@@ -480,7 +469,7 @@ PageBanner /- -->
 											<span>3:00 PM - 4:00 PM</span>
 											<a  role="button" data-toggle="collapse" data-parent="#accordion2" href="#schedule_accrodion_content_111" aria-expanded="true" aria-controls="schedule_accrodion_content_111">
 												Parallel Sessions
-											<p style="text-transform: initial; font-size: 14px !important; color:#36AE87">(Click here to read more)</p>
+											<p style="text-transform: initial; font-size: 14px !important; color:#36AE87">(Read more)</p>
 											</a>
 										</h4>
 									</div>
@@ -529,7 +518,7 @@ PageBanner /- -->
 											<span>4:15PM - 5:15 PM</span>
 											<a  role="button" data-toggle="collapse" data-parent="#accordion2" href="#schedule_accrodion_content_113" aria-expanded="true" aria-controls="schedule_accrodion_content_113">
 												Parallel Session
-											<p style="text-transform: initial; font-size: 14px !important; color:#36AE87">(Click here to read more)</p>
+											<p style="text-transform: initial; font-size: 14px !important; color:#36AE87">(Read more)</p>
 											</a>
 										</h4>
 									</div>
@@ -619,7 +608,7 @@ PageBanner /- -->
 									<div id="schedule_accrodion_content_202" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="schedule_accrodion_heading_202">
 										<div class="panel-body">
 										<div class="author-box" style="margin-top: -11px !important;">
-												<img src="images/photos/glenn.jpg" alt="slider-thumb" width="74" height="74"/>
+												<img src="images/photos/glenn-1.jpg" alt="slider-thumb" width="74" height="74"/>
 												<div class="author-content">
 													<h3>Glenn Richey, Co-Editor-in-Chief of the Journal of Business Logistics, Harbert Eminent Scholar in SCM  at Auburn University 
 														<span>Responsiveness, Organizational Learning and AI: The Future of Supply Chain Strategy</span></h3>
@@ -644,7 +633,7 @@ PageBanner /- -->
 											<span>10:15 AM - 11:15 AM</span>
 											<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion3" href="#schedule_accrodion_content_204" aria-expanded="false" aria-controls="schedule_accrodion_content_204">
 												Parallel Sessions
-											<p style="text-transform: initial; font-size: 14px !important; color:#36AE87">(Click here to read more)</p>
+											<p style="text-transform: initial; font-size: 14px !important; color:#36AE87">(Read more)</p>
 											</a>
 										</h4>
 									</div>
@@ -693,7 +682,7 @@ PageBanner /- -->
 											<span>11:45 AM - 12:45 PM</span>
 											<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion3" href="#schedule_accrodion_content_206" aria-expanded="false" aria-controls="schedule_accrodion_content_206">
 												Parallel Sessions
-											<p style="text-transform: initial; font-size: 14px !important; color:#36AE87">(Click here to read more)</p>
+											<p style="text-transform: initial; font-size: 14px !important; color:#36AE87">(Read more)</p>
 											</a>
 										</h4>
 									</div>
@@ -741,7 +730,7 @@ PageBanner /- -->
 											<span>1:45 PM - 2:45 PM</span>
 											<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion3" href="#schedule_accrodion_content_208" aria-expanded="false" aria-controls="schedule_accrodion_content_208">
 												Parallel Sessions
-											<p style="text-transform: initial; font-size: 14px !important; color:#36AE87">(Click here to read more)</p>
+											<p style="text-transform: initial; font-size: 14px !important; color:#36AE87">(Read more)</p>
 											</a>
 										</h4>
 									</div>
@@ -789,7 +778,7 @@ PageBanner /- -->
 											<span>3:00 PM - 4:00 PM</span>
 											<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion3" href="#schedule_accrodion_content_210" aria-expanded="false" aria-controls="schedule_accrodion_content_210">
 												Parallel Sessions
-											<p style="text-transform: initial; font-size: 14px !important; color:#36AE87">(Click here to read more)</p>
+											<p style="text-transform: initial; font-size: 14px !important; color:#36AE87">(Read more)</p>
 											</a>
 										</h4>
 									</div>
@@ -837,7 +826,7 @@ PageBanner /- -->
 											<span>4:15 PM - 5:15 PM</span>
 											<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion3" href="#schedule_accrodion_content_212" aria-expanded="false" aria-controls="schedule_accrodion_content_212">
 												Parallel Sessions
-											<p style="text-transform: initial; font-size: 14px !important; color:#36AE87">(Click here to read more)</p>
+											<p style="text-transform: initial; font-size: 14px !important; color:#36AE87">(Read more)</p>
 											</a>
 										</h4>
 									</div>
@@ -877,10 +866,10 @@ PageBanner /- -->
 											</a>
 										</h4>
 									</div>
-									<div id="schedule_accrodion_content_213" class="panel-collapse collapse" role="tabpanel" aria-labelledby="schedule_accrodion_heading_213">
+									<div id="schedule_accrodion_content_213" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="schedule_accrodion_heading_213">
 										<div class="panel-body">
 										<div class="author-box" style="margin-top: -11px !important;">
-												<img src="images/photos/atoapem.jpg" alt="slider-thumb" width="74" height="74"/>
+												<img src="images/photos/atoampem.jpg" alt="slider-thumb" width="74" height="74"/>
 												<div class="author-content">
 													<h3>Atoapem Frimpong Barimah, Senior Manager, Supply Chain Operations, Newmont
 														<span>Has Transformation Ever Been Achieved Without Supply Chain?</span></h3>
@@ -920,7 +909,7 @@ PageBanner /- -->
 										<div class="panel-body">
 											
 										<div class="author-box" style="margin-top: -11px !important;">
-												<img src="images/photos/faith.jpg" alt="slider-thumb" width="74" height="74"/>
+												<img src="images/photos/faith-1.jpg" alt="slider-thumb" width="74" height="74"/>
 												<div class="author-content">
 													<h3> Faith Mashele, Faculty member, University of Pretoria Gordon Institute of Business Science (South Africa)
 														<span>Harmonise Policies, Leverage Heritage: How Can Africa Drive Resilient Supply Chains?</span></h3>
@@ -946,7 +935,7 @@ PageBanner /- -->
 											<span>10:15 AM - 11:15 AM</span>
 											<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion4" href="#schedule_accrodion_content_304" aria-expanded="false" aria-controls="schedule_accrodion_content_304">
 												Parallel Sessions
-											<p style="text-transform: initial; font-size: 14px !important; color:#36AE87">(Click here to read more)</p>
+											<p style="text-transform: initial; font-size: 14px !important; color:#36AE87">(Read more)</p>
 											</a>
 										</h4>
 									</div>
@@ -994,7 +983,7 @@ PageBanner /- -->
 											<span>11:45 AM - 12:45 PM</span>
 											<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion4" href="#schedule_accrodion_content_306" aria-expanded="false" aria-controls="schedule_accrodion_content_306">
 												Parallel Sessions
-											<p style="text-transform: initial; font-size: 14px !important; color:#36AE87">(Click here to read more)</p>
+											<p style="text-transform: initial; font-size: 14px !important; color:#36AE87">(Read more)</p>
 											</a>
 										</h4>
 									</div>
@@ -1042,7 +1031,7 @@ PageBanner /- -->
 											<span>1:00 PM - 2:00 PM</span>
 											<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion4" href="#schedule_accrodion_content_308" aria-expanded="false" aria-controls="schedule_accrodion_content_308">
 												Parallel Sessions
-											<p style="text-transform: initial; font-size: 14px !important; color:#36AE87">(Click here to read more)</p>
+											<p style="text-transform: initial; font-size: 14px !important; color:#36AE87">(Read more)</p>
 											</a>
 										</h4>
 									</div>
