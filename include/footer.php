@@ -116,23 +116,8 @@
 				<div class="copyrights ow-pull-left">
 					<p>Copyright © <?php echo date("Y"); ?>, CARISCA, KNUST. All Rights Reserved</p>
 				</div><!-- Copyrights /- -->
-				<!-- Navigation -->
-				<nav class="navbar ow-navigation ow-pull-right">
-					<div class="navbar-header">
-						<button aria-controls="navbar" aria-expanded="false" data-target="#navbar2" data-toggle="collapse" class="navbar-toggle collapsed" type="button">
-							<span class="sr-only">Toggle navigation</span>
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-						</button>
-					</div>
-					<div class="navbar-collapse collapse" id="navbar2">
-						<ul class="nav navbar-nav">
-							<li><a title="Home" href="index.html">Home</a></li>
-							<li><a title="Contact Us" href="contactus.html">Contact Us</a></li>
-						</ul>
-					</div>
-				</nav><!-- Navigation /- -->
+				
+				
 			</div><!-- Footer Menu /- -->
 		</div><!-- Container /- -->
 
