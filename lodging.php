@@ -225,9 +225,9 @@
 								Rooms Available (with rates): 
 							</h3>	
 								<ul>
-									<li>Single Rate ($220)</li>
-									<li>Superior Rooms ($235)</li>
-									<li>Double Occupancy Rooms ($250)</li>
+									<li>Single Rate ($120)</li>
+									<li>Superior Rooms ($160)</li>
+									<li>Double Occupancy Rooms ($185)</li>
 								</ul> 
                                
 						</p>
@@ -235,7 +235,7 @@
 					</div>
 					<div class="modal-footer">
 					
-						<a id="loadpage" type="button" class="btn btn-primary booking" target="blank" href="https://live.ipms247.com/booking/book-rooms-alisahotels" style="display: inline-block; color: #ffffff; font-size: 18px; font-weight: 700; text-transform: uppercase; height: 50px; line-height: 50px; padding: 0 25px; -webkit-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px;" target="_blank">Book a Room</a>
+						<a id="loadpage" type="button" class="btn btn-primary booking" target="blank" href="https://reservations.travelclick.com/113778?groupID=4247252" style="display: inline-block; color: #ffffff; font-size: 18px; font-weight: 700; text-transform: uppercase; height: 50px; line-height: 50px; padding: 0 25px; -webkit-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px;" target="_blank">Book a Room</a>
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
 					</div>
 				</div>
