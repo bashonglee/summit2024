@@ -75,20 +75,15 @@
       <div class="container" id="recommended">		
 		         <p style="text-align: center; padding: 0; margin: 0;font-size: 26px; font-weight: 500; color:#3ab990;">Recommended Nearby Conference Hotels</p>
     
-				 <div class="row" style="text-align: justify;">
+				 <div class="row" style="padding: 10px;">
 			
-		<p>
-			Buses will be available to convey participants from these recommended hotels to the conference venue.		
-		  
+		  <p>
+			Buses will be available to convey participants from these recommended hotels to the conference venue.		  
 		  </p>
-
-
         </div>
 	
 	  <div id="hotels">
         <div class="row" data-aos-delay="100">
-             		  
-		 
 
 		
 		  <!-- Accra City Hotel -->

@@ -227,7 +227,7 @@
 						
 					</div>
 				</div>
-				<div class="col-md-8 col-sm-6 col-xs-12">
+				<div class="col-md-8 col-sm-6 col-xs-12" style="padding: 10px;">
 					<div class="howwecan-right">
 						<div class="section-header">
 							<h3>ABOUT THE SUMMIT</h3>
@@ -275,7 +275,7 @@
 				</div>
 
 				
-				<div class="col-md-8 col-sm-6 col-xs-12">
+				<div class="col-md-8 col-sm-6 col-xs-12" style="padding: 10px;>
 					<div class="howwecan-right">				
 					<div class="section-header">
 								<h3 style="line-height: 1;">Africa’s Supply Chain Resilience for Economic Transformation</h3>
