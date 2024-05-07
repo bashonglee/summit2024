@@ -85,11 +85,9 @@
 
 <div class="container-fluid no-padding howwecan-section">
 		<div class="container">
-		<p>Registration is now open, and we invite you to secure your spot at the 2024 Summit.</p>
-    <p>
-	Registration fees are covered, courtesy of CARISCA. In-person attendees only need to fund their own transportation and lodging. 	</p>
+		<p>In-person registration is at capacity, but you can still register to participate in all events online, at no charge.</p>
 
-<a type="button" class="btn btn-primary" href="https://na.eventscloud.com/782387" title="Registration Link" target="_blank" style="display: inline-block; color: #ffffff; font-size: 18px; font-weight: 700; text-transform: uppercase; height: 50px; line-height: 50px; padding: 0 25px; -webkit-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px;">Click Here to Register </a>
+<a type="button" class="btn btn-primary" href="https://na.eventscloud.com/782387" title="Registration Link" target="_blank" style="display: inline-block; color: #ffffff; font-size: 18px; font-weight: 700; text-transform: uppercase; height: 50px; line-height: 50px; padding: 0 25px; -webkit-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px;">Register Now</a>
 
   
         </div>
