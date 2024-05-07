@@ -841,7 +841,7 @@ section {
 }
 .testimonials .testimonial-item .quote-icon-left, .testimonials .testimonial-item .quote-icon-right {
   color: white;
-  font-size: 26px;
+  font-size: 25px;
 }
 .testimonials .testimonial-item .quote-icon-left {
   display: inline-block;
@@ -859,6 +859,22 @@ section {
   margin: 15px 0 0 0;
   padding: 0;
 }
+
+@media only screen and (max-width: 767px) {
+  .testimonial-author {
+     font-size: 12px !important;
+     font-weight: bold;
+   }
+
+   h2 {
+    font-size: 12px;
+    font-weight: bold;
+  }
+ 
+  .testimonial-role,.testimonial-organisation,.testimonial-extra {
+     font-size: 0.8em;
+   }
+ }
 
 /*--------------------------------------------------------------
 # Our Skills

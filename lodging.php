@@ -61,10 +61,6 @@
 								<a id="loadpage"  href="https://www.kempinski.com/en/booking/select_room?hotelId=1100&clearBookingParams=1&room1Adults=1&startDate=2024-06-03&endDate=2024-06-07&promoCode=ANNU240606" target="_blank">Book a room</a>
 								 <br>
 								 <br>
-								
-								 <br>
-								 <br>
-								 
                                 </p>
                             </div><!--about-info end-->
                         </div>

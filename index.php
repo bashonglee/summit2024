@@ -14,6 +14,9 @@
 </script>
 
 <style>
+	.d-none {
+		display: none !important;
+	}
 	@import url(https://fonts.googleapis.com/css?family=Open+Sans);
 
 			.tcontainer *{
@@ -29,7 +32,7 @@
 			color:#ccc;
 			}
 			.tcontainer .container{
-			width:800px;
+			width:100% !important;
 			min-height:350px;
 			margin:0 auto;
 			position:relative;
@@ -80,7 +83,7 @@
 			.tcontainer blockquote{
 			margin:0;
 			padding:30px;
-			width:800px;
+			width:100%;
 			background-color: #3ab990;
 			color:white;
 			box-shadow: 0 5px 2px rgba(0,0,0,0.1);
@@ -182,7 +185,7 @@
 		<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 			<div class="carousel-inner" role="listbox">
 				<div class="item active" >
-					<img src="images/photos/bmic1.jpg" alt="slide2" width="1920" height="770"/>
+					<img src="images/photos/bmic1.jpg" alt="slide2" width="100%" />
 					<div class="carousel-caption">
 						<div class="container">
 							<div class="col-md-5 col-sm-6 col-xs-9 pull-right">
@@ -305,7 +308,7 @@
 			<div class="row">
 			
 
-			<div class="col-md-4 col-sm-4 col-xs-4">
+			<div class="col-md-4 col-sm-12 col-xs-12">
 					<article class="type-post">
 						<div class="entry-cover">
 							<a href="speakers.php#lydiah"><img src="images/photos/lydia.jpg" alt="patrick" width="370" height="300"/></a>
@@ -332,7 +335,7 @@
 					</article>
 				</div>
 								
-				<div class="col-md-4 col-sm-4 col-xs-4">
+				<div class="col-md-4 col-sm-12 col-xs-12">
 					<article class="type-post">
 						<div class="entry-cover">
 							<a href="speakers.php#faith"><img src="images/photos/faith.jpg" alt="faith" width="370" height="300"/></a>
@@ -359,7 +362,7 @@
 					</article>
 				</div>
 
-				<div class="col-md-4 col-sm-4 col-xs-4">
+				<div class="col-md-4 col-sm-12 col-xs-12">
 					<article class="type-post">
 						<div class="entry-cover">
 							<a href="speakers.php#glenn"><img src="images/photos/glenn.jpg" alt="Glenn" width="370" height="300"/></a>
@@ -464,7 +467,7 @@
 </div>
 	
 
-	<!-- Testimonial Section -->
+	<!--  Testimonial Section /- -->
 	<div class="container-fluid testimonial-section no-padding">
 	<div class="container">	
 	<div class="section-header no-padding">
@@ -481,10 +484,10 @@
 				
 			<div class="one slide">
 				<blockquote>
-				<span class="leftq quotes">&ldquo;</span> <p id="testimonial-quote"> <span class="rightq quotes">&bdquo; </span>
+				<span class="leftq quotes">&ldquo;</span> <p id="testimonial-quote" style="font-size: 18px;"> <span class="rightq quotes">&bdquo; </span>
 				</blockquote>
 				<img id="testimonial-image" width="150" style="margin-top: 11px; margin-left:10px;border-radius: 25px 70px;"/>
-				<h2 id="testimonial-author"></h2>
+				<h2 id="testimonial-author" style="font-size: 15px; font-weight: bold;"></h2>
 				<div>
 					<h6 id="testimonial-role"> </h6>
 					<h6 id="testimonial-organisation"></h6> 
@@ -497,7 +500,7 @@
 
 	</div>
 		<div class="section-padding"></div>
-	</div><!-- Testimonial Section /- -->
+	</div> <!--Testimonial Section /- -->
 								
 
 

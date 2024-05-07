@@ -4161,10 +4161,11 @@
 	.slider-section .carousel-control {
 		bottom: 15px;
 	}
-	.slider-section .carousel-inner > .item > img	{
+	
+	/* .slider-section .carousel-inner > .item > img	{
 		height: 260px;
 	}
-	
+	 */
 	/* -- Howwecan2 */
 	.howwecan2 .howwecan2-block .col-xs-6 {
 		width: 100%;
