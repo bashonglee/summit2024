@@ -1,13 +1,6 @@
 <!doctype html>
 <html lang="en">
-<?php require_once 'include/head.php'; ?>
-<?php require_once 'include/nav2.php'; ?>
-<head>
-<link rel="stylesheet" href="css/style2.css" !important>
-
-</head>
-
-
+<?php require_once 'include/head.php';?>
 <style>
     .font-weight-bold {
   font-weight: 500;
@@ -24,8 +17,14 @@ a .active{
 </style>
 <body class="light-vz">
     <!-- Preloader -->
-   
+    <div id="preloader">
+        <div id="status">
+            <div class="spinner"></div>
+        </div>
+    </div><!--preloader end-->
     <div class="theme-layout">
+        <?php require_once 'include/header.php';?>
+        <?php require_once 'include/nav.php';?>
        
         <section class="banner-section" id="home" data-scroll-index="0">
             <div class="banner-carousel">
@@ -2507,19 +2506,11 @@ a .active{
             </div>
         </section><!--conference-sec end-->
 
-     
-
-
-
-
-    <?php require_once 'include/footer.php'; ?>
-
-
-
-</div><!--theme-layout end-->
-
-
-<?php require_once 'include/scripts.php'; ?>
-
+        <?php require_once 'include/footer.php';?>        
+    </div>
+                 
+    <?php require_once 'include/scripts.php';?>
 
 </body>
+
+</html>

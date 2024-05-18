@@ -107,8 +107,6 @@ PageBanner /- -->
 										<div class="panel-body">
 										<div class="container mt-5">
 												<div class="row">
-													
-												<h4>Table; Facilitators and Participants</h4>	
 													<div class="col-md-6">
 														<p>
 														<span class="facilitator"><strong>Table 1: Prof. Glenn Richey</strong></span>
@@ -143,7 +141,7 @@ PageBanner /- -->
 										<h4 class="panel-title">
 											<span>10:30 AM - 10:45 AM</span>
 											<a  role="button" data-toggle="collapse" data-parent="#accordion" href="#schedule_accrodion_content_3" aria-expanded="true" aria-controls="schedule_accrodion_content_3">
-											Break
+											Break/Changeover
 											</a>
 										</h4>
 									</div>
@@ -166,8 +164,6 @@ PageBanner /- -->
 										<div class="panel-body">
 										<div class="container mt-5">
 												<div class="row">
-													
-												<h4>Table; Facilitators and Participants</h4>	
 													<div class="col-md-6">
 														<p>
 														<span class="facilitator"><strong>Table 1: Prof. Glenn Richey</strong></span>
@@ -331,19 +327,19 @@ PageBanner /- -->
 												<div class="row">
 													<div class="col-md-6">
 														<p>
-														<span class="facilitator"><strong>Track 1: Sectoral Supply Chains.</strong></span>
+														<span class="facilitator"><strong>Track 1: Sectoral Supply Chains (Adlon).</strong></span>
 														<span>Session Chair: John Serbe Marfo</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 2: General Supply Chains.</strong></span>
+														<span class="facilitator"><strong>Track 2: General Supply Chains (Stafford).</strong></span>
 														<span>Session Chair: John Frimpong</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 3: Emerging Issues in Global Supply Chains.</strong></span>
+														<span class="facilitator"><strong>Track 3: Emerging Issues in Global Supply Chains (Siam).</strong></span>
 														<span>Session chair: Dominic Essuman</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 4: Africa Supply Chains.</strong></span>
+														<span class="facilitator"><strong>Track 4: Africa Supply Chains (Baltschug).</strong></span>
 														<span>Session chair: Enoch Bulley</span>
 														</p>
 													</div>
@@ -358,7 +354,7 @@ PageBanner /- -->
 										<h4 class="panel-title">
 											<span>11:15 AM - 11:45 AM</span>
 											<a  role="button" data-toggle="collapse" data-parent="#accordion2" href="#schedule_accrodion_content_106" aria-expanded="true" aria-controls="schedule_accrodion_content_106">
-												Break
+											15-minute changeover
 											</a>
 										</h4>
 									</div>
@@ -381,19 +377,19 @@ PageBanner /- -->
 												<div class="row">
 													<div class="col-md-6">
 														<p>
-														<span class="facilitator"><strong>Track 1: Sectoral Supply Chains.</strong></span>
+														<span class="facilitator"><strong>Track 1: Sectoral Supply Chains (Adlon).</strong></span>
 														<span>Session Chair: Priscilla Mante</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 2: General Supply Chains.</strong></span>
+														<span class="facilitator"><strong>Track 2: General Supply Chains (Stafford).</strong></span>
 														<span>Session Chair: Abdul Samed Muntaka</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 3: Emerging Issues in Global Supply Chains.</strong></span>
+														<span class="facilitator"><strong>Track 3: Emerging Issues in Global Supply Chains (Siam).</strong></span>
 														<span>Session chair: Kelvinne Mocke</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 4: Africa Supply Chains.</strong></span>
+														<span class="facilitator"><strong>Track 4: Africa Supply Chains (Baltschug).</strong></span>
 														<span>Session chair: Emmanuel Boakye-Yiadom</span>
 														</p>
 													</div>
@@ -406,7 +402,7 @@ PageBanner /- -->
 								<div class="panel panel-default intro">
 									<div class="panel-heading" role="tab" id="schedule_accrodion_heading_108">									
 										<h4 class="panel-title">
-											<span>12:45 PM - 01:45 PM</span>
+											<span>12:45 PM - 1:45 PM</span>
 											<a  role="button" data-toggle="collapse" data-parent="#accordion2" href="#schedule_accrodion_content_108" aria-expanded="true" aria-controls="schedule_accrodion_content_108">
 												Lunch
 											</a>
@@ -430,19 +426,19 @@ PageBanner /- -->
 												<div class="row">
 													<div class="col-md-6">
 														<p>
-														<span class="facilitator"><strong>Track 1: Sectoral Supply Chains.</strong></span>
+														<span class="facilitator"><strong>Track 1: Sectoral Supply Chains (Adlon).</strong></span>
 														<span>Session Chair: Priscilla Addo Asamany</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 2: General Supply Chains.</strong></span>
+														<span class="facilitator"><strong>Track 2: General Supply Chains (Stafford).</strong></span>
 														<span>Session Chair: Henry Ataburo</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 3: Emerging Issues in Global Supply Chains.</strong></span>
+														<span class="facilitator"><strong>Track 3: Emerging Issues in Global Supply Chains (Siam).</strong></span>
 														<span>Session chair: Darlington Adanfo</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 4: Africa Supply Chains.</strong></span>
+														<span class="facilitator"><strong>Track 4: Africa Supply Chains (Baltschug).</strong></span>
 														<span>Session chair: Isaac Apike</span>
 														</p>
 													</div>
@@ -479,19 +475,19 @@ PageBanner /- -->
 												<div class="row">
 													<div class="col-md-6">
 														<p>
-														<span class="facilitator"><strong>Track 1: Sectoral Supply Chains.</strong></span>
+														<span class="facilitator"><strong>Track 1: Sectoral Supply Chains (Adlon).</strong></span>
 														<span>Session Chair: Ibraheem Forson</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 2: General Supply Chains.</strong></span>
+														<span class="facilitator"><strong>Track 2: General Supply Chains (Stafford).</strong></span>
 														<span>Session Chair: Matilda Kokui Owusu-Bio</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 3: Emerging Issues in Global Supply Chains.</strong></span>
+														<span class="facilitator"><strong>Track 3: Emerging Issues in Global Supply Chains (Siam).</strong></span>
 														<span>Session chair: Emmanuel Anin</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 4: Africa Supply Chains.</strong></span>
+														<span class="facilitator"><strong>Track 4: Africa Supply Chains (Baltschug).</strong></span>
 														<span>Session chair: Adetoyese Oguntimehin</span>
 														</p>
 													</div>
@@ -528,8 +524,8 @@ PageBanner /- -->
 												<div class="row">
 													<div class="col-md-6">
 														<p>
-														<span class="facilitator"><strong>Panel Session.</strong></span>
-														<span>Glenn Richey</span>
+														<span class="facilitator"><strong>Women in Supply Chain Panel Session.</strong></span>
+														<span>Moderator: Matilda Owusu-Bio</span>
 														</p>
 														<p>
 														<span class="facilitator"><strong>General Supply Chains.</strong></span>
@@ -553,9 +549,9 @@ PageBanner /- -->
 								<div class="panel panel-default intro">
 									<div class="panel-heading" role="tab" id="schedule_accrodion_heading_114">									
 										<h4 class="panel-title">
-											<span>5:15 PM - 5:30 PM</span>
+											<span>5:15 PM - 5:35 PM</span>
 											<a  role="button" data-toggle="collapse" data-parent="#accordion2" href="#schedule_accrodion_content_114" aria-expanded="true" aria-controls="schedule_accrodion_content_114">
-												15-minute changeover
+											20-minute coffee break
 											</a>
 										</h4>
 									</div>
@@ -565,7 +561,7 @@ PageBanner /- -->
 								<div class="panel panel-default">
 									<div class="panel-heading" role="tab" id="schedule_accrodion_heading_115">
 										<h4 class="panel-title">
-											<span>5:30 PM - 6:30 PM</span>
+											<span>5:35 PM - 6:35 PM</span>
 											<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion2" href="#schedule_accrodion_content_115" aria-expanded="false" aria-controls="schedule_accrodion_content_115">
 											PhD Dissertation Award Presentations    
 											</a>
@@ -630,7 +626,7 @@ PageBanner /- -->
 								<div class="panel panel-default">
 									<div class="panel-heading" role="tab" id="schedule_accrodion_heading_204">
 										<h4 class="panel-title">
-											<span>10:15 AM - 11:15 AM</span>
+											<span>10:15 AM - 11:30 AM</span>
 											<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion3" href="#schedule_accrodion_content_204" aria-expanded="false" aria-controls="schedule_accrodion_content_204">
 												Parallel Sessions
 											<p style="text-transform: initial; font-size: 14px !important; color:#36AE87">(Read more)</p>
@@ -643,19 +639,19 @@ PageBanner /- -->
 												<div class="row">
 													<div class="col-md-6">
 														<p>
-														<span class="facilitator"><strong>Track 1: Africa Supply Network Research Accelerator (ASN-RA)</strong></span>
+														<span class="facilitator"><strong>Track 1: Africa Supply Network Research Accelerator (ASN-RA) - (Adlon)</strong></span>
 														<span>Session chair: Benjamin Agyei-Owusu</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 2: Sectoral Supply Chains.</strong></span>
+														<span class="facilitator"><strong>Track 2: Sectoral Supply Chains. - (Stafford)</strong></span>
 														<span>Session Chair: Jacob Kuutuome</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 3: General Supply Chains.</strong></span>
+														<span class="facilitator"><strong>Track 3: General Supply Chains. - (Siam)</strong></span>
 														<span>Session chair: Abiola Fagbenro</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 4: Africa Supply Chains.</strong></span>
+														<span class="facilitator"><strong>Track 4: Africa Supply Chains. - (Baltschug)</strong></span>
 														<span>Session chair: Listowel Appiah</span>
 														</p>
 													</div>
@@ -668,9 +664,9 @@ PageBanner /- -->
 								<div class="panel panel-default">
 									<div class="panel-heading" role="tab" id="schedule_accrodion_heading_205">
 										<h4 class="panel-title">
-											<span>11:15 AM - 11:45 AM</span>
+											<span>11:30 AM - 11:45 AM</span>
 											<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion3" href="#schedule_accrodion_content_205" aria-expanded="false" aria-controls="schedule_accrodion_content_205">
-												Break
+												15-minute changeover
 											</a>
 										</h4>
 									</div>
@@ -692,20 +688,20 @@ PageBanner /- -->
 												<div class="row">
 													<div class="col-md-6">
 														<p>
-														<span class="facilitator"><strong>Track 1: Sectoral Supply Chains.</strong></span>
-														<span>Session Chair: Mona Ali</span>
+														<span class="facilitator"><strong>Track 1: Africa Supply Network Research Accelerator (ASN-RA) - (Adlon)</strong></span>
+														<span>Session Chair: Ishmael Acquah</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 2: General Supply Chains.</strong></span>
+														<span class="facilitator"><strong>Track 2: Sectoral Supply Chains. - (Stafford)</strong></span>
 														<span>Session Chair: Leticia Antwi</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 3: Emerging Issues in Global Supply Chains.</strong></span>
+														<span class="facilitator"><strong>Track 3: Emerging Issues in Global Supply Chains. - (Siam)</strong></span>
 														<span>Session chair: Okyere Anim Barima</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 4: Africa Supply Chains.</strong></span>
-														<span>Session chair: Ishmael Acquah</span>
+														<span class="facilitator"><strong>Track 4: General Supply Chains. - (Baltschug)</strong></span>
+														<span>Session chair: David Asamoah</span>
 														</p>
 													</div>
 													</div>
@@ -740,20 +736,20 @@ PageBanner /- -->
 												<div class="row">
 													<div class="col-md-6">
 														<p>
-														<span class="facilitator"><strong>Track 1: The Logistics Managers Index Session</strong></span>
+														<span class="facilitator"><strong>Track 1: The Logistics Managers Index Session  - (Adlon)</strong></span>
 														<span>Session Chair: Abdul Samed Muntaka</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 2: General Supply Chains.</strong></span>
-														<span>Session Chair: Dominic Essuman</span>
+														<span class="facilitator"><strong>Track 2: General Supply Chains. - (Stafford)</strong></span>
+														<span>Session Chair: Listowel Appiah</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 3: Emerging Issues in Global Supply Chains.</strong></span>
+														<span class="facilitator"><strong>Track 3: Emerging Issues in Global Supply Chains. - (Siam)</strong></span>
 														<span>Session chair: Benjamin Agyei-Owusu</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 4: Africa Supply Chains.</strong></span>
-														<span>Session chair: Mona Ali</span>
+														<span class="facilitator"><strong>Track 4: Africa Supply Chains. - (Baltschug)</strong></span>
+														<span>Session chair: David Asamoah</span>
 														</p>
 													</div>
 													</div>
@@ -788,19 +784,19 @@ PageBanner /- -->
 												<div class="row">
 													<div class="col-md-6">
 														<p>
-														<span class="facilitator"><strong>Track 1: Sectoral Supply Chains.</strong></span>
+														<span class="facilitator"><strong>Track 1: Sectoral Supply Chains.  - (Adlon)</strong></span>
 														<span>Session Chair: Priscilla Mante</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 2: General Supply Chains.</strong></span>
+														<span class="facilitator"><strong>Track 2: General Supply Chains. - (Stafford)</strong></span>
 														<span>Session Chair: Pasty Asamamoah</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 3: Emerging Issues in Global Supply Chains.</strong></span>
+														<span class="facilitator"><strong>Track 3: Emerging Issues in Global Supply Chains. - (Siam)</strong></span>
 														<span>Session chair: Listowel Owusu Appiah</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 4: Africa Supply Chains.</strong></span>
+														<span class="facilitator"><strong>Track 4: Africa Supply Chains. - (Baltschug)</strong></span>
 														<span>Session chair: Emmanuel Quansah</span>
 														</p>
 													</div>
@@ -836,21 +832,18 @@ PageBanner /- -->
 												<div class="row">
 													<div class="col-md-6">
 														<p>
-														<span class="facilitator"><strong>Track 1: Women In Supply Chain Panel Session</strong></span>
-														<span>Moderator: Matilda Owusu-Bio</span>
+														<span class="facilitator"><strong>Panel Session: Publishing in Top Journals in Operations and Supply Chain Management  - (Adlon)</strong></span>
+														<span>Moderator: Professor Adegoke Oke</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 2: Sectoral Supply Chains.</strong></span>
-														<span>Session Chair: Kelvinne Mocke</span>
-														</p>
-														<p>
-														<span class="facilitator"><strong>Track 3: Emerging Issues in Global Supply Chains.</strong></span>
+														<span class="facilitator"><strong>Track 2: Emerging Issues in Global Supply Chains. - (Stafford)</strong></span>
 														<span>Session chair: David Antwi</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 4: Africa Supply Chains.</strong></span>
-														<span>Session chair: Bonaventure Dery</span>
+														<span class="facilitator"><strong>Track 3: Africa Supply Chains. - (Stafford)</strong></span>
+														<span>Session Chair: Bonaventure Dery</span>
 														</p>
+														
 													</div>
 													</div>
 												</div>
@@ -932,7 +925,7 @@ PageBanner /- -->
 								<div class="panel panel-default">
 									<div class="panel-heading" role="tab" id="schedule_accrodion_heading_304">
 										<h4 class="panel-title">
-											<span>10:15 AM - 11:15 AM</span>
+											<span>10:15 AM - 11:30 AM</span>
 											<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion4" href="#schedule_accrodion_content_304" aria-expanded="false" aria-controls="schedule_accrodion_content_304">
 												Parallel Sessions
 											<p style="text-transform: initial; font-size: 14px !important; color:#36AE87">(Read more)</p>
@@ -945,20 +938,20 @@ PageBanner /- -->
 												<div class="row">
 													<div class="col-md-6">
 														<p>
-														<span class="facilitator"><strong>Track 1: General Supply Chains.</strong></span>
-														<span>Session Chair: Robert Aidoo</span>
+														<span class="facilitator"><strong>Track 1: General Supply Chains.  - (Adlon)</strong></span>
+														<span>Session Chair: Richard Boso</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 2: Sectoral Supply Chains.</strong></span>
+														<span class="facilitator"><strong>Track 2: Sectoral Supply Chains. - (Stafford)</strong></span>
 														<span>Session Chair: Isaac Apike</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 3: Emerging Issues in Global Supply Chains.</strong></span>
+														<span class="facilitator"><strong>Track 3: Emerging Issues in Global Supply Chains. - (Siam)</strong></span>
 														<span>Session chair: Caleb Kumi Amankwah</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 4: Africa Supply Chains.</strong></span>
-														<span>Session chair: Mary Aminga</span>
+														<span class="facilitator"><strong>Track 4: Africa Supply Chains. - (Baltschug)</strong></span>
+														<span>Session chair: Abdulazeez Ibrahim Forson</span>
 														</p>
 													</div>
 													</div>
@@ -969,9 +962,9 @@ PageBanner /- -->
 								<div class="panel panel-default">
 									<div class="panel-heading" role="tab" id="schedule_accrodion_heading_305">
 										<h4 class="panel-title">
-											<span>11:15 AM - 11:45 AM</span>
+											<span>11:30 AM - 12:00 PM</span>
 											<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion4" href="#schedule_accrodion_content_305" aria-expanded="false" aria-controls="schedule_accrodion_content_305">
-												Break
+												Coffee Break
 											</a>
 										</h4>
 									</div>
@@ -980,7 +973,7 @@ PageBanner /- -->
 								<div class="panel panel-default">
 									<div class="panel-heading" role="tab" id="schedule_accrodion_heading_306">
 										<h4 class="panel-title">
-											<span>11:45 AM - 12:45 PM</span>
+											<span>12:00 PM - 1:00 PM</span>
 											<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion4" href="#schedule_accrodion_content_306" aria-expanded="false" aria-controls="schedule_accrodion_content_306">
 												Parallel Sessions
 											<p style="text-transform: initial; font-size: 14px !important; color:#36AE87">(Read more)</p>
@@ -993,20 +986,20 @@ PageBanner /- -->
 												<div class="row">
 													<div class="col-md-6">
 														<p>
-														<span class="facilitator"><strong>Track 1: Emerging Issues in Global Supply Chains.</strong></span>
+														<span class="facilitator"><strong>Track 1: Emerging Issues in Global Supply Chains. - (Adlon)</strong></span>
 														<span>Session Chair: William Affloe</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 2: Sectoral Supply Chains.</strong></span>
+														<span class="facilitator"><strong>Track 2: Sectoral Supply Chains. - (Stafford)</strong></span>
 														<span>Session Chair: Esther Nandara</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 3: General Supply Chains.</strong></span>
-														<span>Session chair: Priscilla Addo Asamany</span>
+														<span class="facilitator"><strong>Track 3: General Supply Chains. - (Siam)</strong></span>
+														<span>Session chair:Robert Aidoo</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 4: Africa Supply Chains.</strong></span>
-														<span>Session chair: Dominic Essuman</span>
+														<span class="facilitator"><strong>Track 4: Africa Supply Chains. - (Baltschug)</strong></span>
+														<span>Session chair: Emmanuel Anin</span>
 														</p>
 													</div>
 													</div>
@@ -1017,7 +1010,7 @@ PageBanner /- -->
 								<div class="panel panel-default">
 									<div class="panel-heading" role="tab" id="schedule_accrodion_heading_307">
 										<h4 class="panel-title">
-											<span>12:45 PM - 1:00 PM</span>
+											<span>1:00 PM - 1:15 PM</span>
 											<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion4" href="#schedule_accrodion_content_307" aria-expanded="false" aria-controls="schedule_accrodion_content_307">
 												15-minute changeover
 											</a>
@@ -1028,7 +1021,7 @@ PageBanner /- -->
 								<div class="panel panel-default">
 									<div class="panel-heading" role="tab" id="schedule_accrodion_heading_308">
 										<h4 class="panel-title">
-											<span>1:00 PM - 2:00 PM</span>
+											<span>1:15 PM - 2:15 PM</span>
 											<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion4" href="#schedule_accrodion_content_308" aria-expanded="false" aria-controls="schedule_accrodion_content_308">
 												Parallel Sessions
 											<p style="text-transform: initial; font-size: 14px !important; color:#36AE87">(Read more)</p>
@@ -1041,20 +1034,20 @@ PageBanner /- -->
 										<div class="row">
 													<div class="col-md-6">
 														<p>
-														<span class="facilitator"><strong>Track 1: Emerging Issues in Global Supply Chains.</strong></span>
-														<span>Session Chair: Richard Boso</span>
+														<span class="facilitator"><strong>Track 1: Emerging Issues in Global Supply Chains.  - (Adlon)</strong></span>
+														<span>Session Chair: Caleb Kumi</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 2: Sectoral Supply Chains.</strong></span>
-														<span>Session Chair: Priscilla Agyemang</span>
+														<span class="facilitator"><strong>Track 2: Sectoral Supply Chains. - (Stafford)</strong></span>
+														<span>Session Chair: Robert Aidoo</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 3: General Supply Chains.</strong></span>
+														<span class="facilitator"><strong>Track 3: General Supply Chains. - (Siam)</strong></span>
 														<span>Session chair:  Ibraheem Forson Abdul-Azeez</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 4: Africa Supply Chains.</strong></span>
-														<span>Session chair: Ogochukwu Ugboma </span>
+														<span class="facilitator"><strong>Track 4: Africa Supply Chains. - (Baltschug)</strong></span>
+														<span>Session chair: John Manso Frimpong </span>
 														</p>
 													</div>
 													</div>
@@ -1066,7 +1059,7 @@ PageBanner /- -->
 								<div class="panel panel-default">
 									<div class="panel-heading" role="tab" id="schedule_accrodion_heading_309">
 										<h4 class="panel-title">
-											<span>2:00 PM - 3:00 PM</span>
+											<span>2:15 PM - 3:15 PM</span>
 											<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion4" href="#schedule_accrodion_content_309" aria-expanded="false" aria-controls="schedule_accrodion_content_309">
 												Lunch and Conference Close
 											</a>
