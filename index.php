@@ -1,17 +1,14 @@
-
 <script src="js/testimonialslider.js"></script>
 <script>
-	window.onload = function() {
-
-		// Testimonials code
-
-		updateTestimonial();
-
-		setInterval(updateTestimonial, 10000);
-
-	}
-
+window.onload = function() {
+  // Delay the first call to updateTestimonial by 10 seconds (10000 milliseconds)
+  setTimeout(function() {
+    updateTestimonial();
+    setInterval(updateTestimonial, 10000);
+  }, 10000);
+}
 </script>
+
 
 <style>
 	.d-none {

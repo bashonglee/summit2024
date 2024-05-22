@@ -327,20 +327,20 @@ PageBanner /- -->
 												<div class="row">
 													<div class="col-md-6">
 														<p>
-														<span class="facilitator"><strong>Track 1: Sectoral Supply Chains (Adlon).</strong></span>
+														<span class="facilitator"><strong>Adlon: Sectoral Supply Chains.</strong></span>
 														<span>Session Chair: John Serbe Marfo</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 2: General Supply Chains (Stafford).</strong></span>
+														<span class="facilitator"><strong>Stafford: General Supply Chains.</strong></span>
 														<span>Session Chair: John Frimpong</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 3: Emerging Issues in Global Supply Chains (Siam).</strong></span>
-														<span>Session chair: Dominic Essuman</span>
+														<span class="facilitator"><strong>Siam: Emerging Issues in Global Supply Chains.</strong></span>
+														<span>Session Chair: Dominic Essuman</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 4: Africa Supply Chains (Baltschug).</strong></span>
-														<span>Session chair: Enoch Bulley</span>
+														<span class="facilitator"><strong>Baltschug: Africa Supply Chains.</strong></span>
+														<span>Session Chair: Enoch Bulley</span>
 														</p>
 													</div>
 													</div>
@@ -377,20 +377,20 @@ PageBanner /- -->
 												<div class="row">
 													<div class="col-md-6">
 														<p>
-														<span class="facilitator"><strong>Track 1: Sectoral Supply Chains (Adlon).</strong></span>
+														<span class="facilitator"><strong>Adlon: Sectoral Supply Chains.</strong></span>
 														<span>Session Chair: Priscilla Mante</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 2: General Supply Chains (Stafford).</strong></span>
+														<span class="facilitator"><strong>Stafford: General Supply Chains.</strong></span>
 														<span>Session Chair: Abdul Samed Muntaka</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 3: Emerging Issues in Global Supply Chains (Siam).</strong></span>
-														<span>Session chair: Kelvinne Mocke</span>
+														<span class="facilitator"><strong>Siam: Emerging Issues in Global Supply Chains.</strong></span>
+														<span>Session Chair: Kelvinne Mocke</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 4: Africa Supply Chains (Baltschug).</strong></span>
-														<span>Session chair: Emmanuel Boakye-Yiadom</span>
+														<span class="facilitator"><strong>Baltschug: Africa Supply Chains.</strong></span>
+														<span>Session Chair: Emmanuel Boakye-Yiadom</span>
 														</p>
 													</div>
 													</div>
@@ -426,20 +426,20 @@ PageBanner /- -->
 												<div class="row">
 													<div class="col-md-6">
 														<p>
-														<span class="facilitator"><strong>Track 1: Sectoral Supply Chains (Adlon).</strong></span>
+														<span class="facilitator"><strong>Adlon: Sectoral Supply Chains.</strong></span>
 														<span>Session Chair: Priscilla Addo Asamany</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 2: General Supply Chains (Stafford).</strong></span>
+														<span class="facilitator"><strong>Stafford: General Supply Chains.</strong></span>
 														<span>Session Chair: Henry Ataburo</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 3: Emerging Issues in Global Supply Chains (Siam).</strong></span>
-														<span>Session chair: Darlington Adanfo</span>
+														<span class="facilitator"><strong>Siam: Emerging Issues in Global Supply Chains.</strong></span>
+														<span>Session Chair: Darlington Adanfo</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 4: Africa Supply Chains (Baltschug).</strong></span>
-														<span>Session chair: Isaac Apike</span>
+														<span class="facilitator"><strong>Baltschug: Africa Supply Chains.</strong></span>
+														<span>Session Chair: Isaac Apike</span>
 														</p>
 													</div>
 													</div>
@@ -475,20 +475,20 @@ PageBanner /- -->
 												<div class="row">
 													<div class="col-md-6">
 														<p>
-														<span class="facilitator"><strong>Track 1: Sectoral Supply Chains (Adlon).</strong></span>
+														<span class="facilitator"><strong>Adlon: Sectoral Supply Chains.</strong></span>
 														<span>Session Chair: Ibraheem Forson</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 2: General Supply Chains (Stafford).</strong></span>
+														<span class="facilitator"><strong>Stafford: General Supply Chains.</strong></span>
 														<span>Session Chair: Matilda Kokui Owusu-Bio</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 3: Emerging Issues in Global Supply Chains (Siam).</strong></span>
-														<span>Session chair: Emmanuel Anin</span>
+														<span class="facilitator"><strong>Siam: Emerging Issues in Global Supply Chains.</strong></span>
+														<span>Session Chair: Emmanuel Anin</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 4: Africa Supply Chains (Baltschug).</strong></span>
-														<span>Session chair: Adetoyese Oguntimehin</span>
+														<span class="facilitator"><strong>Baltschug: Africa Supply Chains.</strong></span>
+														<span>Session Chair: Adetoyese Oguntimehin</span>
 														</p>
 													</div>
 													</div>
@@ -524,20 +524,20 @@ PageBanner /- -->
 												<div class="row">
 													<div class="col-md-6">
 														<p>
-														<span class="facilitator"><strong>Women in Supply Chain Panel Session.</strong></span>
+														<span class="facilitator"><strong>Adlon: Women in Supply Chain Panel Session.</strong></span>
 														<span>Moderator: Matilda Owusu-Bio</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>General Supply Chains.</strong></span>
+														<span class="facilitator"><strong>Stafford: General Supply Chains.</strong></span>
 														<span>Session Chair: Dominic Essuman</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Emerging Issues in Global Supply Chains.</strong></span>
-														<span>Session chair: Benjamin Agyei-Owusu</span>
+														<span class="facilitator"><strong>Siam: Emerging Issues in Global Supply Chains.</strong></span>
+														<span>Session Chair: Benjamin Agyei-Owusu</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Africa Supply Chains.</strong></span>
-														<span>Session chair: Mona Ali</span>
+														<span class="facilitator"><strong> Baltschug: Africa Supply Chains.</strong></span>
+														<span>Session Chair: Mona Ali</span>
 														</p>
 													</div>
 													</div>
@@ -639,20 +639,20 @@ PageBanner /- -->
 												<div class="row">
 													<div class="col-md-6">
 														<p>
-														<span class="facilitator"><strong>Track 1: Africa Supply Network Research Accelerator (ASN-RA) - (Adlon)</strong></span>
-														<span>Session chair: Benjamin Agyei-Owusu</span>
+														<span class="facilitator"><strong>Adlon: Africa Supply Network Research Accelerator (ASN-RA)</strong></span>
+														<span>Session Chair: Benjamin Agyei-Owusu</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 2: Sectoral Supply Chains. - (Stafford)</strong></span>
+														<span class="facilitator"><strong>Stafford: Sectoral Supply Chains.</strong></span>
 														<span>Session Chair: Jacob Kuutuome</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 3: General Supply Chains. - (Siam)</strong></span>
-														<span>Session chair: Abiola Fagbenro</span>
+														<span class="facilitator"><strong>Siam: General Supply Chains.</strong></span>
+														<span>Session Chair: Abiola Fagbenro</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 4: Africa Supply Chains. - (Baltschug)</strong></span>
-														<span>Session chair: Listowel Appiah</span>
+														<span class="facilitator"><strong>Baltschug: Africa Supply Chains.</strong></span>
+														<span>Session Chair: Listowel Appiah</span>
 														</p>
 													</div>
 													</div>
@@ -688,20 +688,20 @@ PageBanner /- -->
 												<div class="row">
 													<div class="col-md-6">
 														<p>
-														<span class="facilitator"><strong>Track 1: Africa Supply Network Research Accelerator (ASN-RA) - (Adlon)</strong></span>
+														<span class="facilitator"><strong>Adlon: Africa Supply Network Research Accelerator (ASN-RA)</strong></span>
 														<span>Session Chair: Ishmael Acquah</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 2: Sectoral Supply Chains. - (Stafford)</strong></span>
+														<span class="facilitator"><strong>Stafford: Sectoral Supply Chains.</strong></span>
 														<span>Session Chair: Leticia Antwi</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 3: Emerging Issues in Global Supply Chains. - (Siam)</strong></span>
-														<span>Session chair: Okyere Anim Barima</span>
+														<span class="facilitator"><strong>Siam: Emerging Issues in Global Supply Chains.</strong></span>
+														<span>Session Chair: Okyere Anim Barima</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 4: General Supply Chains. - (Baltschug)</strong></span>
-														<span>Session chair: David Asamoah</span>
+														<span class="facilitator"><strong>Baltschug: General Supply Chains.</strong></span>
+														<span>Session Chair: David Asamoah</span>
 														</p>
 													</div>
 													</div>
@@ -736,20 +736,20 @@ PageBanner /- -->
 												<div class="row">
 													<div class="col-md-6">
 														<p>
-														<span class="facilitator"><strong>Track 1: The Logistics Managers Index Session  - (Adlon)</strong></span>
+														<span class="facilitator"><strong>Adlon: The Logistics Managers Index Session </strong></span>
 														<span>Session Chair: Abdul Samed Muntaka</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 2: General Supply Chains. - (Stafford)</strong></span>
+														<span class="facilitator"><strong>Stafford: General Supply Chains.</strong></span>
 														<span>Session Chair: Listowel Appiah</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 3: Emerging Issues in Global Supply Chains. - (Siam)</strong></span>
-														<span>Session chair: Benjamin Agyei-Owusu</span>
+														<span class="facilitator"><strong>Siam: Emerging Issues in Global Supply Chains.</strong></span>
+														<span>Session Chair: Benjamin Agyei-Owusu</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 4: Africa Supply Chains. - (Baltschug)</strong></span>
-														<span>Session chair: David Asamoah</span>
+														<span class="facilitator"><strong>Baltschug: Africa Supply Chains.</strong></span>
+														<span>Session Chair: David Asamoah</span>
 														</p>
 													</div>
 													</div>
@@ -784,20 +784,20 @@ PageBanner /- -->
 												<div class="row">
 													<div class="col-md-6">
 														<p>
-														<span class="facilitator"><strong>Track 1: Sectoral Supply Chains.  - (Adlon)</strong></span>
+														<span class="facilitator"><strong>Adlon: Sectoral Supply Chains. </strong></span>
 														<span>Session Chair: Priscilla Mante</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 2: General Supply Chains. - (Stafford)</strong></span>
+														<span class="facilitator"><strong>Stafford: General Supply Chains.</strong></span>
 														<span>Session Chair: Pasty Asamamoah</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 3: Emerging Issues in Global Supply Chains. - (Siam)</strong></span>
-														<span>Session chair: Listowel Owusu Appiah</span>
+														<span class="facilitator"><strong>Siam: Emerging Issues in Global Supply Chains.</strong></span>
+														<span>Session Chair: Listowel Owusu Appiah</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 4: Africa Supply Chains. - (Baltschug)</strong></span>
-														<span>Session chair: Emmanuel Quansah</span>
+														<span class="facilitator"><strong>Baltschug: Africa Supply Chains.</strong></span>
+														<span>Session Chair: Emmanuel Quansah</span>
 														</p>
 													</div>
 													</div>
@@ -832,15 +832,15 @@ PageBanner /- -->
 												<div class="row">
 													<div class="col-md-6">
 														<p>
-														<span class="facilitator"><strong>Panel Session: Publishing in Top Journals in Operations and Supply Chain Management  - (Adlon)</strong></span>
+														<span class="facilitator"><strong>Adlon: Panel Session: Publishing in Top Journals in Operations and Supply Chain Management </strong></span>
 														<span>Moderator: Professor Adegoke Oke</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 2: Emerging Issues in Global Supply Chains. - (Stafford)</strong></span>
-														<span>Session chair: David Antwi</span>
+														<span class="facilitator"><strong>Stafford: Emerging Issues in Global Supply Chains.</strong></span>
+														<span>Session Chair: David Antwi</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 3: Africa Supply Chains. - (Stafford)</strong></span>
+														<span class="facilitator"><strong>Siam: Africa Supply Chains.</strong></span>
 														<span>Session Chair: Bonaventure Dery</span>
 														</p>
 														
@@ -938,20 +938,20 @@ PageBanner /- -->
 												<div class="row">
 													<div class="col-md-6">
 														<p>
-														<span class="facilitator"><strong>Track 1: General Supply Chains.  - (Adlon)</strong></span>
+														<span class="facilitator"><strong>Adlon: General Supply Chains. </strong></span>
 														<span>Session Chair: Richard Boso</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 2: Sectoral Supply Chains. - (Stafford)</strong></span>
+														<span class="facilitator"><strong>Stafford: Sectoral Supply Chains.</strong></span>
 														<span>Session Chair: Isaac Apike</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 3: Emerging Issues in Global Supply Chains. - (Siam)</strong></span>
-														<span>Session chair: Caleb Kumi Amankwah</span>
+														<span class="facilitator"><strong>Siam: Emerging Issues in Global Supply Chains.</strong></span>
+														<span>Session Chair: Caleb Kumi Amankwah</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 4: Africa Supply Chains. - (Baltschug)</strong></span>
-														<span>Session chair: Abdulazeez Ibrahim Forson</span>
+														<span class="facilitator"><strong>Baltschug: Africa Supply Chains.</strong></span>
+														<span>Session Chair: Abdulazeez Ibrahim Forson</span>
 														</p>
 													</div>
 													</div>
@@ -986,20 +986,20 @@ PageBanner /- -->
 												<div class="row">
 													<div class="col-md-6">
 														<p>
-														<span class="facilitator"><strong>Track 1: Emerging Issues in Global Supply Chains. - (Adlon)</strong></span>
+														<span class="facilitator"><strong>Adlon: Emerging Issues in Global Supply Chains.</strong></span>
 														<span>Session Chair: William Affloe</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 2: Sectoral Supply Chains. - (Stafford)</strong></span>
+														<span class="facilitator"><strong>Stafford: Sectoral Supply Chains.</strong></span>
 														<span>Session Chair: Esther Nandara</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 3: General Supply Chains. - (Siam)</strong></span>
-														<span>Session chair:Robert Aidoo</span>
+														<span class="facilitator"><strong>Siam: General Supply Chains.</strong></span>
+														<span>Session Chair:Robert Aidoo</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 4: Africa Supply Chains. - (Baltschug)</strong></span>
-														<span>Session chair: Emmanuel Anin</span>
+														<span class="facilitator"><strong>Baltschug: Africa Supply Chains.</strong></span>
+														<span>Session Chair: Emmanuel Anin</span>
 														</p>
 													</div>
 													</div>
@@ -1034,20 +1034,20 @@ PageBanner /- -->
 										<div class="row">
 													<div class="col-md-6">
 														<p>
-														<span class="facilitator"><strong>Track 1: Emerging Issues in Global Supply Chains.  - (Adlon)</strong></span>
+														<span class="facilitator"><strong>Adlon: Emerging Issues in Global Supply Chains. </strong></span>
 														<span>Session Chair: Caleb Kumi</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 2: Sectoral Supply Chains. - (Stafford)</strong></span>
+														<span class="facilitator"><strong>Stafford: Sectoral Supply Chains.</strong></span>
 														<span>Session Chair: Robert Aidoo</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 3: General Supply Chains. - (Siam)</strong></span>
-														<span>Session chair:  Ibraheem Forson Abdul-Azeez</span>
+														<span class="facilitator"><strong>Siam: General Supply Chains.</strong></span>
+														<span>Session Chair:  Ibraheem Forson Abdul-Azeez</span>
 														</p>
 														<p>
-														<span class="facilitator"><strong>Track 4: Africa Supply Chains. - (Baltschug)</strong></span>
-														<span>Session chair: John Manso Frimpong </span>
+														<span class="facilitator"><strong>Baltschug: Africa Supply Chains.</strong></span>
+														<span>Session Chair: John Manso Frimpong </span>
 														</p>
 													</div>
 													</div>

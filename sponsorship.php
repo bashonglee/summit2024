@@ -96,7 +96,7 @@
 			<strong> Dates: June 4-6, 2024</strong>
 			</p>
 			<p> 
-			<strong> Venue: <a href="https://www.kempinski.com" target="_blank">Kempinski Hotel Gold Coast City</a></strong>
+			<strong> Venue: <a href="https://www.kempinski.com/en/hotel-gold-coast-city" target="_blank">Kempinski Hotel Gold Coast City</a></strong>
 			</p>
         </div>
 		<div class="container">

@@ -34,23 +34,22 @@ const testimonials = [
     }
   ];
 
-  
-  let currentTestimonial = 0;
-  
-  // Function to update the DOM with the next testimonial
-  function updateTestimonial() {
-    document.getElementById('testimonial-quote').innerText = testimonials[currentTestimonial].quote;
-    document.getElementById('testimonial-author').innerText = testimonials[currentTestimonial].author;
-    document.getElementById('testimonial-role').innerText = testimonials[currentTestimonial].role;
-    document.getElementById('testimonial-organisation').innerText = testimonials[currentTestimonial].organisation;
-    document.getElementById('testimonial-extra').innerText = testimonials[currentTestimonial].extra;
-    document.getElementById('testimonial-image').src = testimonials[currentTestimonial].image;
-    
-    currentTestimonial++;
-    if(currentTestimonial >= testimonials.length) {
-      currentTestimonial = 0; 
-    }
+
+
+let currentTestimonial = -1; // Initialize to -1 instead of 0
+
+// Function to update the DOM with the next testimonial
+function updateTestimonial() {
+  currentTestimonial++; // Increment first
+  if (currentTestimonial >= testimonials.length) {
+    currentTestimonial = 0; // Reset to 0 if we've reached the end
   }
-  
-  // Call the updateTestimonial function every 5 seconds
-  setInterval(updateTestimonial, 10000);
+
+  document.getElementById('testimonial-quote').innerText = testimonials[currentTestimonial].quote;
+  document.getElementById('testimonial-author').innerText = testimonials[currentTestimonial].author;
+  document.getElementById('testimonial-role').innerText = testimonials[currentTestimonial].role;
+  document.getElementById('testimonial-organisation').innerText = testimonials[currentTestimonial].organisation;
+  document.getElementById('testimonial-extra').innerText = testimonials[currentTestimonial].extra;
+  document.getElementById('testimonial-image').src = testimonials[currentTestimonial].image;
+}
+

@@ -42,7 +42,7 @@
                                 <div class="row">
                                         <div class="abt-img wow " data-wow-duration="400ms">
                                            
-                                            <a href="https://www.kempinski.com" target="_blank" title="" class="html5lightbox">
+                                            <a href="https://www.kempinski.com/en/hotel-gold-coast-city" target="_blank" title="" class="html5lightbox">
 											<img src="img/hotels/kempinski.jpg" alt="">
 											</a>
                                         </div><!--abt-img end-->                                    
