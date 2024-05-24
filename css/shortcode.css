@@ -3463,6 +3463,7 @@
 	.schedule-block .panel.panel-default .panel-heading span {
 		left: -10px;
 		font-size: 14px;
+		width: 63px;
 	}
 	.schedule-block .panel.panel-default .panel-collapse,
 	.schedule-block .panel.panel-default .panel-heading {
@@ -4433,6 +4434,7 @@
 	.schedule-block .panel.panel-default .panel-heading span {
 		font-size: 12px;
 		left: -12px;
+		width: 63px;
 	}
 	.schedule-block .nav > li > a {
 		padding: 15px 0;
