@@ -58,7 +58,7 @@
                                 The Kempinski Hotel serves as the convenient and luxurious home base for this year&rsquo;s conference. Situated in the heart of Accra&rsquo;s business district, the hotel offers attendees easy access to key areas while remaining close to the city&rsquo;s vibrant cultural center.  </p>
                                     <p>With a range of upscale rooms and suites, the Kempinski caters to both productivity and relaxation. Enjoy high-speed Wi-Fi connectivity for seamless conference participation and unwind after a successful day with on-site spa treatments or world-class dining experiences. </p>
                                     <p> 
-								<a id="loadpage"  href="hhttps://www.kempinski.com/en/hotel-gold-coast-city" target="_blank">Book a room</a>
+								<a id="loadpage"  href="https://www.kempinski.com/en/hotel-gold-coast-city" target="_blank">Book a room</a>
 								 <br>
 								 <br>
                                 </p>
