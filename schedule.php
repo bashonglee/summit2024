@@ -220,10 +220,10 @@ PageBanner /- -->
 									<a href="#schedule_2_venue3" aria-controls="schedule_2_venue3" role="tab" data-toggle="tab">Baltschug</a>
 								</li>
 								<li role="presentation">
-									<a href="#schedule_2_venue4" aria-controls="schedule_2_venue4" role="tab" data-toggle="tab">Stafford</a>
+									<a href="#schedule_2_venue4" aria-controls="schedule_2_venue4" role="tab" data-toggle="tab">Pearl</a>
 								</li>
 								<li role="presentation">
-									<a href="#schedule_2_venue5" aria-controls="schedule_2_venue5" role="tab" data-toggle="tab">Pearl</a>
+									<a href="#schedule_2_venue5" aria-controls="schedule_2_venue5" role="tab" data-toggle="tab">Stafford</a>
 								</li>
 							</ul>
 
@@ -352,11 +352,11 @@ PageBanner /- -->
 																	<span>Session Chair: John Frimpong</span>
 																	</p>
 																	<p>
-																	<span class="facilitator"><strong>Stafford: Emerging Issues in Global Supply Chains.</strong></span>
+																	<span class="facilitator"><strong>Pearl: Emerging Issues in Global Supply Chains.</strong></span>
 																	<span>Session Chair: Dominic Essuman</span>
 																	</p>
 																	<p>
-																	<span class="facilitator"><strong>Pearl: Africa Supply Chains.</strong></span>
+																	<span class="facilitator"><strong>Stafford: Africa Supply Chains.</strong></span>
 																	<span>Session Chair: Enoch Bulley</span>
 																	</p>
 																</div>
@@ -402,11 +402,11 @@ PageBanner /- -->
 																	<span>Session Chair: Abdul Samed Muntaka</span>
 																	</p>
 																	<p>
-																	<span class="facilitator"><strong>Stafford: Emerging Issues in Global Supply Chains.</strong></span>
+																	<span class="facilitator"><strong>Pearl: Emerging Issues in Global Supply Chains.</strong></span>
 																	<span>Session Chair: Evans Amoah</span>
 																	</p>
 																	<p>
-																	<span class="facilitator"><strong>Pearl: Africa Supply Chains.</strong></span>
+																	<span class="facilitator"><strong>Stafford: Africa Supply Chains.</strong></span>
 																	<span>Session Chair: Emmanuel Boakye-Yiadom</span>
 																	</p>
 																</div>
@@ -451,11 +451,11 @@ PageBanner /- -->
 																	<span>Session Chair: Henry Ataburo</span>
 																	</p>
 																	<p>
-																	<span class="facilitator"><strong>Stafford: Emerging Issues in Global Supply Chains.</strong></span>
+																	<span class="facilitator"><strong>Pearl: Emerging Issues in Global Supply Chains.</strong></span>
 																	<span>Session Chair: Darlington Adanfo</span>
 																	</p>
 																	<p>
-																	<span class="facilitator"><strong>Pearl: Africa Supply Chains.</strong></span>
+																	<span class="facilitator"><strong>Stafford: Africa Supply Chains.</strong></span>
 																	<span>Session Chair: Isaac Apike</span>
 																	</p>
 																</div>
@@ -500,11 +500,11 @@ PageBanner /- -->
 																	<span>Session Chair: Matilda Kokui Owusu-Bio</span>
 																	</p>
 																	<p>
-																	<span class="facilitator"><strong>Stafford: Emerging Issues in Global Supply Chains.</strong></span>
+																	<span class="facilitator"><strong>Pearl: Emerging Issues in Global Supply Chains.</strong></span>
 																	<span>Session Chair: Emmanuel Anin</span>
 																	</p>
 																	<p>
-																	<span class="facilitator"><strong>Pearl: Africa Supply Chains.</strong></span>
+																	<span class="facilitator"><strong>Stafford: Africa Supply Chains.</strong></span>
 																	<span>Session Chair: Adetoyese Oguntimehin</span>
 																	</p>
 																</div>
@@ -549,7 +549,7 @@ PageBanner /- -->
 																	<span>Session Chair: Dominic Essuman</span>
 																	</p>
 																	<p>
-																	<span class="facilitator"><strong>Stafford: Emerging Issues in Global Supply Chains.</strong></span>
+																	<span class="facilitator"><strong>Pearl: Emerging Issues in Global Supply Chains.</strong></span>
 																	<span>Session Chair: Benjamin Agyei-Owusu</span>
 																	</p>
 																	<p>
@@ -1136,7 +1136,7 @@ PageBanner /- -->
 									</div>	
 								</div>
 								<div role="tabpanel" class="tab-pane fade" id="schedule_2_venue4">
-									<!-- Stafford schedule content for this day -->
+									<!-- Pearl schedule content for this day -->
 									<div class="panel-group schedule-accordion" id="accordion2" role="tablist" aria-multiselectable="true">
 											
 
@@ -1632,10 +1632,10 @@ PageBanner /- -->
 									<a href="#schedule_3_venue3" aria-controls="schedule_3_venue3" role="tab" data-toggle="tab">Baltschug</a>
 								</li>
 								<li role="presentation">
-									<a href="#schedule_3_venue4" aria-controls="schedule_3_venue4" role="tab" data-toggle="tab">Stafford</a>
+									<a href="#schedule_3_venue4" aria-controls="schedule_3_venue4" role="tab" data-toggle="tab">Pearl</a>
 								</li>
 								<li role="presentation">
-									<a href="#schedule_3_venue5" aria-controls="schedule_3_venue5" role="tab" data-toggle="tab">Pearl</a>
+									<a href="#schedule_3_venue5" aria-controls="schedule_3_venue5" role="tab" data-toggle="tab">Stafford</a>
 								</li>
 							</ul>
 
@@ -1710,11 +1710,11 @@ PageBanner /- -->
 																<span>Session Chair: Jacob Kuutuome</span>
 																</p>
 																<p>
-																<span class="facilitator"><strong>Stafford: General Supply Chains.</strong></span>
+																<span class="facilitator"><strong>Pearl: General Supply Chains.</strong></span>
 																<span>Session Chair: Abiola Fagbenro</span>
 																</p>
 																<p>
-																<span class="facilitator"><strong>Pearl: Africa Supply Chains.</strong></span>
+																<span class="facilitator"><strong>Stafford: Africa Supply Chains.</strong></span>
 																<span>Session Chair: Listowel Appiah</span>
 																</p>
 															</div>
@@ -1759,11 +1759,11 @@ PageBanner /- -->
 																<span>Session Chair: Leticia Antwi</span>
 																</p>
 																<p>
-																<span class="facilitator"><strong>Stafford: Emerging Issues in Global Supply Chains.</strong></span>
+																<span class="facilitator"><strong>Pearl: Emerging Issues in Global Supply Chains.</strong></span>
 																<span>Session Chair: Okyere Anim Barima</span>
 																</p>
 																<p>
-																<span class="facilitator"><strong>Pearl: General Supply Chains.</strong></span>
+																<span class="facilitator"><strong>Stafford: General Supply Chains.</strong></span>
 																<span>Session Chair: David Asamoah</span>
 																</p>
 															</div>
@@ -1807,11 +1807,11 @@ PageBanner /- -->
 																<span>Session Chair: Listowel Appiah</span>
 																</p>
 																<p>
-																<span class="facilitator"><strong>Stafford: Emerging Issues in Global Supply Chains.</strong></span>
+																<span class="facilitator"><strong>Pearl: Emerging Issues in Global Supply Chains.</strong></span>
 																<span>Session Chair: Benjamin Agyei-Owusu</span>
 																</p>
 																<p>
-																<span class="facilitator"><strong>Pearl: Africa Supply Chains.</strong></span>
+																<span class="facilitator"><strong>Stafford: Africa Supply Chains.</strong></span>
 																<span>Session Chair: David Asamoah</span>
 																</p>
 															</div>
@@ -1855,11 +1855,11 @@ PageBanner /- -->
 																<span>Session Chair: Pasty Asamamoah</span>
 																</p>
 																<p>
-																<span class="facilitator"><strong>Stafford: Emerging Issues in Global Supply Chains.</strong></span>
+																<span class="facilitator"><strong>Pearl: Emerging Issues in Global Supply Chains.</strong></span>
 																<span>Session Chair: Listowel Owusu Appiah</span>
 																</p>
 																<p>
-																<span class="facilitator"><strong>Pearl: Africa Supply Chains.</strong></span>
+																<span class="facilitator"><strong>Stafford: Africa Supply Chains.</strong></span>
 																<span>Session Chair: Emmanuel Quansah</span>
 																</p>
 															</div>
@@ -1903,7 +1903,7 @@ PageBanner /- -->
 																<span>Session Chair: David Antwi</span>
 																</p>
 																<p>
-																<span class="facilitator"><strong>Stafford: Africa Supply Chains.</strong></span>
+																<span class="facilitator"><strong>Pearl: Africa Supply Chains.</strong></span>
 																<span>Session Chair: Bonaventure Dery</span>
 																</p>
 																
@@ -2409,7 +2409,7 @@ PageBanner /- -->
 										</div>
 								</div>
 								<div role="tabpanel" class="tab-pane fade" id="schedule_3_venue4">
-									<!-- Stafford schedule content for this day -->
+									<!-- Pearl schedule content for this day -->
 									<div class="panel-group schedule-accordion" id="accordion3" role="tablist" aria-multiselectable="true">
 										<div class="panel panel-default">
 											<div class="panel-heading" role="tab" id="schedule_accrodion_heading_2304">
@@ -2838,10 +2838,10 @@ PageBanner /- -->
 									<a href="#schedule_4_venue3" aria-controls="schedule_4_venue3" role="tab" data-toggle="tab">Baltschug</a>
 								</li>
 								<li role="presentation">
-									<a href="#schedule_4_venue4" aria-controls="schedule_4_venue4" role="tab" data-toggle="tab">Stafford</a>
+									<a href="#schedule_4_venue4" aria-controls="schedule_4_venue4" role="tab" data-toggle="tab">Pearl</a>
 								</li>
 								<li role="presentation">
-									<a href="#schedule_4_venue5" aria-controls="schedule_4_venue5" role="tab" data-toggle="tab">Pearl</a>
+									<a href="#schedule_4_venue5" aria-controls="schedule_4_venue5" role="tab" data-toggle="tab">Stafford</a>
 								</li>
 							</ul>
 
@@ -2917,11 +2917,11 @@ PageBanner /- -->
 																	<span class="facilitator"><strong>Session Chair: Isaac Apike</strong></span>
 																	</p>
 																	<p>
-																	<span class="facilitator"><strong>Stafford: Emerging Issues in Global Supply Chains.</strong></span>
+																	<span class="facilitator"><strong>Pearl: Emerging Issues in Global Supply Chains.</strong></span>
 																	<span class="facilitator"><strong>Session Chair: Caleb Kumi Amankwah</strong></span>
 																	</p>
 																	<p>
-																	<span class="facilitator"><strong>Pearl: Africa Supply Chains.</strong></span>
+																	<span class="facilitator"><strong>Stafford: Africa Supply Chains.</strong></span>
 																	<span class="facilitator"><strong>Session Chair: Abdulazeez Ibrahim Forson</strong></span>
 																	</p>
 																</div>
@@ -2965,11 +2965,11 @@ PageBanner /- -->
 																	<span class="facilitator"><strong>Session Chair: Esther Nandara</strong></span>
 																	</p>
 																	<p>
-																	<span class="facilitator"><strong>Stafford: General Supply Chains.</strong></span>
+																	<span class="facilitator"><strong>Pearl: General Supply Chains.</strong></span>
 																	<span class="facilitator"><strong>Session Chair:Robert Aidoo</strong></span>
 																	</p>
 																	<p>
-																	<span class="facilitator"><strong>Pearl: Africa Supply Chains.</strong></span>
+																	<span class="facilitator"><strong>Stafford: Africa Supply Chains.</strong></span>
 																	<span class="facilitator"><strong>Session Chair: Emmanuel Anin</strong></span>
 																	</p>
 																</div>
@@ -3013,11 +3013,11 @@ PageBanner /- -->
 																	<span class="facilitator"><strong>Session Chair: Robert Aidoo</strong></span>
 																	</p>
 																	<p>
-																	<span class="facilitator"><strong>Stafford: General Supply Chains.</strong></span>
+																	<span class="facilitator"><strong>Pearl: General Supply Chains.</strong></span>
 																	<span class="facilitator"><strong>Session Chair:  Ibraheem Forson Abdul-Azeez</strong></span>
 																	</p>
 																	<p>
-																	<span class="facilitator"><strong>Pearl: Africa Supply Chains.</strong></span>
+																	<span class="facilitator"><strong>Stafford: Africa Supply Chains.</strong></span>
 																	<span class="facilitator"><strong>Session Chair: John Manso Frimpong </strong></span>
 																	</p>
 																</div>
@@ -3470,7 +3470,7 @@ PageBanner /- -->
 													<div class="row">
 																<div class="col-md-6">
 																	<p>
-																	<span class="facilitator"><strong>Stafford: General Supply Chains.</strong></span>
+																	<span class="facilitator"><strong>Pearl: General Supply Chains.</strong></span>
 																	<span>Session Chair:  Ibraheem Forson Abdul-Azeez</span>
 																	</p>
 

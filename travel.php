@@ -106,8 +106,15 @@
 								If you need help acquiring a visa for entry, please email info@carisca.knust.edu.gh.
 								</p>
 								<p style="text-align: justify">
-								 For more information on immigration and visa requirements for entry into Ghana, please <a href="https://home.gis.gov.gh/">click here </a> to visit the Ghana Immigration website.
-								 </p>								
+								 For more information on immigration and visa requirements for entry into Ghana, please <a href="https://home.gis.gov.gh/permits-and-visas/">click here </a> to visit the Ghana Immigration website.
+								 </p>
+								 
+						<div class="sec-title">						
+							<h3 class="wow " data-wow-duration="500ms">Immunisation Requirements</h3>
+						</div>
+								 <p style="text-align: justify">
+								 It is required by law that anybody travelling to and out of Ghana must possess a yellow fever immunisation card. This card shows that you have been vaccinated against future infection of the yellow fever. You may <a href="https://ghinfosite.com/2023/01/15/how-to-get-yellow-fever-vaccination-card-in-ghana/">click here </a> to read more on this requirement.
+								 </p>						
 								<div class="sec-title">
 									<h3 class="wow " data-wow-duration="500ms">Time, Weather, Language, Currency</h3>
 								</div>
