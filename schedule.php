@@ -45,8 +45,6 @@ PageBanner /- -->
 		<div class="section-padding"></div>
 		<div class="container">
 			<div class="section-header">
-				<h3>Conference schedule</h3>
-				<span>Our Schedule table</span>
 			</div>	
 			<div class="schedule-block">
 				<img src="images/schedule.jpg" alt="schedule"/>
