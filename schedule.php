@@ -42,7 +42,6 @@ PageBanner /- -->
 <body class="light-vz">
   <!-- Schedule Section -->
 	<div class="container-fluid no-padding schedule-section">
-		<div class="section-padding"></div>
 		<div class="container">
 			<div class="section-header">
 			</div>	
