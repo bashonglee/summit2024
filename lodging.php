@@ -340,54 +340,7 @@
          
 
 
-             		  
-		  <!-- Concord Hotel -->
-		  <div class="col-lg-4 col-md-6">
-            <div class="hotel">
-              <div class="hotel-img">
-				<a href="#gimpa" data-toggle="modal">
-                <img src="img/hotels/gimpa.jpg" alt="GIMPA" class="img-fluid">
-				</a>
-              </div>
-              <h3><a href="#gimpa"  data-backdrop="false" data-toggle="modal">GIMPA Guest House</a></h3>
-              <div class="stars">User Ratings: 3 Star 
-              </div>			  
-              <p>13.3 km (20 min drive) from the Summit venue</p>
-            </div>
-          </div>
-		  
-		  <div id="gimpa" class="modal fade" >
-			<div class="modal-dialog accommodationmodal">
-				<div class="modal-content">
-					<div class="modal-header">
-						<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-
-					</div>
-					<div class="modal-body">
-						<h3>GIMPA Guest House</h3>
-						<p>
-							<h3>
-								Rooms Available (with rates): 
-							</h3>	
-								<ul>
-									<li>Single Rate (GHS 500)</li>
-									<li>Double Occupancy Rooms (GHS 800)</li>
-								</ul> 
-                               
-						</p>
-                        <br>
-					</div>
-					<div class="modal-footer">
-					
-						<a id="loadpage" type="button" class="btn btn-primary booking" target="blank" href="mailto:info@carisca.knust.edu.gh" style="display: inline-block; color: #ffffff; font-size: 18px; font-weight: 700; text-transform: uppercase; height: 50px; line-height: 50px; padding: 0 25px; -webkit-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px;">Book a Room</a>
-						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-					</div>
-				</div>
-				<!-- /.modal-content -->
-			</div>
-			<!-- /.modal-dialog -->
-		  </div>
-
+        
 
              		  
 		  
