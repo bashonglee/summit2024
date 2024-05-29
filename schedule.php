@@ -24,6 +24,7 @@
 		font-size: 16px !important;
 		margin-bottom: 0px !important;
 		font-weight: bold !important;
+		color: #4b4a4a !important;
 
 	}
 </style>
