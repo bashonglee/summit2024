@@ -14,7 +14,20 @@
     a .active {
         color: #dc143c !important;
     }
+	.card-text {
+		font-size: 13px !important;
+    	letter-spacing: 0.16px !important;
+		line-height: 18px !important;
+
+	}
+	.card-title {
+		font-size: 16px !important;
+		margin-bottom: 0px !important;
+		font-weight: bold !important;
+
+	}
 </style>
+
 <link rel="stylesheet" type="text/css" href="css/schedule.css">
 
 
