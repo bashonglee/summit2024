@@ -150,6 +150,18 @@ PageBanner /- -->
 																	<span class="facilitator"><strong>Table 5: Prof. Nat Boso</strong></span>
 																	<!-- <span>Jonathan Ikeolumba</span> -->
 																	</p>
+																	<p>
+																	<span class="facilitator"><strong>Table 6: Tony Roath</strong></span>
+																	<!-- <span>Jonathan Ikeolumba</span> -->
+																	</p>
+																	<p>
+																	<span class="facilitator"><strong>Table 7: Tyler Morgan</strong></span>
+																	<!-- <span>Jonathan Ikeolumba</span> -->
+																	</p>
+																	<p>
+																	<span class="facilitator"><strong>Table 8: Colin Gaber</strong></span>
+																	<!-- <span>Jonathan Ikeolumba</span> -->
+																	</p>
 																</div>
 																</div>
 															</div>
@@ -192,9 +204,15 @@ PageBanner /- -->
 																	<!-- <span>Bezawit Demissie</span> -->
 																	</p>
 																	<p>
-																	<span class="facilitator"><strong>Table 2: Prof. Dale Rogers</strong></span>
+																	<span class="facilitator"><strong>Table 4: Prof. Thomas Choi</strong></span>
 																	<!-- <span>Elikplim Tamakloe</span> -->
 																	</p>
+																	
+																	<p>
+																	<span class="facilitator"><strong>Table 8: Colin Gaber</strong></span>
+																	<!-- <span>Elikplim Tamakloe</span> -->
+																	</p>
+																	
 																</div>
 																</div>
 															</div>
