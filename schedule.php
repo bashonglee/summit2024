@@ -150,18 +150,6 @@ PageBanner /- -->
 																	<span class="facilitator"><strong>Table 5: Prof. Nat Boso</strong></span>
 																	<!-- <span>Jonathan Ikeolumba</span> -->
 																	</p>
-																	<p>
-																	<span class="facilitator"><strong>Table 6: Tony Roath</strong></span>
-																	<!-- <span>Jonathan Ikeolumba</span> -->
-																	</p>
-																	<p>
-																	<span class="facilitator"><strong>Table 7: Tyler Morgan</strong></span>
-																	<!-- <span>Jonathan Ikeolumba</span> -->
-																	</p>
-																	<p>
-																	<span class="facilitator"><strong>Table 8: Colin Gaber</strong></span>
-																	<!-- <span>Jonathan Ikeolumba</span> -->
-																	</p>
 																</div>
 																</div>
 															</div>
@@ -199,20 +187,26 @@ PageBanner /- -->
 													<div class="container mt-5">
 															<div class="row">
 																<div class="col-md-6">
-																	<p>
+																<p>
 																	<span class="facilitator"><strong>Table 1: Prof. Glenn Richey</strong></span>
-																	<!-- <span>Bezawit Demissie</span> -->
+																	<!-- <span>Rasheed Olawale Azeez</span> -->
+																	</p>
+																	<p>
+																	<span class="facilitator"><strong>Table 2: Prof. Dale Rogers</strong></span>
+																	<!-- <span>Mulugeta Chane</span> -->
+																	</p>
+																	<p>
+																	<span class="facilitator"><strong>Table 3: Prof. Adegoke Oke</strong></span>
+																	<!-- <span>Ibrahim Hassan</span> -->
 																	</p>
 																	<p>
 																	<span class="facilitator"><strong>Table 4: Prof. Thomas Choi</strong></span>
-																	<!-- <span>Elikplim Tamakloe</span> -->
+																	<!-- <span>Ellis Kofi Akwaa-Sekyi</span> -->
 																	</p>
-																	
 																	<p>
-																	<span class="facilitator"><strong>Table 8: Colin Gaber</strong></span>
-																	<!-- <span>Elikplim Tamakloe</span> -->
+																	<span class="facilitator"><strong>Table 5: Prof. Nat Boso</strong></span>
+																	<!-- <span>Jonathan Ikeolumba</span> -->
 																	</p>
-																	
 																</div>
 																</div>
 															</div>
