@@ -54,9 +54,9 @@
                       <a aria-expanded="false" aria-haspopup="true" role="button" class="dropdown-toggle" title="Program" >Program</a>
                       <i class="ddl-switch fa fa-angle-down"></i>
                       <ul class="dropdown-menu">
-                        <li><a title="Keynote Speakers" href="speakers.php">Speakers</a></li>
-                        
-                        <li><a title="Schedule" href="schedule.php">Schedule</a></li>
+                        <li><a title="Keynote Speakers" href="speakers.php">Speakers</a></li>                        
+                        <li><a title="Schedule" href="schedule.php">Schedule</a></li>                       
+                        <li><a title="Schedule" href="https://na.eventscloud.com/ereg/ve2/index.php?eventid=782387">Virtual Lobby</a></li>
                         
                       </ul>
                     </li>
