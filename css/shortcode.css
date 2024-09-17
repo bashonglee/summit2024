@@ -271,7 +271,6 @@
 	transform: rotate(-45deg);
 	-ms-transform: rotate(-45deg); 
     -webkit-transform: rotate(-45deg);  
-	top: -119px;
 	left: -67px;
 	z-index: 10;	
 	margin-left: -67px;
@@ -750,10 +749,11 @@
 .schedule-block .panel.panel-default .panel-heading span {
 	font-weight: 500;
 	color: #cbcbcb;
-	line-height: 28px;
+	line-height: 16px;
 	position: absolute;
 	left: 0;
 	top: 0;
+	width: 100px;
 }
 .schedule-block .panel.panel-default .panel-collapse,
 .schedule-block .panel.panel-default .panel-heading {
@@ -1392,7 +1392,6 @@
 	margin-top: -18px;
 }
 .latest-blog .type-post .entry-meta [class*="post-"] {
-	float: left;
 	margin-right: 13px;
 	transition: all 1s ease 0s;
 	-webkit-transition: all 1s ease 0s;
@@ -1456,10 +1455,11 @@
 }
 .latest-blog .type-post .entry-content p {
 	color: #777;
-	font-size: 15px;
-	line-height: 28px;
+	font-size: 18px;
+	line-height: 30px;
 	letter-spacing: 0.45px;
 	font-family: 'Work Sans', sans-serif;
+	margin-top: 20px;
 }
 .latest-blog .type-post .learn-more {
 	text-decoration: none;
@@ -2472,7 +2472,6 @@
 }
 .upcoming-event .post-metablock {
     margin-bottom: 4px;
-	padding-left: 64px;
 }
 .upcoming-event.latest-blog .post-time {
 	display: inline-block;
@@ -2483,7 +2482,6 @@
 	letter-spacing: 0.65px;
 	padding-bottom: 3px;
 	padding-left: 16px;
-	text-align: left;
 }
 .upcoming-event.latest-blog .post-time::before,
 .upcoming-event.latest-blog .post-time::after {
@@ -2506,8 +2504,7 @@
 	text-transform: capitalize;
 	color: #777;
 	font-size: 13px;
-	padding-left: 16px;
-	text-align: left;
+	text-align: center;
 }
 
 /* -- Our History */
@@ -3466,6 +3463,7 @@
 	.schedule-block .panel.panel-default .panel-heading span {
 		left: -10px;
 		font-size: 14px;
+		width: 63px;
 	}
 	.schedule-block .panel.panel-default .panel-collapse,
 	.schedule-block .panel.panel-default .panel-heading {
@@ -4164,10 +4162,11 @@
 	.slider-section .carousel-control {
 		bottom: 15px;
 	}
-	.slider-section .carousel-inner > .item > img	{
+	
+	/* .slider-section .carousel-inner > .item > img	{
 		height: 260px;
 	}
-	
+	 */
 	/* -- Howwecan2 */
 	.howwecan2 .howwecan2-block .col-xs-6 {
 		width: 100%;
@@ -4435,6 +4434,7 @@
 	.schedule-block .panel.panel-default .panel-heading span {
 		font-size: 12px;
 		left: -12px;
+		width: 63px;
 	}
 	.schedule-block .nav > li > a {
 		padding: 15px 0;

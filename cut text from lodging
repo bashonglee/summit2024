@@ -1,0 +1,321 @@
+	
+		  <!-- Mercure Hotel -->
+		  <div class="col-lg-4 col-md-6">
+            <div class="hotel">
+              <div class="hotel-img">
+                <img src="img/hotels/avemaria.jpg" alt="Mercure Hotel" class="img-fluid">
+              </div>
+              <h3><a href="#avemaria"  data-backdrop="false" data-toggle="modal">Mercure Hotel</a></h3>
+              <div class="stars">User Ratings: 3 Star 
+              </div>			  
+              <p>1.2 km (2 min drive) from Summit venue</p>
+            </div>
+          </div>
+		  
+		  <div id="avemaria" class="modal fade" >
+			<div class="modal-dialog accommodationmodal">
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+
+					</div>
+					<div class="modal-body">
+						<h3>Mercure Hotel</h3>
+						<p>
+							<h3>
+								Rooms Available (with rates): 
+							</h3>	
+								<ul>
+									<li>Single Rate ($160)</li>
+									<li>Double Occupancy Rooms ($180)</li>
+								</ul> 
+                               
+						</p>
+                        <br>
+					</div>
+					<div class="modal-footer">
+					
+						<a id="loadpage" type="button" class="btn btn-primary" href="https://all.accor.com/ssr/app/accor/rates/C0D5/index.en.shtml?dateIn=2024-06-03&nights=4&compositions=1&stayplus=false&snu=false&accessibleRooms=false&hideWDR=false&hideHotelDetails=true" style="display: inline-block; color: #ffffff; font-size: 18px; font-weight: 700; text-transform: uppercase; height: 50px; line-height: 50px; padding: 0 25px; -webkit-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px;">Book a Room</a>
+						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+					</div>
+				</div>
+				<!-- /.modal-content -->
+			</div>
+			<!-- /.modal-dialog -->
+		  </div>
+
+
+		  
+		  <!-- Westpointe Suit and Apartments -->
+		  <div class="col-lg-4 col-md-6">
+            <div class="hotel">
+              <div class="hotel-img">
+                <img src="img/hotels/westpointe.jpg" alt="Westpointe Suit and Apartments" class="img-fluid">
+              </div>
+              <h3><a href="#westpointe"  data-backdrop="false" data-toggle="modal">Westpointe Suit and Apartments</a></h3>
+              <div class="stars">User Ratings: 3 Star 
+              </div>			  
+              <p>3.2 km (9 min drive) from Summit venue</p>
+            </div>
+          </div>
+		  
+		  <div id="westpointe" class="modal fade" >
+			<div class="modal-dialog accommodationmodal">
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+
+					</div>
+					<div class="modal-body">
+						<h3>Westpointe Suit and Apartments</h3>
+						<p>
+							<h3>
+								Rooms Available (with rates): 
+							</h3>	
+								<ul>
+									<li>Single Rate ($80)</li>
+									<li>Double Occupancy Rooms ($90)</li>
+								</ul> 
+                               
+						</p>
+                        <br>
+					</div>
+					<div class="modal-footer">
+					
+						<a id="loadpage" type="button" class="btn btn-primary" href="https://westpoint-suites-by-senga.nairobi-hotels-ke.com/en/" style="display: inline-block; color: #ffffff; font-size: 18px; font-weight: 700; text-transform: uppercase; height: 50px; line-height: 50px; padding: 0 25px; -webkit-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px;">Book a Room</a>
+						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+					</div>
+				</div>
+				<!-- /.modal-content -->
+			</div>
+			<!-- /.modal-dialog -->
+		  </div>
+
+
+
+
+             		  
+		  <!-- Sarova Stanley Hotel -->
+		  <div class="col-lg-4 col-md-6">
+            <div class="hotel">
+              <div class="hotel-img">
+                <img src="img/hotels/sarova.jpg" alt="Sarova Stanley Hotel" class="img-fluid">
+              </div>
+              <h3><a href="#sarova"  data-backdrop="false" data-toggle="modal">Sarova Stanley Hotel</a></h3>
+              <div class="stars">User Ratings: 4 Star 
+              </div>			  
+              <p>3.7 km (6 min drive) from Summit Venue</p>
+            </div>
+          </div>
+		  
+		  <div id="sarova" class="modal fade" >
+			<div class="modal-dialog accommodationmodal">
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+
+					</div>
+					<div class="modal-body">
+						<h3>Sarova Stanley Hotel</h3>
+						<p>
+							<h3>
+								Rooms Available (with rates): 
+							</h3>	
+								<ul>
+									<li>Single Rate ($150)</li>
+									<li>Double Occupancy Rooms ($180)</li>
+								</ul>
+								
+						</p>
+                        <br>
+					</div>
+					<div class="modal-footer">
+					
+						<a id="loadpage" type="button" class="btn btn-primary booking" target="blank" href="https://bookings.sarovahotels.com/en/hotel/profile/Kenya/hotel-Sarova-Stanley-322771.htm" style="display: inline-block; color: #ffffff; font-size: 18px; font-weight: 700; text-transform: uppercase; height: 50px; line-height: 50px; padding: 0 25px; -webkit-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px;">Book a Room</a>
+						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+					</div>
+				</div>
+				<!-- /.modal-content -->
+			</div>
+			<!-- /.modal-dialog -->
+		  </div>
+
+		  
+             		  
+		  <!--Clouds Hotels and Suites -->
+		  <div class="col-lg-4 col-md-6">
+            <div class="hotel">
+              <div class="hotel-img">
+                <img src="img/hotels/cloudshotel.jpg" alt="Clouds Hotels and Suites" class="img-fluid">
+              </div>
+              <h3><a href="#cloudshotel"  data-backdrop="false" data-toggle="modal">Clouds Hotels and Suites</a></h3>
+              <div class="stars">User Ratings: 3 Star 
+              </div>			  
+              <p>6.9 km (13 min drive) from Summit venue</p>
+            </div>
+          </div>
+		  
+		  <div id="cloudshotel" class="modal fade" >
+			<div class="modal-dialog accommodationmodal">
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+
+					</div>
+					<div class="modal-body">
+						<h3>Clouds Hotels and Suites</h3>
+						<p>
+							<h3>
+								Rooms Available (with rates): 
+							</h3>	
+								<ul>
+									<li>Single Rate ($60)</li>
+									<li>Double Occupancy Rooms ($85)</li>
+								</ul> 
+                               
+						</p>
+						<br>
+					</div>
+					<div class="modal-footer">
+					
+						<a id="loadpage" type="button" class="btn btn-primary booking" target="blank" href="http://cloudhotelsuites.com/" style="display: inline-block; color: #ffffff; font-size: 18px; font-weight: 700; text-transform: uppercase; height: 50px; line-height: 50px; padding: 0 25px; -webkit-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px;">Book a Room</a>
+						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+					</div>
+				</div>
+				<!-- /.modal-content -->
+			</div>
+			<!-- /.modal-dialog -->
+		  </div>
+
+             
+       		  
+		  <!-- Nairobi Serena Hotel  -->
+		  <div class="col-lg-4 col-md-6">
+            <div class="hotel">
+              <div class="hotel-img">
+                <img src="img/hotels/serena.jpg" alt="Nairobi Serena Hotel" class="img-fluid">
+              </div>
+              <h3><a href="#serena"  data-backdrop="false" data-toggle="modal">Nairobi Serena Hotel</a></h3>
+              <div class="stars">User Ratings: 4 Star 
+              </div>			  
+              <p>7.5 km (11 min drive) from Summit Venue</p>
+            </div>
+          </div>
+		  
+		  <div id="serena" class="modal fade" >
+			<div class="modal-dialog accommodationmodal">
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+
+					</div>
+					<div class="modal-body">
+						<h3>Nairobi Serena Hotel</h3>
+						<p>
+							<h3>
+								Rooms Available (with rates): 
+							</h3>	
+								<ul>
+									<li>Single Rate ($200)</li>
+									<li>Double Occupancy Rooms ($235)</li>
+								</ul> 
+                               
+						</p>
+                        <br>
+					</div>
+					<div class="modal-footer">
+					
+						<a id="loadpage" type="button" class="btn btn-primary booking" target="blank" href="https://reservations.serenahotels.com/17000#/guestsandrooms" style="display: inline-block; color: #ffffff; font-size: 18px; font-weight: 700; text-transform: uppercase; height: 50px; line-height: 50px; padding: 0 25px; -webkit-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px;">Book a Room</a>
+						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+					</div>
+				</div>
+				<!-- /.modal-content -->
+			</div>
+			<!-- /.modal-dialog -->
+		  </div>
+
+
+             		  
+		  <!-- Concord Hotel -->
+		  <div class="col-lg-4 col-md-6">
+            <div class="hotel">
+              <div class="hotel-img">
+                <img src="img/hotels/concord.jpg" alt="Concord Hotel" class="img-fluid">
+              </div>
+              <h3><a href="#concord"  data-backdrop="false" data-toggle="modal">Concord Hotel</a></h3>
+              <div class="stars">User Ratings: 4 Star 
+              </div>			  
+              <p>8.2 km (13 min drive) from the Summit venue</p>
+            </div>
+          </div>
+		  
+		  <div id="concord" class="modal fade" >
+			<div class="modal-dialog accommodationmodal">
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+
+					</div>
+					<div class="modal-body">
+						<h3>Concord Hotel</h3>
+						<p>
+							<h3>
+								Rooms Available (with rates): 
+							</h3>	
+								<ul>
+									<li>Single Rate ($100)</li>
+									<li>Double Occupancy Rooms ($125)</li>
+								</ul> 
+                               
+						</p>
+                        <br>
+					</div>
+					<div class="modal-footer">
+					
+						<a id="loadpage" type="button" class="btn btn-primary booking" target="blank" href="https://www.theconcordhotels.com/" style="display: inline-block; color: #ffffff; font-size: 18px; font-weight: 700; text-transform: uppercase; height: 50px; line-height: 50px; padding: 0 25px; -webkit-border-radius: 10px; -ms-border-radius: 10px; border-radius: 10px;">Book a Room</a>
+						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+					</div>
+				</div>
+				<!-- /.modal-content -->
+			</div>
+			<!-- /.modal-dialog -->
+		  </div>
+
+
+             		  
+		  
+		  <!-- Air BnB -->
+		  <div class="col-lg-4 col-md-6">
+            <div class="hotel">
+              <div class="hotel-img">
+                <img src="img/hotels/airbnb.jpg" alt="Air BnB" class="img-fluid">
+              </div>
+              <h3><a href="#airbnb"  data-backdrop="false" data-toggle="modal">Air BnB</a></h3>
+              <div class="stars">User Ratings: N/A 
+              </div>			  
+              <p>Varying distances  from Summit venue</p>
+            </div>
+          </div>
+		  
+		  <div id="airbnb" class="modal fade" >
+			<div class="modal-dialog accommodationmodal">
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+
+					</div>
+					<div class="modal-body">
+						<h3></h3>
+						<p>
+							<h3>
+								AirBnB Options: 
+							</h3>	
+								<ul>
+									<li>Options are available from as low as $40 per night</li>
+								</ul>
+								<br>
+								  
+						</p>
+                        <br>
+					</div>
+					<div class="modal-footer">
